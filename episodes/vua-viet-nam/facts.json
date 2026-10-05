@@ -1,0 +1,174 @@
+{
+ "n": 99,
+ "came": [
+  [
+   "son",
+   52
+  ],
+  [
+   "installed",
+   18
+  ],
+  [
+   "relative",
+   11
+  ],
+  [
+   "founded",
+   9
+  ],
+  [
+   "usurped",
+   5
+  ],
+  [
+   "unclear",
+   2
+  ],
+  [
+   "foreign",
+   2
+  ]
+ ],
+ "ended": [
+  [
+   "died_on_throne",
+   41
+  ],
+  [
+   "deposed",
+   16
+  ],
+  [
+   "killed",
+   13
+  ],
+  [
+   "abdicated",
+   13
+  ],
+  [
+   "unclear",
+   9
+  ],
+  [
+   "war_fall",
+   4
+  ],
+  [
+   "captured_exiled",
+   3
+  ]
+ ],
+ "median_reign": 8,
+ "records": [
+  [
+   "Trị vì lâu nhất",
+   "Lý Nhân Tông",
+   "55 năm"
+  ],
+  [
+   "Lên ngôi nhỏ tuổi nhất",
+   "Lê Nhân Tông",
+   "1 tuổi"
+  ],
+  [
+   "Sống thọ nhất",
+   "Bảo Đại",
+   "84 tuổi"
+  ],
+  [
+   "Mất sớm nhất",
+   "Lê Quang Trị",
+   "8 tuổi"
+  ]
+ ],
+ "heat": {
+  "Nhà Lý": [
+   7,
+   1,
+   0,
+   1
+  ],
+  "Nhà Trần": [
+   2,
+   2,
+   3,
+   6
+  ],
+  "Lê sơ": [
+   5,
+   5,
+   4,
+   0
+  ],
+  "Nhà Mạc": [
+   4,
+   1,
+   0,
+   2
+  ],
+  "Lê trung hưng": [
+   10,
+   2,
+   1,
+   3
+  ],
+  "Nhà Nguyễn": [
+   8,
+   3,
+   0,
+   0
+  ]
+ },
+ "legacy_top": [
+  [
+   "Đinh Tiên Hoàng",
+   4.0
+  ],
+  [
+   "Lý Thái Tổ",
+   4.0
+  ],
+  [
+   "Lý Thánh Tông",
+   4.0
+  ],
+  [
+   "Trần Nhân Tông",
+   4.0
+  ],
+  [
+   "Quang Trung",
+   4.0
+  ]
+ ],
+ "legacy_low": [
+  [
+   "Lý Cao Tông",
+   0.58
+  ],
+  [
+   "Lạng Sơn Vương",
+   0.55
+  ],
+  [
+   "Đại Định Đế",
+   0.46
+  ],
+  [
+   "Lê Cung Hoàng",
+   0.21
+  ],
+  [
+   "Lê Uy Mục",
+   0.0
+  ]
+ ],
+ "cost": {
+  "calls": 99,
+  "input_tokens": 133495,
+  "usd": 0.0056
+ },
+ "images": 53
+}

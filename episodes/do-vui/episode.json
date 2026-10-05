@@ -1,0 +1,885 @@
+{
+ "slug": "do-vui",
+ "title": "Đố vui lịch sử: AI tìm đáp án trong Wikipedia",
+ "accent": "#14b8a6",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · ĐỐ VUI",
+   "headline": "Đố AI: vua nào đổi quốc hiệu thành Đại Việt?",
+   "sub": "24 câu đố lịch sử. đáp án nằm đâu đó trong 5.095 đoạn văn Wikipedia. Có cả 4 câu bẫy"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · KHO TÀI LIỆU",
+   "title": "99 bài về các vua Việt Nam",
+   "cards": [
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Những buổi chầu trong điện không bị ngăn cấm người ngoài vào xem. Ta khi nhỏ thường hay vào sân rồng, thấy…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Nhưng trước kia thời Đinh, Lý, Trần không phải là không có người giết vua, cướp ngôi, ngay thời Mạc Đăng Dung…"
+    },
+    {
+     "icon": "📜",
+     "title": "Minh Mạng",
+     "sub": "Vua Minh Mạng không có thiện cảm với người châu Âu cũng như thái độ của người Á Đông trước đó, xem người Âu…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đinh Tiên Hoàng",
+     "sub": "\"Đế vương dấy nghiệp không ai không nhờ ở trời. Nhưng thánh nhân không cậy có mệnh trời mà làm hết phận sự…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Nước Việt ta từ đời Đinh, Lê, Lý, Trần gây dựng ra nước cho đến ngày nay, thánh minh dấy lên không phải là…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Tháng 2 âm lịch năm 1429, Lê Thái Tổ lệnh cho tập trận trong 5 đạo, cả thủy binh và bộ binh. Sau cuộc tập…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Ngọa Triều",
+     "sub": "Lê Long Đĩnh trong 4 năm cầm quyền đã 5 lần cầm quân đánh dẹp ở các vùng đất thuộc Hưng Yên, Phú Thọ, Tuyên…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Nhân Tông",
+     "sub": "Khoảng năm 1289–1290, sản xuất nông nghiệp bị đình trệ do sự chuyển biến thất thường của thời tiết. Theo Đại…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Thẩm",
+     "sub": "Sách Đại Việt sử lược và Việt sử Tiêu án không đề cập tới đoạn sau của Lý Thầm và Quách Bốc. Lý Thầm ngồi…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Chính Trung",
+     "sub": "Năm 1549, Mạc Kính Điển, Lê Bá Ly cùng hộ vệ Mạc Tuyên Tông lên ải Trấn Nam gặp sứ nhà Minh để biện bạch.…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Đối tác ngoại thương lớn nhất khi đó vẫn như truyền thống là Trung Quốc. Năm 1790, ông cử người thương thuyết…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Sau đó Lê Lợi liên tiếp cử các đoàn sứ giả sang triều đình nhà Minh xin lại người con gái ông bị bắt lúc 9…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Mục TôngMạc Anh Tổ",
+     "sub": "Tuy chúa Trịnh vẫn không buông tha, cuộc truy sát trả thù không hề chấm dứt nhưng ở làng Cổ Trai, xã Ngũ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Tự Đức",
+     "sub": "Ba năm sau đó, năm 1851, sự khoan dung này dành cho các linh mục bản xứ đột nhiên bị bãi bỏ. Từ đó dụ cấm đạo…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Anh Tông",
+     "sub": "Thân Mẫu: Linh Chiếu Hoàng hậu Lê thị (靈詔皇后黎氏),dòng dõi vua Lê Đại Hành, sơ phong Cảm Thánh Phu nhân (感聖夫人)."
+    },
+    {
+     "icon": "📜",
+     "title": "Hàm Nghi",
+     "sub": "Vũ Ngư Chiêu (2000). Các vua cuối nhà Nguyễn 1884-1945. Tập 3. Houston: Văn Hóa."
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Theo sách Lịch triều hiến chương loại chí, chính sách ruộng đất của Lê Thái Tổ gọi là phép quân điền. Triều…"
+    },
+    {
+     "icon": "📜",
+     "title": "Dương Bình Vương",
+     "sub": "Đền thờ Dương Tam Kha ở đền xóm Kiều Nguyễn, xã Tống Trân, huyện Phù Cừ, Hưng Yên."
+    },
+    {
+     "icon": "📜",
+     "title": "Hồ Quý Ly",
+     "sub": "Đến năm 1402, Hồ Hán Thương định cách thức thi cử nhân: Tháng 8 năm nay thi Hương, ai đỗ thì được miễn lao…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thế Tông",
+     "sub": "Tháng 11 âm lịch, mùa đông, Trịnh Tùng tiến đóng Bình Lục, rồi kéo đến bãi Tinh Thần thuộc Thanh Oai, đóng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Tháng 4 âm lịch năm Bính Tuất (1466), Thánh Tông lại đổi sáu viện thành sáu bộ như trước năm 1465, do Thượng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Dụ Tông",
+     "sub": "Tháng 6 năm 1366, Dụ Tông đi thuyền đến chơi nhà Thiếu úy Trần Ngô Lang tại hương Mễ Sở, ông chơi tới canh ba…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Quang Tổ",
+     "sub": "Năm 1624, tướng Trịnh Lệ mang quân đánh Kính Khoan, nhưng nội bộ các tướng Trịnh bất hoà nên lại phải rút về."
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Nhân Tông",
+     "sub": "Khâm Từ Hoàng hậu Trần Thị Trinh (欽慈皇后; ? – 1293), con gái trưởng của Hưng Đạo Đại vương Trần Quốc Tuấn và…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Thái Tông",
+     "sub": "Tháng 1 năm 1051, vua định lại phép khảo hạch các quan lại, sau đó thăng chức cho các quan làm việc lâu năm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thái Tông",
+     "sub": "Chiêu Minh Đại vương Trần Quang Khải (昭明大王陳光啟), mẹ là Thuận Thiên Hoàng hậu."
+    },
+    {
+     "icon": "📜",
+     "title": "Bảo Đại",
+     "sub": "Nam Phương Hoàng hậu Nguyễn Hữu Thị Lan (南芳皇后阮有氏蘭; 14 tháng 12 năm 1914 - 16 tháng 9 năm 1963), con gái của…"
+    },
+    {
+     "icon": "📜",
+     "title": "Bảo Đại",
+     "sub": "\"Vĩnh Thụy trở về với 10.000 quân viễn chinh Pháp, để giết hại thêm đồng bào Việt Nam. Vĩnh Thụy cam tâm bán…"
+    },
+    {
+     "icon": "📜",
+     "title": "Thái Đức",
+     "sub": "Ba anh em Tây Sơn, Nguyễn Nhạc, Nguyễn Lữ và Nguyễn Huệ được gọi là Tây Sơn tam kiệt. Các nguồn tài liệu về…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thái Tông",
+     "sub": "Khi ông ra đời, cha ông là Trần Thừa đang là Phụ quốc Thái úy của nhà Lý do có công phò tá vua Huệ Tông trong…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thái Tông",
+     "sub": "Nghe lời sư Đạo Viên và Trần Thủ Độ, Trần Thái Tông cùng bách quan trở về kinh đô, tiếp tục trị nước. Hai…"
+    },
+    {
+     "icon": "📜",
+     "title": "Tiền Ngô Vương",
+     "sub": "Sử gia Ngô Sĩ Liên nhận định trong sách Đại Việt Sử ký Toàn thư:"
+    },
+    {
+     "icon": "📜",
+     "title": "Tiền Ngô Vương",
+     "sub": "Đỗ phi: Bà Đỗ Thị Sa là người ở làng Dục Tú, huyện Đông Anh, Hà Nội hiện nay. Trước kia có đền thờ bà ở gần…"
+    },
+    {
+     "icon": "📜",
+     "title": "Hồ Quý Ly",
+     "sub": "Do là anh em bên ngoại nên Hồ Quý Ly được vua Nghệ Tông tín nhiệm. Năm 1371, Quý Ly được làm Khu mật viện đại…"
+    },
+    {
+     "icon": "📜",
+     "title": "Hồ Quý Ly",
+     "sub": "Tiền giấy chẳng qua chỉ là mảnh giấy vuông, phí tổn chỉ đáng 5, 3 đồng tiền mà đổi lấy vật đáng 5, 6 trăm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Anh Tông",
+     "sub": "Đệ nhị Cung phi Nguyễn Thị La, sinh ngày mồng 7 tháng 3 năm Bính Dần 1266, quê quán ở ấp Dưỡng Phúc nay là…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Anh Tông",
+     "sub": "Hiền phi Trần Thị Thái Bình (賢妃陳太平) mẹ sinh của Huy Chân Công chúa, tính tình tham lam, từng chiếm ruộng đất…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Bảo vệ quyền lợi của vua và quan lại, bảo vệ quyền lợi của giai cấp thống trị địa chủ phong kiến."
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Hiến Tông",
+     "sub": "Ông là người chú trọng chăm sóc bảo vệ đê điều, đào sông, khai ngòi, đắp đường, trông coi việc nông trang làm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Duệ Tông",
+     "sub": "Vua ương gàn cố chấp, không nghe lời can, khinh thường quân giặc, nên mang họa vào thân chứ không phải là do…"
+    },
+    {
+     "icon": "📜",
+     "title": "Thiệu Trị",
+     "sub": "Nước Cao Miên được lập lại, vua mới là Sá Ong Giun (Ang Duong, em trai của vua cũ Nặc Chăn - Ang Chan II) làm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thuận Tông",
+     "sub": "Thuận Tông Hoàng đế lên ngôi còn nhỏ tuổi, mọi việc trong ngoài đều không nắm được, tất cả đều do Nghệ Hoàng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Dụ Tông",
+     "sub": "Các gian thần kéo bè kết đảng lũng đoạn triều chính. Thấy triều chính hỗn loạn, danh nho Chu Văn An dâng Thất…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Duệ Tông",
+     "sub": "Do Đại Việt thường bị Chiêm Thành xâm lấn, Duệ Tông ra sức xây dựng quân đội hòng muốn dùng binh lực áp chế…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Cảnh Tông",
+     "sub": "Theo ghi chép trong cuốn Gia phả cổ của chi họ Hoàng gốc Mạc ở đây thì bến Thảo Tân nằm cách làng Lưu Thượng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Năm 1469, quân Chiêm Thành vượt biển sang đánh phá châu Hóa. Năm 1470, Trà Toàn sai sứ thần sang cầu viện đế…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đinh Tiên Hoàng",
+     "sub": "Hai bên đánh nhau hơn một tháng không phân thắng bại, hai vương bèn treo Liễn lên ngọn sào, sai người bảo Bộ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Rút lại Nhà Mạc thường bị lên án về ba tội: cướp ngôi Nhà Lê, cắt đất của Tổ quốc dâng cho Nhà Minh, đầu hàng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thần Tông",
+     "sub": "Tháng 5 năm Canh Ngọ (1630), chúa Trịnh Tráng ép vua Lê Thần Tông phải lấy con gái của mình là Trịnh Thị Ngọc…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Anh Tông",
+     "sub": "Từ Ý Thái Hòa Đệ Tam Cung phi Nguyễn Nguyệt Ảnh, sinh năm 1280, mất ngày 14 tháng 4 năm Mậu Tuất, Quê tại…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thánh Tông",
+     "sub": "Ở Thăng Long mà không có lương thực, Thoát Hoan lúng túng. Không những thế, quân Đại Việt đã phản công mạnh…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tông",
+     "sub": "Đến tháng 3 âm lịch năm 1440, Thái Tông thân chinh đánh thổ quan Nghiễm nổi dậy ở châu Thuận Mỗi (trấn Gia…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Thái Tổ",
+     "sub": "Vua còn bị các sử gia đời sau phê phán về việc chưa coi trọng phát triển nền giáo dục cho đất nước. Các bộ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Chiêu Tông",
+     "sub": "Tháng 8 âm lịch năm 1516, quan quân bắt được thuộc tướng của Trần Cảo là Phan Ất ở huyện Đông Triều, đóng cũi…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Ở phía Tây, quan hệ giữa Đại Việt với Lão Qua (Lào, sử Việt còn viết là Ai Lao) đã căng thẳng từ đầu triều…"
+    },
+    {
+     "icon": "📜",
+     "title": "Khải Định",
+     "sub": "Mộc bản kinh Lăng Nghiêm của chùa Diệu Đế khắc năm 1922 (Lăng Nghiêm tập chú đô thành Diệu Đế tự tàng bản)…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đồng Khánh",
+     "sub": "Mẹ: Bùi Thị Thanh (裴氏清), truy phong Thuần Nghị Kiên Thái Vương phi (純毅堅太王妃)."
+    },
+    {
+     "icon": "📜",
+     "title": "Tiền Ngô Vương",
+     "sub": "Sự đa dạng này phản ánh đặc điểm của văn hóa thờ cúng truyền thống Việt Nam, nơi ký ức lịch sử được lưu giữ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Duy Tân",
+     "sub": "Pháp bắt triều đình Huế phải xử, Hội đồng xét xử: Tham tri bộ Hình Hoàng Quảng Phu, Thị lang bộ Binh kiêm Phó…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Do",
+     "sub": "Có những thông tin khác nhau về thân thế của Lê Do. Theo Đại Việt sử ký toàn thư dẫn: Lê Do là con của Tĩnh…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Thái Tổ",
+     "sub": "Năm 2004, một tượng đài Lý Thái Tổ được xây dựng tại trục đ­ường Đinh Tiên Hoàng thuộc khu vực vườn hoa Chí…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Ban nghiên cứu và biên soạn lịch sử Thanh Hóa (2004). Danh nhân Thanh Hóa. Quyển 2. Thanh Hóa: Nhà xuất bản…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "GS Trần Gia Phụng (\"Những cuộc đổi họ lớn trong lịch sử\") có những lời bình luận:"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "\"Trẫm vừa xem hết tờ sớ, ngươi bảo là trẫm không chú ý kinh, sử, lại chuộng lối học phù hoa, vô dụng, chỉ ngụ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Trong bài thơ Lịch sử nước ta, Hồ Chí Minh ca ngợi ông:"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Túc Tông",
+     "sub": "Lê Túc Tông tên là Lê Thuần (黎㵮) sinh ngày 1 tháng 8 âm lịch (6 tháng 9 dương lịch) năm Mậu Thân (1488), là…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đại Định Đế",
+     "sub": "Trong hoàng gia Đại Việt, Cung Túc vương Nguyên Dục là con đích trưởng của vua Trần Minh Tông với Hiến Từ…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Người ta còn truyền khẩu câu chuyện đối đáp, khi nữ tướng Bùi Thị Xuân bị bắt, Nguyễn Ánh bèn sai người áp…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Quân thủy của Quang Trung sẽ tiến vào đón lõng tận Hà Tiên đổ bộ lên đất liền để ngăn Nguyễn Ánh chạy ra biển."
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Minh Tông",
+     "sub": "Triều Môn Thứ phi Trần thị ( 朝門次妃陳氏 ), sinh Trần Nguyên Trác."
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Ngọa Triều",
+     "sub": "Phả hệ họ Lê Lưu trữ ngày 18 tháng 4 năm 2014 tại Wayback Machine"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Thân phụ: Lê Khoáng được truy tôn là Tuyên Tổ Hiến Văn Duệ Triết Phúc Hoàng đế. Giỗ ngày 17/10 âm lịch, táng…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đinh Tiên Hoàng",
+     "sub": "Kiều Công Hãn tự xưng Kiều Tam Chế, giữ Phong Châu (nay ở 2 phường Thanh Miếu và Việt Trì, tỉnh Phú Thọ)."
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Xét về nhiều mặt, đánh giá về Mạc Đăng Dung phức tạp hơn hẳn so với những nhân vật lịch sử gây tranh cãi khác…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Anh Tông",
+     "sub": "Quỳnh Cư, Đỗ Đức Hùng (2001), Các triều đại Việt Nam, Nhà Xuất bản Thanh niên."
+    },
+    {
+     "icon": "📜",
+     "title": "Ngô Sứ Quân",
+     "sub": "Năm 944, Ngô Quyền mất, ủy thác con trưởng Ngô Xương Ngập cho Dương Tam Kha - em của Dương hậu, vợ Ngô Quyền.…"
+    },
+    {
+     "icon": "📜",
+     "title": "Tự Đức",
+     "sub": "Năm 1882, Thống đốc Nam Kỳ Charles Le Myre de Vilers gởi thư cho triều đình Huế nói rằng vua ngu tối, bất…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Chân Tông",
+     "sub": "Bổn Vương hỏi đùa đó thôi, sao ngươi lại kiêu hãnh thế. Hoàng thượng của ngươi cũng ở trong tay bổn Vương,…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Chuyện về thanh Định nam đao của Mạc Thái Tổ Vũ Hữu Sự 31/08/2011, 11:3 (GMT+7)"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Mục TôngMạc Anh Tổ",
+     "sub": "Trong khi đó thì Mạc Mậu Hợp lại sống xa hoa, kiêu ngạo, hay nghe xiểm nịnh, thường ít lắng nghe lời bàn…"
+    },
+    {
+     "icon": "📜",
+     "title": "Đồng Khánh",
+     "sub": "Tháng 2 âm lịch năm Đồng Khánh thứ 2 (1887), nhà vua xuống dụ quở mắng các bà trong nội cung là \"cam tâm vứt…"
+    },
+    {
+     "icon": "📜",
+     "title": "Tiền Ngô Vương",
+     "sub": "Trần Quốc Vượng (2009), Hà Nội như tôi hiểu; Nhà Xuất bản Thời đại."
+    },
+    {
+     "icon": "📜",
+     "title": "Thái Đức",
+     "sub": "Phong Nguyễn Lữ làm Đông Định Vương, cai quản vùng đất Gia Định."
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Đại Hành",
+     "sub": "Nhà Tiền Lê Lưu trữ ngày 29 tháng 4 năm 2023 tại Wayback Machine trên trang Bộ Ngoại giao Việt Nam."
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Dụ Tông",
+     "sub": "Năm 1351, Ngự y Trâu Canh thấy Dụ Tông bị liệt dương, bèn dâng phương thuốc nói rằng giết đứa bé con trai,…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Duệ Tông",
+     "sub": "Trần Duệ Tông tiếp tục đường lối của cha ông, liên tục tuyển chọn nhân tài cho quốc gia. Sử cũ chép: \"Ất Mão…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Huệ Tông",
+     "sub": "Theo Đại Việt Sử ký Toàn thư:Sử thần Ngô Sĩ Liên nói: Vào thời Huệ Tông, mối họa trong thiên hạ đã sâu. Mà…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Ngày 12 tháng 12 âm lịch năm 1427, Phương Chính, Mã Kỳ tới dinh Bồ Đề cáo biệt Lê Lợi, ở lại suốt một buổi…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Một tướng người Nghệ An theo phe quận Huy là Tham quân Nguyễn Hữu Chỉnh vốn hào hoa, can đảm, nhiều mưu trí…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Sau khi đánh đuổi được hai thế lực Nguyễn Hoằng Dụ và Trịnh Tuy, quyền thế của Trần Chân ngày càng lớn. Mạc…"
+    },
+    {
+     "icon": "📜",
+     "title": "Gia Long",
+     "sub": "Lục đệ: Nguyễn Phúc Biển [阮福晪, ? - 1783], mẹ là Ý Tĩnh Khang hoàng hậu, em cùng mẹ, được tặng Thông Hoá Trung…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Hành động của vua Lê, kêu gọi người nước ngoài về đánh nước mình, trong đó có ý kiến cố vấn của Nguyễn Kim,…"
+    },
+    {
+     "icon": "📜",
+     "title": "Minh Mạng",
+     "sub": "Dưới thời Minh Mạng, việc khẩn hoang rất được khuyến khích. Nhà vua cho quan lại mộ dân lập những ấp mới ở…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thái Tổ",
+     "sub": "Tháng 5 năm 1429, Lê Lợi lại ban biển ngạch công thần cho 93 người (những người tên chữ nghiêng đều được cải…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Nguyễn Hữu Chỉnh dẫn thủy binh đi trước, đi qua đất Thanh Nghệ, dừng lại sai du binh vài trăm người đánh các…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Cao Tông",
+     "sub": "Đầu năm 1209, Cao Tông sai Phạm Du coi việc quân ở châu Nghệ An. Bấy giờ miền này đang đói lớn, số người bị…"
+    },
+    {
+     "icon": "📜",
+     "title": "Thành Thái",
+     "sub": "Thành Thái được đánh giá là người cầu tiến, yêu nước và chống Pháp. Khác với những vị vua trước đây, ông học…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tông",
+     "sub": "Tháng 8 năm 1530, sau khi lên ngôi, Mạc Thái Tông hội binh ở huyện Hoằng Hóa đánh Lê Ý, sai Mạc Quốc Trinh…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Lê Thánh Tông là người dẫn đầu phong trào mới này, cả về nghệ thuật thể hiện, cả về tư tưởng triết học. Thánh…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Đại Hành",
+     "sub": "Năm 968, Đinh Bộ Lĩnh lên ngôi, tức vua Đinh Tiên Hoàng, đặt quốc hiệu là Đại Cồ Việt. Năm 971, Đinh Tiên…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Duy Phường",
+     "sub": "Cùng tháng đó, do tác động của Trịnh Cương, Lê Dụ Tông lui về điện Càn Thọ làm Thái thượng hoàng, truyền ngôi…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Nhân Tông",
+     "sub": "Tháng 12, năm 1124, tiểu thủ lĩnh châu Quảng Nguyên là Mạc Hiền và phe đảng bộ thuộc trốn sang động Cống ở…"
+    },
+    {
+     "icon": "📜",
+     "title": "Hồ Quý Ly",
+     "sub": "Hồ Quý Ly được xem là một nhà cải cách trong lịch sử Việt Nam và cũng là một nhân vật gây tranh cãi với những…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Cung Hoàng",
+     "sub": "Con trai của Lê Chiêu Tông là Lê Ninh cùng mẹ được quan đại thần Lê Quán cõng chạy trốn sang Ai Lao để bảo…"
+    },
+    {
+     "icon": "📜",
+     "title": "Gia Long",
+     "sub": "Nguyễn Phúc Ngọc Tuyền [阮福玉璿; ? - 1782], mẹ là Nguyễn Từ phi, chết khi bị giặc Tây Sơn làm nhục. Về sau truy…"
+    },
+    {
+     "icon": "📜",
+     "title": "Bảo Đại",
+     "sub": "Đầu năm 1947, D'Argenlieu bị triệu tập về nước do bị người Việt Nam và các đảng phái cánh tả Pháp căm ghét.…"
+    },
+    {
+     "icon": "📜",
+     "title": "Mạc Thái Tổ",
+     "sub": "Sau một thời gian dài lấy ý kiến các tầng lớp nhân dân và các nhà nghiên cứu lịch sử - văn hóa, sáng ngày 25…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thánh Tông",
+     "sub": "Tương tự như vua cha Trần Thái Tông, vấn đề tên gọi của Trần Thánh Tông có nhiều tranh cãi, nhất là khi dựa…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Cung Hoàng",
+     "sub": "Chiêu Tông bị giết, vai trò lá chắn của Cung Hoàng không còn. Đăng Dung tính chuyện cướp ngôi nhà Lê, giả…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lạng Sơn Vương",
+     "sub": "Ngày 3 tháng 10 năm Kỷ Mão (1459) Lê Nghi Dân cùng viên chỉ huy sứ Lê Đắc Ninh, là người chỉ huy vệ binh làm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Tự Đức",
+     "sub": "Năm 1854, năm Tự Đức thứ 7, ở tỉnh Sơn Tây có một nhóm người đem Lê Duy Cự là hậu duệ của triều Lê ra lập làm…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Nhân Tông",
+     "sub": "Tác phẩm của Lý Nhân Tông hiện chỉ còn ba bài thơ, một vài bức thư gửi triều đình nhà Tống, bốn bài hịch và…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Le Thanh Tong (emperor of Vietnam) tại Encyclopædia Britannica (bằng tiếng Anh)"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Túc Tông",
+     "sub": "Ngày 8 tháng 11 âm lịch (13 tháng 12 dương lịch) năm 1504, linh cữu Lê Hiến Tông được mai táng ở Dụ Lăng, Lam…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Hà Nhậm Đại, sĩ phu đời Mạc làm quan đến chức Lễ bộ Thượng thư, có bài thơ vịnh Thánh Tông Thuần Hoàng đế,…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Hiến Tông",
+     "sub": "Trần Hiến Tông tên húy là Trần Vượng (陳旺),tên ngoại giao là Trần Nhật Phụ (陳日㷆), Trần Đoan Ngọ (陈端午), là con…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lý Thái Tông",
+     "sub": "Lý Thái Tông dâng biểu sang Trung Quốc xin mang quân phối hợp đánh Trí Cao thì được vua Tống ưng thuận. Thái…"
+    },
+    {
+     "icon": "📜",
+     "title": "Trần Thánh Tông",
+     "sub": "Lê Tắc (1961). An Nam chí lược. Ủy ban phiên dịch sử liệu Việt Nam biên dịch. Viện Đại học Huế.{{Chú thích…"
+    },
+    {
+     "icon": "📜",
+     "title": "Lê Thánh Tông",
+     "sub": "Phan, Huy Chú (2007). Lịch triều hiến chương loại chí. Quyển 2. Viện Sử học - Viện Khoa học Xã hội Việt Nam…"
+    },
+    {
+     "icon": "📜",
+     "title": "Quang Trung",
+     "sub": "Những cải cách của Quang Trung có nhiều mặt tích cực, đã đưa đất nước nhanh chóng vượt qua cuộc khủng hoảng…"
+    }
+   ],
+   "total": 5095,
+   "totalLabel": "đã chia",
+   "unit": "đoạn văn",
+   "cols": 3,
+   "cardH": 200,
+   "credit": "Toàn văn bài về 99 vị vua trên Wikipedia tiếng Việt (CC BY-SA)"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · TÌM RỒI XẾP LẠI",
+   "title": "Từ khóa tìm nhanh, Jev xếp lại",
+   "cookbook": "Re-ranking · Parallel questions",
+   "idea": "Từ khóa lấy 30 đoạn ứng viên. Jev hỏi 30 câu trong một lần gọi: đoạn này có trả lời không?",
+   "stateLines": [
+    "Câu hỏi: Vua nào đổi quốc hiệu thành Đại Việt?",
+    "Từ khóa xếp đầu: Minh Mạng · đáp án ở hạng 3"
+   ],
+   "questions": [
+    {
+     "name": "p2",
+     "kind": "Noul",
+     "text": "Đoạn về Lý Thánh Tông"
+    },
+    {
+     "name": "p5",
+     "kind": "Noul",
+     "text": "Đoạn về Lê Thái Tổ"
+    },
+    {
+     "name": "p10",
+     "kind": "Noul",
+     "text": "Đoạn về Lê Thái Tổ"
+    }
+   ],
+   "results": [
+    {
+     "name": "p2",
+     "value": "97%",
+     "tone": "good"
+    },
+    {
+     "name": "p5",
+     "value": "92%",
+     "tone": "muted"
+    },
+    {
+     "name": "p10",
+     "value": "90%",
+     "tone": "muted"
+    }
+   ],
+   "footer": "Jev đưa đoạn về Lý Thánh Tông lên đầu: \"Ngay sau khi lên ngôi, năm 1054, Lý Thánh Tông đã đổi tên nước từ Đại Cồ Việt thành Đại…\""
+  },
+  {
+   "type": "judge",
+   "key": "judge",
+   "step": "BƯỚC 3 · TỪNG CÂU ĐỐ",
+   "title": "Câu trả lời nằm ở dòng nào?",
+   "cookbook": "Line-by-line search",
+   "items": [
+    {
+     "card": {
+      "icon": "❓",
+      "title": "Vua nào đổi quốc hiệu thành Đại Việt?",
+      "sub": "Ngay sau khi lên ngôi, năm 1054, Lý Thánh Tông đã đổi tên nước từ Đại Cồ Việt thành Đại Việt.",
+      "lines": [
+       "Từ khóa xếp đầu: Minh Mạng"
+      ]
+     },
+     "pass": true,
+     "stamp": "JEV: LÝ THÁNH TÔNG",
+     "metrics": [
+      {
+       "label": "Jev chấm đoạn đứng đầu",
+       "value": 0.97,
+       "text": "97%",
+       "tone": "good"
+      },
+      {
+       "label": "Từ khóa xếp đáp án",
+       "value": 0.3333333333333333,
+       "text": "hạng 3",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "❓",
+      "title": "Ai đánh tan quân Nam Hán trên sông Bạch Đằng năm 938?",
+      "sub": "Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc…",
+      "lines": [
+       "Từ khóa xếp đầu: Dương Bình Vương"
+      ]
+     },
+     "pass": true,
+     "stamp": "JEV: TIỀN NGÔ VƯƠNG",
+     "metrics": [
+      {
+       "label": "Jev chấm đoạn đứng đầu",
+       "value": 0.98,
+       "text": "98%",
+       "tone": "good"
+      },
+      {
+       "label": "Từ khóa xếp đáp án",
+       "value": 0.3333333333333333,
+       "text": "hạng 3",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "❓",
+      "title": "Ai lập ra nhà Nguyễn và lên ngôi hoàng đế năm 1802?",
+      "sub": "8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), hay còn gọi là Nguyễn Thế Tổ (阮世祖), là Hoàng đế đã thành lập nhà Nguyễn, vương triều…",
+      "lines": [
+       "Từ khóa xếp đầu: Thái Đức"
+      ]
+     },
+     "pass": true,
+     "stamp": "JEV: GIA LONG",
+     "metrics": [
+      {
+       "label": "Jev chấm đoạn đứng đầu",
+       "value": 0.97,
+       "text": "97%",
+       "tone": "good"
+      },
+      {
+       "label": "Từ khóa xếp đáp án",
+       "value": 0.14285714285714285,
+       "text": "hạng 7",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "❓",
+      "title": "Vua nào chạy sang nhà Thanh cầu viện?",
+      "sub": "Tháng Giêng năm Kỷ Dậu (1789), Quang Trung kéo quân ra Bắc Hà, chỉ một trận quét sạch 29 vạn quân Thanh, Chiêu Thống phải theo…",
+      "lines": [
+       "Từ khóa xếp đầu: Thái Đức"
+      ]
+     },
+     "pass": true,
+     "stamp": "JEV: LÊ CHIÊU THỐNG",
+     "metrics": [
+      {
+       "label": "Jev chấm đoạn đứng đầu",
+       "value": 0.91,
+       "text": "91%",
+       "tone": "good"
+      },
+      {
+       "label": "Từ khóa xếp đáp án",
+       "value": 0.3333333333333333,
+       "text": "hạng 3",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "❓",
+      "title": "Vua nào từng vô địch World Cup?",
+      "sub": "Từ khóa vẫn trả về một đoạn về Lê Thánh Tông",
+      "lines": [
+       "Jev: không đoạn nào trả lời"
+      ]
+     },
+     "pass": true,
+     "stamp": "KHÔNG CÓ ĐÁP ÁN",
+     "metrics": [
+      {
+       "label": "Điểm cao nhất của Jev",
+       "value": 0.08,
+       "text": "8%",
+       "tone": "bad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "score",
+   "step": "BƯỚC 4 · CHẤM ĐIỂM",
+   "title": "Ai trả lời đúng hơn?",
+   "bars": [
+    {
+     "label": "Chỉ tìm từ khóa",
+     "value": 0.75,
+     "text": "15/20",
+     "sub": "đoạn đứng đầu đúng bài",
+     "tone": "muted"
+    },
+    {
+     "label": "Từ khóa + Jev xếp lại",
+     "value": 0.95,
+     "text": "19/20",
+     "sub": "đoạn đứng đầu đúng bài",
+     "tone": "good"
+    },
+    {
+     "label": "Câu bẫy: biết nói không có",
+     "value": 1.0,
+     "text": "4/4",
+     "sub": "từ khóa thì luôn trả về một đoạn",
+     "tone": "warn"
+    }
+   ],
+   "note": "Câu sai duy nhất của Jev (đánh Tống năm 981) vẫn chỉ đúng câu \"Lê Hoàn đánh bại quân Tống\", chỉ là nằm trong bài của vua khác."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "19/20 câu đúng, 4/4 câu bẫy",
+   "tagline": "Tìm từ khóa thì nhanh nhưng hay chọn nhầm đoạn. Jev xếp lại thì đúng hơn, và biết nói không có khi tài liệu không có đáp án.",
+   "stats": [
+    {
+     "value": "5.095",
+     "label": "đoạn văn"
+    },
+    {
+     "value": "24",
+     "label": "câu đố"
+    },
+    {
+     "value": "0,8 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [],
+   "gridTitle": "Vài câu đố và đáp án Jev tìm được",
+   "gridCols": 1,
+   "grid": [
+    {
+     "label": "Vua nào ban Chiếu dời đô từ Hoa Lư ra …",
+     "value": "Lý Thái Tổ"
+    },
+    {
+     "label": "Ai là nữ hoàng đế duy nhất trong lịch …",
+     "value": "Lý Chiêu Hoàng"
+    },
+    {
+     "label": "Vua nào cho phát hành tiền giấy Thông …",
+     "value": "Hồ Quý Ly"
+    },
+    {
+     "label": "Vua nào đổi quốc hiệu thành Đại Nam?",
+     "value": "Minh Mạng"
+    },
+    {
+     "label": "Vị vua nào trị vì lâu nhất trong lịch …",
+     "value": "Lý Nhân Tông"
+    }
+   ],
+   "footnote": "20 câu đố có đáp án và 4 câu bẫy do mình đặt; kho tài liệu chỉ gồm 99 bài về các vua. BM25 là cách tìm từ khóa đơn giản."
+  }
+ ]
+}

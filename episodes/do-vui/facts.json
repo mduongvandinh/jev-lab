@@ -1,0 +1,349 @@
+{
+ "paragraphs": 5095,
+ "real": 20,
+ "bm25_top1": 15,
+ "jev_top1": 19,
+ "traps": 4,
+ "trap_ok": 4,
+ "trap_scores": [
+  0.17,
+  0.08,
+  0.11,
+  0.09
+ ],
+ "cost": {
+  "calls": 44,
+  "input_tokens": 182478,
+  "usd": 0.0077
+ },
+ "results": {
+  "q1": {
+   "q": "Vua nào ban Chiếu dời đô từ Hoa Lư ra thành Đại La?",
+   "trap": false,
+   "bm_top": "Lý Thái Tổ",
+   "bm_ok": true,
+   "jev_top": "Lý Thái Tổ",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.94,
+   "line": "Một trong những thành tựu nổi trội nhất của vua là việc dời đô từ Hoa Lư (Ninh Bình) về Đại La (Hà Nội) vào năm 1010, đổi tên thành Thăng Long, mở đầu cho sự phát triển lâu dài của nhà Lý, và cũng chính thức khởi đầu lịch sử hơn 1000 năm của thủ đô Thăng Long - Hà Nội.",
+   "gold": [
+    "Lý Thái Tổ"
+   ]
+  },
+  "q2": {
+   "q": "Ai đánh tan quân Nam Hán trên sông Bạch Đằng năm 938?",
+   "trap": false,
+   "bm_top": "Dương Bình Vương",
+   "bm_ok": false,
+   "jev_top": "Tiền Ngô Vương",
+   "jev_ok": true,
+   "bm_rank": 3,
+   "score": 0.98,
+   "line": "Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam.",
+   "gold": [
+    "Tiền Ngô Vương"
+   ]
+  },
+  "q3": {
+   "q": "Vua nào dẹp loạn 12 sứ quân và đặt quốc hiệu Đại Cồ Việt?",
+   "trap": false,
+   "bm_top": "Đinh Tiên Hoàng",
+   "bm_ok": true,
+   "jev_top": "Đinh Tiên Hoàng",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.96,
+   "line": "Ông là người có công đánh dẹp loạn 12 sứ quân, thống nhất giang sơn và trở thành hoàng đế đầu tiên của Việt Nam sau thời Bắc thuộc.",
+   "gold": [
+    "Đinh Tiên Hoàng"
+   ]
+  },
+  "q4": {
+   "q": "Vua nào đổi quốc hiệu thành Đại Việt?",
+   "trap": false,
+   "bm_top": "Minh Mạng",
+   "bm_ok": false,
+   "jev_top": "Lý Thánh Tông",
+   "jev_ok": true,
+   "bm_rank": 3,
+   "score": 0.97,
+   "line": "Ngay sau khi lên ngôi, năm 1054, Lý Thánh Tông đã đổi tên nước từ Đại Cồ Việt thành Đại Việt.",
+   "gold": [
+    "Lý Thánh Tông"
+   ]
+  },
+  "q5": {
+   "q": "Ai là nữ hoàng đế duy nhất trong lịch sử Việt Nam?",
+   "trap": false,
+   "bm_top": "Lý Chiêu Hoàng",
+   "bm_ok": true,
+   "jev_top": "Lý Chiêu Hoàng",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.97,
+   "line": "Bà là Nữ Hoàng duy nhất trong lịch sử Việt Nam, nhưng không phải là vị vua nữ giới đầu tiên, vị nữ quân chủ đầu tiên là Nữ Vương Trưng Trắc.",
+   "gold": [
+    "Lý Chiêu Hoàng"
+   ]
+  },
+  "q6": {
+   "q": "Vua nào lập ra Thiền phái Trúc Lâm và được gọi là Phật Hoàng?",
+   "trap": false,
+   "bm_top": "Trần Nhân Tông",
+   "bm_ok": true,
+   "jev_top": "Trần Nhân Tông",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.98,
+   "line": "Ông trị vì từ ngày 8 tháng 11 năm 1278 đến ngày 16 tháng 4 năm 1293, sau đó làm Thái thượng hoàng rồi xuất gia và sáng lập ra Thiền phái Trúc Lâm Yên Tử cho đến khi qua đời.",
+   "gold": [
+    "Trần Nhân Tông"
+   ]
+  },
+  "q7": {
+   "q": "Vua nào cho phát hành tiền giấy Thông bảo hội sao?",
+   "trap": false,
+   "bm_top": "Trần Thuận Tông",
+   "bm_ok": false,
+   "jev_top": "Hồ Quý Ly",
+   "jev_ok": true,
+   "bm_rank": 2,
+   "score": 0.94,
+   "line": "Từ năm 1396, trước khi lên ngôi, Hồ Quý Ly đã cho phát thứ tiền giấy gọi là Thông bảo hội sao.",
+   "gold": [
+    "Hồ Quý Ly"
+   ]
+  },
+  "q8": {
+   "q": "Vua nào đánh tan quân Thanh ở Ngọc Hồi – Đống Đa?",
+   "trap": false,
+   "bm_top": "Quang Trung",
+   "bm_ok": true,
+   "jev_top": "Quang Trung",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.95,
+   "line": "Hàng năm, vào ngày mồng 5 Tết âm lịch, tại quận Đống Đa – Hà Nội thường tổ chức hội Gò Đống Đa để kỷ niệm chiến thắng Ngọc Hồi – Đống Đa đánh tan quân Thanh của vua Quang Trung.",
+   "gold": [
+    "Quang Trung"
+   ]
+  },
+  "q9": {
+   "q": "Vua nào cho ban hành bộ luật Hồng Đức?",
+   "trap": false,
+   "bm_top": "Lê Thánh Tông",
+   "bm_ok": true,
+   "jev_top": "Lê Thánh Tông",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.97,
+   "line": "Ông là người đã ban hành Bộ Luật Hồng Đức.",
+   "gold": [
+    "Lê Thánh Tông"
+   ]
+  },
+  "q10": {
+   "q": "Vị vua cuối cùng của nhà Nguyễn thoái vị năm nào?",
+   "trap": false,
+   "bm_top": "Bảo Đại",
+   "bm_ok": true,
+   "jev_top": "Bảo Đại",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.95,
+   "line": "Theo lời yêu cầu của hai người này, chiều ngày 30 tháng 8 năm 1945, Bảo Đại đã đọc Tuyên ngôn Thoái vị trước hàng ngàn người tụ họp trước cửa Ngọ Môn và sau đó trao ấn tín và bảo kiếm, quốc bảo của hoàng triều cho Trần Huy Liệu.",
+   "gold": [
+    "Bảo Đại"
+   ]
+  },
+  "q11": {
+   "q": "Ai lập ra nhà Nguyễn và lên ngôi hoàng đế năm 1802?",
+   "trap": false,
+   "bm_top": "Thái Đức",
+   "bm_ok": false,
+   "jev_top": "Gia Long",
+   "jev_ok": true,
+   "bm_rank": 7,
+   "score": 0.97,
+   "line": "8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), hay còn gọi là Nguyễn Thế Tổ (阮世祖), là Hoàng đế đã thành lập nhà Nguyễn, vương triều phong kiến cuối cùng trong lịch sử Việt Nam.",
+   "gold": [
+    "Gia Long"
+   ]
+  },
+  "q12": {
+   "q": "Vua nào ra chiếu Cần Vương kêu gọi chống Pháp?",
+   "trap": false,
+   "bm_top": "Hàm Nghi",
+   "bm_ok": true,
+   "jev_top": "Hàm Nghi",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.95,
+   "line": "Sau khi cuộc phản công tại kinh thành Huế thất bại năm 1885, Tôn Thất Thuyết đưa ông ra ngoài và phát chiếu Cần Vương chống thực dân Pháp.",
+   "gold": [
+    "Hàm Nghi"
+   ]
+  },
+  "q13": {
+   "q": "Vua nào bị thực dân Pháp đày sang đảo Réunion?",
+   "trap": false,
+   "bm_top": "Duy Tân",
+   "bm_ok": true,
+   "jev_top": "Duy Tân",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.93,
+   "line": "Tuy nhiên, dự định bại lộ và Duy Tân bị bắt ngày 6 tháng 5 và đến ngày 3 tháng 11 năm 1916 ông bị đem an trí trên đảo Réunion ở Ấn Độ Dương.",
+   "gold": [
+    "Duy Tân"
+   ]
+  },
+  "q14": {
+   "q": "Ai là người sáng lập nhà Mạc?",
+   "trap": false,
+   "bm_top": "Mạc Thái Tổ",
+   "bm_ok": true,
+   "jev_top": "Mạc Thái Tổ",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.98,
+   "line": "Mạc Thái Tổ (chữ Hán: 莫太祖 22 tháng 12, 1483 – 11 tháng 9, 1541), tên thật là Mạc Đăng Dung (莫登庸), là một nhà chính trị, vị hoàng đế sáng lập ra vương triều nhà Mạc trong lịch sử Việt Nam.",
+   "gold": [
+    "Mạc Thái Tổ"
+   ]
+  },
+  "q15": {
+   "q": "Vua nào vì bệnh phải nằm khi thiết triều?",
+   "trap": false,
+   "bm_top": "Lê Ngọa Triều",
+   "bm_ok": true,
+   "jev_top": "Lê Ngọa Triều",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.95,
+   "line": "Khâm định Việt sử Thông giám cương mục thời Nguyễn cũng dẫn lại và khẳng định Lê Long Đĩnh vì mắc bệnh trĩ nên khi ra thiết triều phải nằm, vì vậy tục gọi là Lê Ngọa Triều.",
+   "gold": [
+    "Lê Ngọa Triều"
+   ]
+  },
+  "q16": {
+   "q": "Ai lãnh đạo khởi nghĩa Lam Sơn chống quân Minh?",
+   "trap": false,
+   "bm_top": "Lê Thái Tổ",
+   "bm_ok": true,
+   "jev_top": "Lê Thái Tổ",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.97,
+   "line": "Lê Thái Tổ (chữ Hán: 黎太祖 10 tháng 9 năm 1385 – 5 tháng 10 năm 1433), tên thật là Lê Lợi (黎利) là một nhà chính trị, nhà lãnh đạo quân sự, người đã thành lập một đội quân bản địa và lãnh đạo đội quân này chiến đấu chống lại sự chiếm đóng của quân đội nhà Minh từ năm 1418 đến lúc đánh đuổi hoàn toàn quân Minh ra khỏi Đại Việt vào năm 1428 sau đó xây dựng và tái thiết lập đất nước.",
+   "gold": [
+    "Lê Thái Tổ"
+   ]
+  },
+  "q17": {
+   "q": "Vua nào đổi quốc hiệu thành Đại Nam?",
+   "trap": false,
+   "bm_top": "Minh Mạng",
+   "bm_ok": true,
+   "jev_top": "Minh Mạng",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.97,
+   "line": "Ông đổi tên nước Việt Nam thành Đại Nam, lập thêm Nội các và Cơ mật viện, bãi bỏ chức Tổng trấn Bắc thành và Gia Định thành, đổi trấn thành tỉnh, củng cố chế độ lưu quan ở miền núi.",
+   "gold": [
+    "Minh Mạng"
+   ]
+  },
+  "q18": {
+   "q": "Vua nào đánh bại quân Tống năm 981?",
+   "trap": false,
+   "bm_top": "Lê Đại Hành",
+   "bm_ok": true,
+   "jev_top": "Đinh Phế Đế",
+   "jev_ok": false,
+   "bm_rank": 1,
+   "score": 0.84,
+   "line": "Với hai trận đánh lớn Bạch Đằng và Chi Lăng, Lê Hoàn đánh bại quân Tống.",
+   "gold": [
+    "Lê Đại Hành"
+   ]
+  },
+  "q19": {
+   "q": "Vị vua nào trị vì lâu nhất trong lịch sử phong kiến Việt Nam?",
+   "trap": false,
+   "bm_top": "Lý Nhân Tông",
+   "bm_ok": true,
+   "jev_top": "Lý Nhân Tông",
+   "jev_ok": true,
+   "bm_rank": 1,
+   "score": 0.99,
+   "line": "Ông trị vì Đại Việt từ năm 1072 đến năm 1128, tổng cộng gần 56 năm, cũng là vị vua có thời gian trị vì lâu nhất trong lịch sử phong kiến Việt Nam.",
+   "gold": [
+    "Lý Nhân Tông"
+   ]
+  },
+  "q20": {
+   "q": "Vua nào chạy sang nhà Thanh cầu viện?",
+   "trap": false,
+   "bm_top": "Thái Đức",
+   "bm_ok": false,
+   "jev_top": "Lê Chiêu Thống",
+   "jev_ok": true,
+   "bm_rank": 3,
+   "score": 0.91,
+   "line": "Tháng Giêng năm Kỷ Dậu (1789), Quang Trung kéo quân ra Bắc Hà, chỉ một trận quét sạch 29 vạn quân Thanh, Chiêu Thống phải theo bại quân chạy về Trung Quốc.",
+   "gold": [
+    "Lê Chiêu Thống"
+   ]
+  },
+  "t1": {
+   "q": "Vua nào phát minh ra máy in?",
+   "trap": true,
+   "bm_top": "Hồ Quý Ly",
+   "bm_ok": false,
+   "jev_top": "Hồ Quý Ly",
+   "jev_ok": false,
+   "bm_rank": null,
+   "score": 0.17,
+   "line": null,
+   "gold": []
+  },
+  "t2": {
+   "q": "Vua nào từng vô địch World Cup?",
+   "trap": true,
+   "bm_top": "Lê Thánh Tông",
+   "bm_ok": false,
+   "jev_top": "Quang Trung",
+   "jev_ok": false,
+   "bm_rank": null,
+   "score": 0.08,
+   "line": null,
+   "gold": []
+  },
+  "t3": {
+   "q": "Vua nào từng đặt chân lên Mặt Trăng?",
+   "trap": true,
+   "bm_top": "Cảnh Thịnh",
+   "bm_ok": false,
+   "jev_top": "Bảo Đại",
+   "jev_ok": false,
+   "bm_rank": null,
+   "score": 0.11,
+   "line": null,
+   "gold": []
+  },
+  "t4": {
+   "q": "Vua nào cho xây tháp Eiffel?",
+   "trap": true,
+   "bm_top": "Lê Ngọa Triều",
+   "bm_ok": false,
+   "jev_top": "Lý Thánh Tông",
+   "jev_ok": false,
+   "bm_rank": null,
+   "score": 0.09,
+   "line": null,
+   "gold": []
+  }
+ }
+}

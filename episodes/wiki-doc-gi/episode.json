@@ -1,0 +1,1074 @@
+{
+ "slug": "wiki-doc-gi",
+ "title": "Người Việt đọc gì trên Wikipedia?",
+ "accent": "#6366f1",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · WIKIPEDIA",
+   "headline": "Người Việt đọc gì trên Wikipedia?",
+   "sub": "1,500 bài được đọc nhiều nhất trong 12 tháng, tổng 103 triệu lượt xem, AI đọc từng bài"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Top 1.000 bài mỗi tháng",
+   "cards": [
+    {
+     "title": "Tam quốc diễn nghĩa",
+     "sub": "50.317 lượt xem",
+     "img": "wiki-doc-gi/w639.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Kinh tế Hàn Quốc",
+     "sub": "15.481 lượt xem",
+     "img": "wiki-doc-gi/w1449.jpg",
+     "credit": "Flickr - Laurie Nevay\n\nhttps:/ · CC BY-SA 2.0"
+    },
+    {
+     "title": "Trương Lăng Hách",
+     "sub": "61.220 lượt xem",
+     "img": "wiki-doc-gi/w539.jpg",
+     "credit": "iQIYI Indonesia · CC BY 3.0"
+    },
+    {
+     "title": "Rodrigo De Paul",
+     "sub": "16.248 lượt xem",
+     "img": "wiki-doc-gi/w1415.jpg",
+     "credit": "Bryan Berlin · CC BY-SA 4.0"
+    },
+    {
+     "title": "Hệ thống cấp bậc Công an nhân dân Việt Nam",
+     "sub": "29.824 lượt xem",
+     "img": "wiki-doc-gi/w951.jpg",
+     "credit": "HIEUIT, Hwi.padam & LeenoDT · CC BY 4.0"
+    },
+    {
+     "title": "Địa đạo Củ Chi",
+     "sub": "53.223 lượt xem",
+     "img": "wiki-doc-gi/w610.jpg",
+     "credit": "Phương Huy (thảo luận) · Public domain"
+    },
+    {
+     "title": "Trung Đông",
+     "sub": "18.392 lượt xem",
+     "img": "wiki-doc-gi/w1297.jpg",
+     "credit": "TownDown · CC BY-SA 3.0"
+    },
+    {
+     "title": "Đà Lạt",
+     "sub": "138.436 lượt xem",
+     "img": "wiki-doc-gi/w144.jpg",
+     "credit": "Tuong Lam Photos · CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia",
+     "sub": "32.375 lượt xem",
+     "img": "wiki-doc-gi/w902.jpg",
+     "credit": "Version 1 by Nohat (concept by · CC BY-SA 3.0"
+    },
+    {
+     "title": "Síp",
+     "sub": "26.328 lượt xem",
+     "img": "wiki-doc-gi/w1029.jpg",
+     "credit": "İsmet Güney, SVG by User:Vzb83 · Public domain"
+    },
+    {
+     "title": "Chùa Một Cột",
+     "sub": "41.327 lượt xem",
+     "img": "wiki-doc-gi/w746.jpg",
+     "credit": "Staffan Scherz · CC BY 2.0"
+    },
+    {
+     "title": "Captain Boy",
+     "sub": "16.185 lượt xem",
+     "img": "wiki-doc-gi/w1419.jpg",
+     "credit": "Hoamaizui · CC0"
+    },
+    {
+     "title": "Charles Babbage",
+     "sub": "41.755 lượt xem",
+     "img": "wiki-doc-gi/w738.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Khởi nghĩa Lam Sơn",
+     "sub": "83.408 lượt xem",
+     "img": "wiki-doc-gi/w360.jpg",
+     "credit": "Leeaan · CC BY 4.0"
+    },
+    {
+     "title": "Argentina",
+     "sub": "48.138 lượt xem",
+     "img": "wiki-doc-gi/w659.jpg",
+     "credit": "Manuel Belgrano · Public domain"
+    },
+    {
+     "title": "Gia Cát Lượng",
+     "sub": "90.154 lượt xem",
+     "img": "wiki-doc-gi/w307.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Cậu bé mất tích",
+     "sub": "33.333 lượt xem",
+     "img": "wiki-doc-gi/w876.jpg",
+     "credit": "Netflix · Public domain"
+    },
+    {
+     "title": "Justin Bieber",
+     "sub": "22.922 lượt xem",
+     "img": "wiki-doc-gi/w1124.jpg",
+     "credit": "Lou Stejskal · CC BY 2.0"
+    },
+    {
+     "title": "Lâm Đồng",
+     "sub": "84.659 lượt xem",
+     "img": "wiki-doc-gi/w351.jpg",
+     "credit": "P. Hughes · CC BY 4.0"
+    },
+    {
+     "title": "Ấm lên toàn cầu",
+     "sub": "279.501 lượt xem",
+     "img": "wiki-doc-gi/w23.jpg",
+     "credit": "NASA’s Scientific Visualizatio · CC BY-SA 4.0"
+    },
+    {
+     "title": "Đội tuyển bóng đá quốc gia México",
+     "sub": "17.039 lượt xem",
+     "img": "wiki-doc-gi/w1365.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Thiên nhiên châu Nam Cực",
+     "sub": "35.212 lượt xem",
+     "img": "wiki-doc-gi/w845.jpg",
+     "credit": "Image ID: corp2417, NOAA Corps · Public domain"
+    },
+    {
+     "title": "Nhà Tần",
+     "sub": "45.090 lượt xem",
+     "img": "wiki-doc-gi/w690.jpg",
+     "credit": "Không rõ tác giả · CC BY-SA 3.0"
+    },
+    {
+     "title": "Bạc Hy Lai",
+     "sub": "25.007 lượt xem",
+     "img": "wiki-doc-gi/w1062.jpg",
+     "credit": "Photographer: Jock Fistick · CC BY 4.0"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Liban",
+     "sub": "17.643 lượt xem",
+     "img": "wiki-doc-gi/w1340.jpg",
+     "credit": "Henri Pharaon · Public domain"
+    },
+    {
+     "title": "Định lý Menelaus",
+     "sub": "56.098 lượt xem",
+     "img": "wiki-doc-gi/w580.jpg",
+     "credit": "Eightcirclestheorem · CC BY-SA 4.0"
+    },
+    {
+     "title": "",
+     "locked": "vụ án có người thật"
+    },
+    {
+     "title": "Nick Vujicic",
+     "sub": "26.201 lượt xem",
+     "img": "wiki-doc-gi/w1035.jpg",
+     "credit": "Christliches Medienmagazin pro · CC BY 2.0"
+    },
+    {
+     "title": "Nguyễn Mạnh Hùng (thiếu tướng)",
+     "sub": "29.875 lượt xem",
+     "img": "wiki-doc-gi/w950.jpg",
+     "credit": "Estonian Foreign Ministry · CC BY 2.0"
+    },
+    {
+     "title": "Càn Long",
+     "sub": "159.334 lượt xem",
+     "img": "wiki-doc-gi/w103.jpg",
+     "credit": "Giuseppe Castiglione · Public domain"
+    },
+    {
+     "title": "Lê Minh Hưng",
+     "sub": "785.907 lượt xem",
+     "img": "wiki-doc-gi/w4.jpg",
+     "credit": "Alexander Shcherbak, TASS · CC BY 4.0"
+    },
+    {
+     "title": "Lê Đức Thọ",
+     "sub": "74.717 lượt xem",
+     "img": "wiki-doc-gi/w424.jpg",
+     "credit": "Associated Press · Public domain"
+    },
+    {
+     "title": "Lê Quốc Phong",
+     "sub": "35.141 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Danh sách phim có doanh thu cao nhất",
+     "sub": "19.946 lượt xem",
+     "img": "wiki-doc-gi/w1230.jpg",
+     "credit": "Armando Seguso (per Heritage A · Public domain"
+    },
+    {
+     "title": "Bài Tiến lên",
+     "sub": "150.052 lượt xem",
+     "img": "wiki-doc-gi/w123.jpg",
+     "credit": "Ekirahardian · OFL"
+    },
+    {
+     "title": "Nguyễn Doãn Anh",
+     "sub": "66.245 lượt xem",
+     "img": "wiki-doc-gi/w492.jpg",
+     "credit": "Chúc Nguyễn Land · CC BY 3.0"
+    },
+    {
+     "title": "Biến đổi khí hậu",
+     "sub": "53.380 lượt xem",
+     "img": "wiki-doc-gi/w606.jpg",
+     "credit": "NASA’s Scientific Visualizatio · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Khả Phiêu",
+     "sub": "97.489 lượt xem",
+     "img": "wiki-doc-gi/w265.jpg",
+     "credit": "Mai Bá Lê · CC BY-SA 4.0"
+    },
+    {
+     "title": "Yan Diomande",
+     "sub": "26.445 lượt xem",
+     "img": "wiki-doc-gi/w1025.jpg",
+     "credit": "Bryan Berlin · CC BY-SA 4.0"
+    },
+    {
+     "title": "Bảo hiểm Xã hội Việt Nam",
+     "sub": "19.359 lượt xem",
+     "img": "wiki-doc-gi/w1259.jpg",
+     "credit": "Government of Vietnam · Public domain"
+    },
+    {
+     "title": "Nguyễn Thị Ánh Viên",
+     "sub": "38.245 lượt xem",
+     "img": "wiki-doc-gi/w796.jpg",
+     "credit": "HITA TV · CC BY 3.0"
+    },
+    {
+     "title": "Bảo Đại",
+     "sub": "144.806 lượt xem",
+     "img": "wiki-doc-gi/w134.jpg",
+     "credit": "không rõ.\n\nThe original upload · Public domain"
+    },
+    {
+     "title": "Danh sách trận chung kết Cúp C1 châu Âu và UEFA Champions League",
+     "sub": "47.609 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Jensen Huang",
+     "sub": "26.292 lượt xem",
+     "img": "wiki-doc-gi/w1032.jpg",
+     "credit": "The White House · Public domain"
+    },
+    {
+     "title": "Duy Tân",
+     "sub": "30.556 lượt xem",
+     "img": "wiki-doc-gi/w937.jpg",
+     "credit": "Pierre Dieulefils · Public domain"
+    },
+    {
+     "title": "Trận Ngọc Hồi – Đống Đa",
+     "sub": "41.495 lượt xem",
+     "img": "wiki-doc-gi/w743.jpg",
+     "credit": "A collaboration between Chines · Public domain"
+    },
+    {
+     "title": "Lý Chiêu Hoàng",
+     "sub": "61.425 lượt xem",
+     "img": "wiki-doc-gi/w535.jpg",
+     "credit": "Sử dụng hợp lí · CC BY 4.0"
+    },
+    {
+     "title": "Nicolás Maduro",
+     "sub": "42.648 lượt xem",
+     "img": "wiki-doc-gi/w726.jpg",
+     "credit": "Ricardo Stuckert · CC BY 2.0"
+    },
+    {
+     "title": "Nguyễn Thanh Nghị",
+     "sub": "176.217 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Hàm Nghi",
+     "sub": "28.126 lượt xem",
+     "img": "wiki-doc-gi/w995.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Pete Hegseth",
+     "sub": "27.696 lượt xem",
+     "img": "wiki-doc-gi/w1001.jpg",
+     "credit": "U.S. Department of Defense · Public domain"
+    },
+    {
+     "title": "Tây Ninh",
+     "sub": "73.791 lượt xem",
+     "img": "wiki-doc-gi/w430.jpg",
+     "credit": "Skydtt · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Văn Duyệt",
+     "sub": "108.521 lượt xem",
+     "img": "wiki-doc-gi/w229.jpg",
+     "credit": "vi:User:Tokeisan · Public domain"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Quân khu 2, Quân đội nhân dân Việt Nam",
+     "sub": "87.256 lượt xem",
+     "img": "wiki-doc-gi/w325.jpg",
+     "credit": "Quân khu 2 · CC BY-SA 4.0"
+    },
+    {
+     "title": "Phùng Quang Thanh",
+     "sub": "40.546 lượt xem",
+     "img": "wiki-doc-gi/w760.jpg",
+     "credit": "DoD photo by Master Sgt. Jerry · Public domain"
+    },
+    {
+     "title": "Sông Hồng",
+     "sub": "24.527 lượt xem",
+     "img": "wiki-doc-gi/w1078.jpg",
+     "credit": "vi:User:Newone · Public domain"
+    },
+    {
+     "title": "Mohamed Salah",
+     "sub": "28.968 lượt xem",
+     "img": "wiki-doc-gi/w972.jpg",
+     "credit": "Bryan Berlin · CC BY-SA 4.0"
+    },
+    {
+     "title": "Nam Phương Hoàng hậu",
+     "sub": "92.781 lượt xem",
+     "img": "wiki-doc-gi/w291.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Stephen Hawking",
+     "sub": "19.476 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Nhật Bản",
+     "sub": "166.950 lượt xem",
+     "img": "wiki-doc-gi/w100.jpg",
+     "credit": "Various · Public domain"
+    },
+    {
+     "title": "Côn Đảo",
+     "sub": "33.527 lượt xem",
+     "img": "wiki-doc-gi/w872.jpg",
+     "credit": "Lam Tr Th · CC BY-SA 3.0"
+    },
+    {
+     "title": "Marie Curie",
+     "sub": "24.664 lượt xem",
+     "img": "wiki-doc-gi/w1072.jpg",
+     "credit": "Henri Manuel · Public domain"
+    },
+    {
+     "title": "Minh Tuyên Tông",
+     "sub": "140.943 lượt xem",
+     "img": "wiki-doc-gi/w138.jpg",
+     "credit": "Peintre de la dynastie Ming · Public domain"
+    },
+    {
+     "title": "Nguyễn Xuân Phúc",
+     "sub": "206.297 lượt xem",
+     "img": "wiki-doc-gi/w58.jpg",
+     "credit": "Informationthongtin · CC BY-SA 4.0"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Phạm Ngọc Thảo",
+     "sub": "112.049 lượt xem",
+     "img": "wiki-doc-gi/w215.jpg",
+     "credit": "Andylahistory · Public domain"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Quần đảo Hoàng Sa",
+     "sub": "108.901 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Lương Cường",
+     "sub": "252.708 lượt xem",
+     "img": "wiki-doc-gi/w34.jpg",
+     "credit": "European Council · Attribution"
+    },
+    {
+     "title": "Tiêu Hà",
+     "sub": "15.007 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "David Beckham",
+     "sub": "25.841 lượt xem",
+     "img": "wiki-doc-gi/w1043.jpg",
+     "credit": "Soccer Aid for Unicef · CC BY 3.0"
+    },
+    {
+     "title": "",
+     "locked": "vụ án có người thật"
+    },
+    {
+     "title": "",
+     "locked": "vụ án có người thật"
+    },
+    {
+     "title": "Lê Mạnh Hùng",
+     "sub": "37.626 lượt xem",
+     "img": "wiki-doc-gi/w802.jpg",
+     "credit": "Truyền hình Công Thương · CC BY 4.0"
+    },
+    {
+     "title": "Dự báo thời tiết",
+     "sub": "54.517 lượt xem",
+     "img": "wiki-doc-gi/w595.jpg",
+     "credit": "Hydrometeorological Prediction · Public domain"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Nualphan Lamsam",
+     "sub": "20.434 lượt xem",
+     "img": "wiki-doc-gi/w1214.jpg",
+     "credit": "EL Loko Foto · CC BY 4.0"
+    },
+    {
+     "title": "Câu Tiễn",
+     "sub": "38.535 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Matheus Cunha",
+     "sub": "19.644 lượt xem",
+     "img": "wiki-doc-gi/w1248.jpg",
+     "credit": "Bryan Berlin · CC BY-SA 4.0"
+    },
+    {
+     "title": "Pep Guardiola",
+     "sub": "30.667 lượt xem",
+     "img": "wiki-doc-gi/w932.jpg",
+     "credit": "Steffen Prößdorf · CC BY-SA 4.0"
+    },
+    {
+     "title": "Bóng đá",
+     "sub": "102.237 lượt xem",
+     "img": "wiki-doc-gi/w253.jpg",
+     "credit": "Rick Dikeman · CC BY-SA 3.0"
+    },
+    {
+     "title": "Tết Dương lịch",
+     "sub": "15.043 lượt xem",
+     "img": "wiki-doc-gi/w1469.jpg",
+     "credit": "Eneas De Troya from Mexico Cit · CC BY 2.0"
+    },
+    {
+     "title": "Đông Timor",
+     "sub": "58.935 lượt xem",
+     "img": "wiki-doc-gi/w553.jpg",
+     "credit": "See File history, below, for d · Public domain"
+    },
+    {
+     "title": "Hòa Minzy",
+     "sub": "44.423 lượt xem",
+     "img": "wiki-doc-gi/w697.jpg",
+     "credit": "Trường Đại Học FPT Cần Thơ · CC BY 3.0"
+    },
+    {
+     "title": "Ngô Đình Diệm",
+     "sub": "145.324 lượt xem",
+     "img": "wiki-doc-gi/w133.jpg",
+     "credit": "Press and Information Office,  · Public domain"
+    },
+    {
+     "title": "Bùi Quang Huy (chính khách)",
+     "sub": "16.545 lượt xem",
+     "img": "wiki-doc-gi/w1400.jpg",
+     "credit": "Báo Sài Gòn Giải Phóng · CC BY 3.0"
+    },
+    {
+     "title": "",
+     "locked": "nội dung người lớn"
+    },
+    {
+     "title": "Nhà máy thủy điện Hòa Bình",
+     "sub": "16.993 lượt xem",
+     "img": "wiki-doc-gi/w1368.jpg",
+     "credit": "CactiStaccingCrane · CC0"
+    },
+    {
+     "title": "Hồng lâu mộng",
+     "sub": "26.100 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Nguyễn Trường Thắng",
+     "sub": "123.891 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Achraf Hakimi",
+     "sub": "16.352 lượt xem",
+     "img": "wiki-doc-gi/w1411.jpg",
+     "credit": "Bryan Berlin · CC BY-SA 4.0"
+    },
+    {
+     "title": "Ngày của Mẹ",
+     "sub": "36.013 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Trương Lương",
+     "sub": "28.888 lượt xem",
+     "icon": "📖"
+    },
+    {
+     "title": "Google Dịch",
+     "sub": "102.013 lượt xem",
+     "img": "wiki-doc-gi/w254.jpg",
+     "credit": "Google Translate · Public domain"
+    },
+    {
+     "title": "Odyssey",
+     "sub": "50.840 lượt xem",
+     "img": "wiki-doc-gi/w633.jpg",
+     "credit": "Zunkir · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lãnh tụ Tối cao Iran",
+     "sub": "24.190 lượt xem",
+     "img": "wiki-doc-gi/w1090.jpg",
+     "credit": "Madden · Public domain"
+    },
+    {
+     "title": "James Rodríguez",
+     "sub": "19.327 lượt xem",
+     "img": "wiki-doc-gi/w1260.jpg",
+     "credit": "Rufus46 · CC BY-SA 3.0"
+    }
+   ],
+   "total": 1500,
+   "totalLabel": "đã đọc",
+   "unit": "bài",
+   "excluded": 60,
+   "excludedLabel": "không hiện",
+   "cols": 3,
+   "cardH": 230,
+   "credit": "Lượt xem Wikipedia tiếng Việt 10/2025–9/2026 (API Pageviews). Ảnh: Wikimedia Commons, tác giả ghi trên ảnh"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · MỘT LẦN GỌI, NĂM CÂU",
+   "title": "Đọc một bài Wikipedia",
+   "cookbook": "Parallel questions · Guardrails",
+   "idea": "Hai câu cuối là trạm chắn: từ 0,7 thì chặn, vùng giữa thì để người xem xét.",
+   "stateLines": [
+    "Tết Trung thu",
+    "Tết Trung thu còn được gọi là Tết Đoàn Viên, Tết trông Trăng hay Tết hoa đăng theo Âm lịch diễn ra vào ngày rằm tháng 8 …"
+   ],
+   "questions": [
+    {
+     "name": "topic",
+     "kind": "Choice",
+     "text": "Bài nói về gì?"
+    },
+    {
+     "name": "why",
+     "kind": "Choice",
+     "text": "Vì sao được đọc?"
+    },
+    {
+     "name": "vietnam",
+     "kind": "Noul",
+     "text": "Có về Việt Nam?"
+    },
+    {
+     "name": "adult",
+     "kind": "Noul",
+     "text": "Nội dung người lớn?"
+    },
+    {
+     "name": "crime",
+     "kind": "Noul",
+     "text": "Án mạng có người thật?"
+    }
+   ],
+   "results": [
+    {
+     "name": "topic",
+     "value": "Văn hóa, xã hội"
+    },
+    {
+     "name": "why",
+     "value": "Ngày lễ, kỷ niệm",
+     "tone": "warn"
+    },
+    {
+     "name": "vietnam",
+     "value": "có: 96%",
+     "tone": "good"
+    },
+    {
+     "name": "adult",
+     "value": "1%",
+     "tone": "muted"
+    },
+    {
+     "name": "crime",
+     "value": "1%",
+     "tone": "muted"
+    }
+   ]
+  },
+  {
+   "type": "judge",
+   "key": "guard",
+   "step": "BƯỚC 3 · TRẠM CHẮN",
+   "title": "Bài nào không được hiện?",
+   "cookbook": "Guardrails for LLMs",
+   "items": [
+    {
+     "card": {
+      "title": "",
+      "locked": "nội dung người lớn"
+     },
+     "pass": false,
+     "stamp": "CHẶN",
+     "metrics": [
+      {
+       "label": "Người lớn",
+       "value": 0.96,
+       "text": "96%",
+       "tone": "bad"
+      },
+      {
+       "label": "Án mạng người thật",
+       "value": 0.02,
+       "text": "2%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "",
+      "locked": "cần người xem xét"
+     },
+     "pass": false,
+     "stamp": "XEM XÉT",
+     "metrics": [
+      {
+       "label": "Người lớn",
+       "value": 0.12,
+       "text": "12%",
+       "tone": "bad"
+      },
+      {
+       "label": "Án mạng người thật",
+       "value": 0.05,
+       "text": "5%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "Trần Hưng Đạo",
+      "sub": null,
+      "img": "wiki-doc-gi/w49.jpg",
+      "credit": "Khangoii · CC BY-SA 4.0"
+     },
+     "pass": true,
+     "stamp": "CHO QUA",
+     "metrics": [
+      {
+       "label": "Người lớn",
+       "value": 0.01,
+       "text": "1%",
+       "tone": "bad"
+      },
+      {
+       "label": "Án mạng người thật",
+       "value": 0.01,
+       "text": "1%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "Giải vô địch bóng đá thế giới 2026",
+      "sub": null,
+      "icon": "📖"
+     },
+     "pass": true,
+     "stamp": "CHO QUA",
+     "metrics": [
+      {
+       "label": "Người lớn",
+       "value": 0.01,
+       "text": "1%",
+       "tone": "bad"
+      },
+      {
+       "label": "Án mạng người thật",
+       "value": 0.01,
+       "text": "1%",
+       "tone": "warn"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "topics",
+   "step": "BƯỚC 4 · CHỦ ĐỀ",
+   "title": "Lượt đọc chia theo chủ đề",
+   "bars": [
+    {
+     "label": "Con người",
+     "value": 0.3809118725966607,
+     "text": "38%",
+     "tone": "good"
+    },
+    {
+     "label": "Giải trí",
+     "value": 0.14432700178004698,
+     "text": "14%",
+     "tone": "jev"
+    },
+    {
+     "label": "Địa danh",
+     "value": 0.12179168926010268,
+     "text": "12%",
+     "tone": "jev"
+    },
+    {
+     "label": "Lịch sử, chính trị",
+     "value": 0.11435219866898198,
+     "text": "11%",
+     "tone": "jev"
+    },
+    {
+     "label": "Thể thao",
+     "value": 0.07795260485534386,
+     "text": "8%",
+     "tone": "jev"
+    },
+    {
+     "label": "Văn hóa, xã hội",
+     "value": 0.04745969363659531,
+     "text": "5%",
+     "tone": "jev"
+    },
+    {
+     "label": "Khoa học, công nghệ",
+     "value": 0.04102413992240896,
+     "text": "4%",
+     "tone": "jev"
+    },
+    {
+     "label": "Người lớn",
+     "value": 0.038783213029690226,
+     "text": "4%",
+     "tone": "muted"
+    }
+   ],
+   "note": "Tính theo lượt xem. 56% lượt đọc là chủ đề Việt Nam."
+  },
+  {
+   "type": "label",
+   "key": "tree",
+   "step": "BƯỚC 5 · XẾP VÀO CÂY CHỦ ĐỀ",
+   "title": "Chủ đề lớn, rồi chủ đề con",
+   "cookbook": "Hierarchical classification",
+   "examples": [
+    {
+     "card": {
+      "title": "Tết Trung thu",
+      "sub": "79.951 lượt xem",
+      "img": "wiki-doc-gi/w388.jpg",
+      "credit": "Shizhao · CC BY-SA 2.5"
+     },
+     "answers": [
+      {
+       "q": "Cấp 1",
+       "text": "Văn hóa, xã hội",
+       "prob": 1.0
+      },
+      {
+       "q": "Cấp 2",
+       "text": "Lễ hội",
+       "prob": 1.0
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "Trần Hưng Đạo",
+      "sub": "213.916 lượt xem",
+      "img": "wiki-doc-gi/w49.jpg",
+      "credit": "Khangoii · CC BY-SA 4.0"
+     },
+     "answers": [
+      {
+       "q": "Cấp 1",
+       "text": "Con người",
+       "prob": 0.95
+      },
+      {
+       "q": "Cấp 2",
+       "text": "Nhân vật lịch sử",
+       "prob": 1.0
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "Giải vô địch bóng đá thế giới 2026",
+      "sub": "687.096 lượt xem",
+      "icon": "📖"
+     },
+     "answers": [
+      {
+       "q": "Cấp 1",
+       "text": "Thể thao",
+       "prob": 1.0
+      },
+      {
+       "q": "Cấp 2",
+       "text": "Bóng đá",
+       "prob": 1.0
+      }
+     ]
+    },
+    {
+     "card": {
+      "title": "Cortis",
+      "sub": "260.730 lượt xem",
+      "img": "wiki-doc-gi/w31.jpg",
+      "credit": "Ten Asia · CC BY 4.0"
+     },
+     "answers": [
+      {
+       "q": "Cấp 1",
+       "text": "Giải trí",
+       "prob": 1.0
+      },
+      {
+       "q": "Cấp 2",
+       "text": "Hàn Quốc",
+       "prob": 1.0
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Chủ đề con được đọc nhiều nhất (% lượt xem)",
+    "bars": [
+     {
+      "label": "Chính trị gia",
+      "value": 15
+     },
+     {
+      "label": "Nhân vật lịch sử",
+      "value": 11
+     },
+     {
+      "label": "Việt Nam",
+      "value": 10
+     },
+     {
+      "label": "Bóng đá",
+      "value": 7
+     }
+    ]
+   }
+  },
+  {
+   "type": "bars",
+   "key": "why",
+   "step": "BƯỚC 6 · VÌ SAO ĐỌC",
+   "title": "Lý do một bài được đọc",
+   "bars": [
+    {
+     "label": "Đang có tin tức",
+     "value": 0.2812193514759958,
+     "text": "28%",
+     "tone": "warn"
+    },
+    {
+     "label": "Lúc nào cũng có người đọc",
+     "value": 0.26008260989573007,
+     "text": "26%",
+     "tone": "jev"
+    },
+    {
+     "label": "Đang có giải đấu",
+     "value": 0.12919959865408442,
+     "text": "13%",
+     "tone": "jev"
+    },
+    {
+     "label": "Ngày lễ, kỷ niệm",
+     "value": 0.0652078610011544,
+     "text": "7%",
+     "tone": "jev"
+    },
+    {
+     "label": "Phim, chương trình đang chiếu",
+     "value": 0.06116819245769647,
+     "text": "6%",
+     "tone": "jev"
+    },
+    {
+     "label": "Vụ việc, bê bối",
+     "value": 0.02141823796778206,
+     "text": "2%",
+     "tone": "jev"
+    }
+   ],
+   "note": "Jev đoán từ nội dung bài và tháng có lượt xem cao nhất; 18% lượt xem không rõ lý do."
+  },
+  {
+   "type": "timeline",
+   "key": "history",
+   "step": "BƯỚC 7 · NHÂN VẬT LỊCH SỬ",
+   "title": "Được đọc nhiều nhất",
+   "items": [
+    {
+     "years": "429.634 lượt",
+     "title": "Hồ Chí Minh",
+     "sub": "nhà cách mạng, chính khách Việt Nam (1890–1969)",
+     "img": "wiki-doc-gi/w10.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "years": "213.916 lượt",
+     "title": "Trần Hưng Đạo",
+     "sub": "chính trị gia, nhà quân sự Đại Việt thời Trần (1228–1300)",
+     "img": "wiki-doc-gi/w49.jpg",
+     "credit": "Khangoii · CC BY-SA 4.0"
+    },
+    {
+     "years": "212.572 lượt",
+     "title": "Tần Thủy Hoàng",
+     "sub": "Hoàng đế nhà Tần giai đoạn 221–210 TCN",
+     "img": "wiki-doc-gi/w52.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "years": "211.503 lượt",
+     "title": "Minh Thái Tổ",
+     "sub": "Hoàng đế Trung Quốc giai đoạn 1368–1398",
+     "img": "wiki-doc-gi/w53.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "years": "210.997 lượt",
+     "title": "Võ Nguyên Giáp",
+     "sub": "tướng lĩnh, chính trị gia Việt Nam (1911–2013)",
+     "img": "wiki-doc-gi/w54.jpg",
+     "credit": "Ricardo Stuckert (PR/ABr/Brazi · CC BY 3.0 br"
+    },
+    {
+     "years": "202.020 lượt",
+     "title": "Võ Thị Sáu",
+     "sub": "chiến sĩ cách mạng người Việt Nam (1933–1952)"
+    }
+   ]
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "38% lượt đọc là về con người",
+   "tagline": "Chính trị gia và nhân vật lịch sử dẫn đầu, rồi tới giải trí và bóng đá. 56% lượt đọc là chủ đề Việt Nam.",
+   "stats": [
+    {
+     "value": "1.500",
+     "label": "bài đã chấm"
+    },
+    {
+     "value": "46",
+     "label": "bài bị chặn"
+    },
+    {
+     "value": "12 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Đọc nhiều nhất: Đài Truyền hình Kỹ thuật số VTC, 5,2 triệu lượt",
+    "317 bài có mặt trong top 1.000 cả 12 tháng",
+    "Tin tức chiếm 28% lượt đọc, chủ đề lúc nào cũng đọc chiếm 26%"
+   ],
+   "gridTitle": "Đọc nhiều nhất cả năm",
+   "gridCols": 1,
+   "grid": [
+    {
+     "label": "Đài Truyền hình Kỹ thuật số VTC",
+     "value": "5,20 triệu"
+    },
+    {
+     "label": "Bảng xếp hạng bóng đá nam FIFA",
+     "value": "1,00 triệu"
+    },
+    {
+     "label": "Việt Nam",
+     "value": "0,80 triệu"
+    },
+    {
+     "label": "Lê Minh Hưng",
+     "value": "0,79 triệu"
+    },
+    {
+     "label": "Giải vô địch bóng đá thế giới 2026",
+     "value": "0,69 triệu"
+    }
+   ],
+   "footnote": "Lượt xem gồm cả một phần lưu lượng tự động mà Wikimedia chưa lọc hết. Chủ đề và lý do là phán đoán của Jev từ đoạn mở đầu bài viết."
+  }
+ ]
+}

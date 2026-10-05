@@ -1,0 +1,11 @@
+{
+ "intro": "Năm 2026, cứ một tin tuyển lập trình viên thì có hơn hai người đang tìm việc. Mình cho AI Jev đọc 10.035 tin tuyển dụng và hồ sơ tìm việc trên Hacker News trong 13 tháng.",
+ "scan": "Mỗi tháng, Hacker News có hai chuỗi bài: công ty đăng tin tuyển, và người tìm việc tự giới thiệu. Mình lấy từ tháng 10 năm 2025 tới tháng 10 năm 2026.",
+ "technique": "Với mỗi bài, Jev trả lời tám câu trong một lần gọi: vị trí gì, ở đâu, làm từ xa không, cấp bậc, có đòi kinh nghiệm AI không, có bảo lãnh visa không, và mức lương. Lương thì Jev chỉ được chọn trong các con số có sẵn trong tin. Tin này tuyển kỹ sư máy học, lương từ 130 đến 170 nghìn đô.",
+ "ratio": "Tháng 10 năm 2025, cứ 100 tin tuyển có 104 người tìm việc. Tới tháng 8 năm 2026 là 242 người, và tháng 9 là 218. Tin tuyển ít đi, người tìm việc đông lên.",
+ "remote": "Trong các hồ sơ có ghi rõ, 95% người tìm việc muốn làm từ xa hoàn toàn. Nhưng chỉ 46% tin tuyển cho phép, còn lại là hybrid hoặc phải lên văn phòng.",
+ "roles": "Full-stack là vị trí đông nhất ở cả hai phía. Máy học và AI chiếm khoảng 11% ở cả tin tuyển lẫn hồ sơ tìm việc.",
+ "pay": "Với 864 tin có ghi lương bằng đô la, quản lý kỹ thuật, DevOps và máy học trả cao nhất, quanh 190 nghìn đô một năm. Backend và full-stack quanh 175 nghìn.",
+ "ai": "Còn AI? 48% hồ sơ tìm việc ghi có kinh nghiệm AI, nhưng chỉ 31% tin tuyển đòi điều đó. Lương của tin đòi AI gần như bằng tin không đòi: 185 nghìn so với 182 nghìn rưỡi.",
+ "reveal": "Tóm lại, thị trường đang chật: người tìm việc gấp đôi tin tuyển, chỉ 2% tin dành cho người mới, và 3% có bảo lãnh visa. Cả thí nghiệm hơn 10 nghìn lần gọi Jev tốn khoảng 53 cent. Lưu ý, Hacker News nghiêng về startup công nghệ Mỹ."
+}

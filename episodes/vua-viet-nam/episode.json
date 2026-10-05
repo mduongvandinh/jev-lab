@@ -1,0 +1,1472 @@
+{
+ "slug": "vua-viet-nam",
+ "title": "99 vua Việt Nam qua những con số",
+ "accent": "#d97706",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · LỊCH SỬ",
+   "headline": "99 vị vua Việt Nam qua những con số",
+   "sub": "Từ Ngô Quyền năm 939 tới Bảo Đại năm 1945. AI đọc bài Wikipedia của từng vị vua"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU",
+   "title": "Mỗi thẻ là một vị vua",
+   "cards": [
+    {
+     "title": "Tiền Ngô Vương",
+     "sub": "Nhà Ngô và Dương Tam Kha · 939 – 944",
+     "img": "vua-viet-nam/k0.jpg",
+     "credit": "Bùi Thụy Đào Nguyên · CC BY-SA 3.0"
+    },
+    {
+     "title": "Dương Bình Vương",
+     "sub": "Nhà Ngô và Dương Tam Kha · 944 – 950",
+     "icon": "👑"
+    },
+    {
+     "title": "Thiên Sách Vương",
+     "sub": "Nhà Ngô và Dương Tam Kha · 951 – 954",
+     "icon": "👑"
+    },
+    {
+     "title": "Nam Tấn Vương",
+     "sub": "Nhà Ngô và Dương Tam Kha · 950 – 965",
+     "icon": "👑"
+    },
+    {
+     "title": "Ngô Sứ Quân",
+     "sub": "Nhà Ngô và Dương Tam Kha · 965 – 966",
+     "icon": "👑"
+    },
+    {
+     "title": "Đinh Tiên Hoàng",
+     "sub": "Nhà Đinh · 968 – 979",
+     "icon": "👑"
+    },
+    {
+     "title": "Đinh Phế Đế",
+     "sub": "Nhà Đinh · 979 – 980",
+     "img": "vua-viet-nam/k6.jpg",
+     "credit": "Kien1980v at Vietnamese Wikipe · Public domain"
+    },
+    {
+     "title": "Lê Đại Hành",
+     "sub": "Nhà Tiền Lê · 980 – 1005",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Trung Tông",
+     "sub": "Nhà Tiền Lê · 1005 – 1005",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Ngọa Triều",
+     "sub": "Nhà Tiền Lê · 1005 – 1009",
+     "img": "vua-viet-nam/k9.jpg",
+     "credit": "Kien1980v at Vietnamese Wikipe · Public domain"
+    },
+    {
+     "title": "Lý Thái Tổ",
+     "sub": "Nhà Lý · 1009 – 1028",
+     "img": "vua-viet-nam/k10.jpg",
+     "credit": "vi:User:Duchong · Public domain"
+    },
+    {
+     "title": "Lý Thái Tông",
+     "sub": "Nhà Lý · 1028 – 1054",
+     "img": "vua-viet-nam/k11.jpg",
+     "credit": "Newone · CC BY-SA 3.0"
+    },
+    {
+     "title": "Lý Thánh Tông",
+     "sub": "Nhà Lý · 1054 – 1072",
+     "img": "vua-viet-nam/k12.jpg",
+     "credit": "Nguyễn Thanh Quang · CC BY-SA 3.0"
+    },
+    {
+     "title": "Lý Nhân Tông",
+     "sub": "Nhà Lý · 1072 – 1127",
+     "img": "vua-viet-nam/k13.jpg",
+     "credit": "Nguyễn Thanh Quang · CC BY-SA 3.0"
+    },
+    {
+     "title": "Lý Thần Tông",
+     "sub": "Nhà Lý · 1127 – 1138",
+     "icon": "👑"
+    },
+    {
+     "title": "Lý Anh Tông",
+     "sub": "Nhà Lý · 1138 – 1175",
+     "img": "vua-viet-nam/k15.jpg",
+     "credit": "HappyMidnight · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lý Cao Tông",
+     "sub": "Nhà Lý · 1176 – 1204",
+     "img": "vua-viet-nam/k16.jpg",
+     "credit": "HappyMidnight · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lý Thẩm",
+     "sub": "Nhà Lý · 1209 – 1209",
+     "icon": "👑"
+    },
+    {
+     "title": "Lý Huệ Tông",
+     "sub": "Nhà Lý · 1211 – 1224",
+     "icon": "👑"
+    },
+    {
+     "title": "Lý Nguyên Vương",
+     "sub": "Nhà Lý · 1214 – 1216",
+     "icon": "👑"
+    },
+    {
+     "title": "Lý Chiêu Hoàng",
+     "sub": "Nhà Lý · 1224 – 1225",
+     "img": "vua-viet-nam/k20.jpg",
+     "credit": "Sử dụng hợp lí · CC BY 4.0"
+    },
+    {
+     "title": "Trần Thái Tông",
+     "sub": "Nhà Trần · 1225 – 1258",
+     "img": "vua-viet-nam/k21.jpg",
+     "credit": "Pvloc90 · CC BY-SA 3.0"
+    },
+    {
+     "title": "Trần Thánh Tông",
+     "sub": "Nhà Trần · 1258 – 1279",
+     "img": "vua-viet-nam/k22.jpg",
+     "credit": "Pvloc90 · CC BY-SA 3.0"
+    },
+    {
+     "title": "Trần Nhân Tông",
+     "sub": "Nhà Trần · 1278 – 1293",
+     "img": "vua-viet-nam/k23.jpg",
+     "credit": "Ptdtch · CC BY-SA 3.0"
+    },
+    {
+     "title": "Trần Anh Tông",
+     "sub": "Nhà Trần · 1293 – 1314",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Minh Tông",
+     "sub": "Nhà Trần · 1314 – 1329",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Hiến Tông",
+     "sub": "Nhà Trần · 1329 – 1341",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Dụ Tông",
+     "sub": "Nhà Trần · 1341 – 1369",
+     "icon": "👑"
+    },
+    {
+     "title": "Đại Định Đế",
+     "sub": "Nhà Trần · 1369 – 1370",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Nghệ Tông",
+     "sub": "Nhà Trần · 1370 – 1372",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Duệ Tông",
+     "sub": "Nhà Trần · 1372 – 1377",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Phế Đế",
+     "sub": "Nhà Trần · 1377 – 1388",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Thuận Tông",
+     "sub": "Nhà Trần · 1388 – 1398",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Thiếu Đế",
+     "sub": "Nhà Trần · 1398 – 1400",
+     "icon": "👑"
+    },
+    {
+     "title": "Hồ Quý Ly",
+     "sub": "Nhà Hồ · 1400 – 1400",
+     "icon": "👑"
+    },
+    {
+     "title": "Hồ Hán Thương",
+     "sub": "Nhà Hồ · 1400 – 1407",
+     "img": "vua-viet-nam/k35.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Giản Định Đế",
+     "sub": "Nhà Hậu Trần · 1407 – 1409",
+     "icon": "👑"
+    },
+    {
+     "title": "Trùng Quang Đế",
+     "sub": "Nhà Hậu Trần · 1409 – 1414",
+     "icon": "👑"
+    },
+    {
+     "title": "Trần Cảo",
+     "sub": "Khởi nghĩa Lam Sơn · 1426 – 1428",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thái Tổ",
+     "sub": "Lê sơ · 1428 – 1433",
+     "img": "vua-viet-nam/k39.jpg",
+     "credit": "Nguyễn Thanh Quang · CC BY-SA 3.0"
+    },
+    {
+     "title": "Lê Thái Tông",
+     "sub": "Lê sơ · 1433 – 1442",
+     "img": "vua-viet-nam/k40.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Lê Nhân Tông",
+     "sub": "Lê sơ · 1442 – 1459",
+     "img": "vua-viet-nam/k41.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Lạng Sơn Vương",
+     "sub": "Lê sơ · 1459 – 1460",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thánh Tông",
+     "sub": "Lê sơ · 1460 – 1497",
+     "img": "vua-viet-nam/k43.jpg",
+     "credit": "Không rõ tác giả · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Hiến Tông",
+     "sub": "Lê sơ · 1497 – 1504",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Túc Tông",
+     "sub": "Lê sơ · 1504 – 1504",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Uy Mục",
+     "sub": "Lê sơ · 1504 – 1509",
+     "img": "vua-viet-nam/k46.jpg",
+     "credit": "Vtduc · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Tương Dực",
+     "sub": "Lê sơ · 1509 – 1516",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Quang Trị",
+     "sub": "Lê sơ · 1516 – 1516",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Chiêu Tông",
+     "sub": "Lê sơ · 1516 – 1525",
+     "img": "vua-viet-nam/k49.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Lê Bảng",
+     "sub": "Lê sơ · 1518 – 1519",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Do",
+     "sub": "Lê sơ · 1519 – 1519",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Cung Hoàng",
+     "sub": "Lê sơ · 1522 – 1527",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Thái Tổ",
+     "sub": "Nhà Mạc · 1527 – 1530",
+     "img": "vua-viet-nam/k53.jpg",
+     "credit": "Feng Shi Yang (馮時暘), Liang Tia · Public domain"
+    },
+    {
+     "title": "Mạc Thái Tông",
+     "sub": "Nhà Mạc · 1530 – 1540",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Hiến Tông",
+     "sub": "Nhà Mạc · 1540 – 1546",
+     "img": "vua-viet-nam/k55.jpg",
+     "credit": "FENG Shi Yang (馮時暘), LIANG Tia · Public domain"
+    },
+    {
+     "title": "Mạc Chính Trung",
+     "sub": "Nhà Mạc · 1546 – 1547",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Tuyên Tông",
+     "sub": "Nhà Mạc · 1546 – 1561",
+     "img": "vua-viet-nam/k57.jpg",
+     "credit": "昭文館 · CC0"
+    },
+    {
+     "title": "Mạc Mục Tông / Mạc Anh Tổ",
+     "sub": "Nhà Mạc · 1561 – 1592",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Cảnh Tông",
+     "sub": "Nhà Mạc · 1592 – 1592",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Mẫn Tông",
+     "sub": "Nhà Mạc · 1592 – 1593",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Đại Tông",
+     "sub": "Nhà Mạc · 1592 – 1625",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Quang Tổ",
+     "sub": "Nhà Mạc · 1623 – 1638",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Minh Tông",
+     "sub": "Nhà Mạc · 1638 – 1677",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Quý Tông",
+     "sub": "Nhà Mạc · 1677 – 1681",
+     "icon": "👑"
+    },
+    {
+     "title": "Mạc Đức Tông",
+     "sub": "Nhà Mạc · 1681 – 1683",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Trang Tông",
+     "sub": "Lê trung hưng · 1533 – 1548",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Trung Tông",
+     "sub": "Lê trung hưng · 1548 – 1556",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Anh Tông",
+     "sub": "Lê trung hưng · 1556 – 1573",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thế Tông",
+     "sub": "Lê trung hưng · 1573 – 1599",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Kính Tông",
+     "sub": "Lê trung hưng · 1599 – 1619",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thần Tông",
+     "sub": "Lê trung hưng · 1619 – 1643",
+     "img": "vua-viet-nam/k71.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Lê Chân Tông",
+     "sub": "Lê trung hưng · 1643 – 1649",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thần Tông",
+     "sub": "Lê trung hưng · 1649 – 1662",
+     "img": "vua-viet-nam/k73.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "title": "Lê Huyền Tông",
+     "sub": "Lê trung hưng · 1663 – 1671",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Gia Tông",
+     "sub": "Lê trung hưng · 1671 – 1675",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Hy Tông",
+     "sub": "Lê trung hưng · 1675 – 1705",
+     "img": "vua-viet-nam/k76.jpg",
+     "credit": "Samuel Baron (fl. 1670s-1690s, · Public domain"
+    },
+    {
+     "title": "Lê Dụ Tông",
+     "sub": "Lê trung hưng · 1705 – 1729",
+     "img": "vua-viet-nam/k77.jpg",
+     "credit": "Người Viết Bài Về Lịch Sử · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Duy Phường",
+     "sub": "Lê trung hưng · 1729 – 1732",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Thuần Tông",
+     "sub": "Lê trung hưng · 1732 – 1735",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Ý Tông",
+     "sub": "Lê trung hưng · 1735 – 1740",
+     "icon": "👑"
+    },
+    {
+     "title": "Lê Hiển Tông",
+     "sub": "Lê trung hưng · 1740 – 1786",
+     "img": "vua-viet-nam/k81.jpg",
+     "credit": "Người Viết Bài Về Lịch Sử · CC BY-SA 4.0"
+    },
+    {
+     "title": "Lê Chiêu Thống",
+     "sub": "Lê trung hưng · 1786 – 1789",
+     "icon": "👑"
+    },
+    {
+     "title": "Thái Đức",
+     "sub": "Nhà Tây Sơn · 1778 – 1788",
+     "icon": "👑"
+    },
+    {
+     "title": "Quang Trung",
+     "sub": "Nhà Tây Sơn · 1788 – 1792",
+     "img": "vua-viet-nam/k84.jpg",
+     "credit": "Tượng_đài_Quang_Trung_tại_Bảo_ · CC BY-SA 3.0"
+    },
+    {
+     "title": "Cảnh Thịnh",
+     "sub": "Nhà Tây Sơn · 1792 – 1802",
+     "icon": "👑"
+    },
+    {
+     "title": "Gia Long",
+     "sub": "Nhà Nguyễn · 1802 – 1820",
+     "icon": "👑"
+    },
+    {
+     "title": "Minh Mạng",
+     "sub": "Nhà Nguyễn · 1820 – 1841",
+     "img": "vua-viet-nam/k87.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Thiệu Trị",
+     "sub": "Nhà Nguyễn · 1841 – 1847",
+     "img": "vua-viet-nam/k88.jpg",
+     "credit": "Không rõ tác giả · CC BY 2.5"
+    },
+    {
+     "title": "Tự Đức",
+     "sub": "Nhà Nguyễn · 1847 – 1883",
+     "img": "vua-viet-nam/k89.jpg",
+     "credit": "The original uploader was Doct · Public domain"
+    },
+    {
+     "title": "Dục Đức",
+     "sub": "Nhà Nguyễn · 1883 – 1883",
+     "img": "vua-viet-nam/k90.jpg",
+     "credit": "Lưu Ly · CC BY-SA 3.0"
+    },
+    {
+     "title": "Hiệp Hòa",
+     "sub": "Nhà Nguyễn · 1883 – 1883",
+     "icon": "👑"
+    },
+    {
+     "title": "Kiến Phúc",
+     "sub": "Nhà Nguyễn · 1883 – 1884",
+     "img": "vua-viet-nam/k92.jpg",
+     "credit": "Họa sĩ đương thời · Public domain"
+    },
+    {
+     "title": "Hàm Nghi",
+     "sub": "Nhà Nguyễn · 1884 – 1885",
+     "img": "vua-viet-nam/k93.jpg",
+     "credit": "Không rõ tác giả · Public domain"
+    },
+    {
+     "title": "Đồng Khánh",
+     "sub": "Nhà Nguyễn · 1885 – 1889",
+     "icon": "👑"
+    },
+    {
+     "title": "Thành Thái",
+     "sub": "Nhà Nguyễn · 1889 – 1907",
+     "icon": "👑"
+    },
+    {
+     "title": "Duy Tân",
+     "sub": "Nhà Nguyễn · 1907 – 1916",
+     "img": "vua-viet-nam/k96.jpg",
+     "credit": "Pierre Dieulefils · Public domain"
+    },
+    {
+     "title": "Khải Định",
+     "sub": "Nhà Nguyễn · 1916 – 1925",
+     "img": "vua-viet-nam/k97.jpg",
+     "credit": "Huong Ky · Public domain"
+    },
+    {
+     "title": "Bảo Đại",
+     "sub": "Nhà Nguyễn · 1925 – 1945",
+     "img": "vua-viet-nam/k98.jpg",
+     "credit": "không rõ.\n\nThe original upload · Public domain"
+    }
+   ],
+   "total": 99,
+   "totalLabel": "đã đọc",
+   "unit": "vị vua",
+   "cols": 3,
+   "cardH": 230,
+   "credit": "Bài \"Vua Việt Nam\" và bài riêng từng vua trên Wikipedia tiếng Việt (CC BY-SA). Ảnh: Wikimedia Commons"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · ĐỌC NGÀY THÁNG",
+   "title": "Sinh năm nào, mất năm nào?",
+   "cookbook": "Date extraction · Pre-parsed value extraction",
+   "idea": "Máy tìm mọi con số năm trong bài, Jev chỉ được chọn. Ghi \"?\" thì Jev trả lời không rõ.",
+   "stateLines": [
+    "Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), khi xưng vương gọi là Tiền Ngô Vương (Chữ Hán:前吳王) là vị vua đầu tiên của …",
+    "Các năm tìm được: 898, 944, 938, 939"
+   ],
+   "questions": [
+    {
+     "name": "born",
+     "kind": "Choice",
+     "text": "Năm sinh?"
+    },
+    {
+     "name": "died",
+     "kind": "Choice",
+     "text": "Năm mất?"
+    },
+    {
+     "name": "came",
+     "kind": "Choice",
+     "text": "Lên ngôi bằng cách nào?"
+    },
+    {
+     "name": "ended",
+     "kind": "Choice",
+     "text": "Rời ngôi thế nào?"
+    },
+    {
+     "name": "legacy",
+     "kind": "Score",
+     "text": "Sử sách đánh giá ra sao?"
+    }
+   ],
+   "results": [
+    {
+     "name": "born",
+     "value": "898",
+     "tone": "good"
+    },
+    {
+     "name": "died",
+     "value": "944",
+     "tone": "good"
+    },
+    {
+     "name": "came",
+     "value": "Lập triều đại mới"
+    },
+    {
+     "name": "ended",
+     "value": "Mất khi đang trị vì"
+    },
+    {
+     "name": "legacy",
+     "value": "4,0/4",
+     "tone": "warn"
+    }
+   ],
+   "footer": "Kiểm tra: năm Jev chọn khớp 74/74 với ngày ghi trong ngoặc đầu bài"
+  },
+  {
+   "type": "bars",
+   "key": "came",
+   "step": "BƯỚC 3 · LÊN NGÔI",
+   "title": "Lên ngôi bằng cách nào?",
+   "bars": [
+    {
+     "label": "Nối ngôi cha",
+     "value": 52,
+     "text": "52 vị",
+     "tone": "good"
+    },
+    {
+     "label": "Được quyền thần, triều đình lập",
+     "value": 18,
+     "text": "18 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Nối ngôi anh, chú, họ hàng",
+     "value": 11,
+     "text": "11 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Lập triều đại mới",
+     "value": 9,
+     "text": "9 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Cướp ngôi",
+     "value": 5,
+     "text": "5 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Ngoại bang dựng lên",
+     "value": 2,
+     "text": "2 vị",
+     "tone": "jev"
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "ended",
+   "step": "BƯỚC 4 · RỜI NGÔI",
+   "title": "Kết cục của 99 vị vua",
+   "bars": [
+    {
+     "label": "Mất khi đang trị vì",
+     "value": 41,
+     "text": "41 vị",
+     "tone": "good"
+    },
+    {
+     "label": "Bị phế truất",
+     "value": 16,
+     "text": "16 vị",
+     "tone": "bad"
+    },
+    {
+     "label": "Bị giết, bức tử",
+     "value": 13,
+     "text": "13 vị",
+     "tone": "bad"
+    },
+    {
+     "label": "Tự nhường ngôi",
+     "value": 13,
+     "text": "13 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Mất nước trong chiến tranh",
+     "value": 4,
+     "text": "4 vị",
+     "tone": "jev"
+    },
+    {
+     "label": "Bị bắt, lưu đày",
+     "value": 3,
+     "text": "3 vị",
+     "tone": "jev"
+    }
+   ],
+   "note": "9 vị bài viết không nói rõ."
+  },
+  {
+   "type": "heat",
+   "key": "dyn",
+   "step": "BƯỚC 5 · THEO TRIỀU ĐẠI",
+   "title": "Mỗi triều một kiểu kết thúc",
+   "rows": [
+    "Nhà Lý",
+    "Nhà Trần",
+    "Lê sơ",
+    "Nhà Mạc",
+    "Lê trung hưng",
+    "Nhà Nguyễn"
+   ],
+   "cols": [
+    "Mất tại vị",
+    "Bị phế",
+    "Bị giết",
+    "Nhường ngôi"
+   ],
+   "values": [
+    [
+     7,
+     1,
+     0,
+     1
+    ],
+    [
+     2,
+     2,
+     3,
+     6
+    ],
+    [
+     5,
+     5,
+     4,
+     0
+    ],
+    [
+     4,
+     1,
+     0,
+     2
+    ],
+    [
+     10,
+     2,
+     1,
+     3
+    ],
+    [
+     8,
+     3,
+     0,
+     0
+    ]
+   ],
+   "highlight": [
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "legend": "Số vị vua. Nhà Trần nổi bật với tục nhường ngôi làm Thái thượng hoàng."
+  },
+  {
+   "type": "columns",
+   "key": "reigns",
+   "step": "BƯỚC 6 · THỜI GIAN TRỊ VÌ",
+   "title": "Mỗi cột là một vị vua",
+   "cols": [
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 6,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 3,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 11,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 25,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 4,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 19,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 26,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 18,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 55,
+     "color": "#d97706",
+     "highlight": true
+    },
+    {
+     "label": "",
+     "value": 11,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 37,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 28,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 13,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 33,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 21,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 21,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 12,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 28,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 11,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 10,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 7,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 9,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 17,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 37,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 7,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 7,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 9,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 3,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 10,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 6,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 8,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 17,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 31,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 26,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 33,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 20,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 24,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 15,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 39,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 6,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 13,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 8,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 4,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 30,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 4,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 2,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 24,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 3,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 3,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 5,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 46,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 10,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 3,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 4,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 10,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 18,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 21,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 6,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 36,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 0,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 1,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 4,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 18,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 9,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 9,
+     "color": "#92400e",
+     "highlight": false
+    },
+    {
+     "label": "",
+     "value": 20,
+     "color": "#92400e",
+     "highlight": false
+    }
+   ],
+   "note": "Theo thứ tự thời gian, từ 939 tới 1945. Trung vị chỉ 8 năm; cao nhất là Lý Nhân Tông."
+  },
+  {
+   "type": "timeline",
+   "key": "records",
+   "step": "BƯỚC 7 · KỶ LỤC",
+   "title": "Những con số đặc biệt",
+   "items": [
+    {
+     "years": "Trị vì lâu nhất",
+     "title": "Lý Nhân Tông",
+     "sub": "Nhà Lý · 1072–1127",
+     "stat": "55 năm",
+     "img": "vua-viet-nam/k13.jpg",
+     "credit": "Nguyễn Thanh Quang · CC BY-SA 3.0"
+    },
+    {
+     "years": "Lên ngôi nhỏ tuổi nhất",
+     "title": "Lê Nhân Tông",
+     "sub": "Lê sơ · sinh 1441, lên ngôi 1442",
+     "stat": "1 tuổi",
+     "img": "vua-viet-nam/k41.jpg",
+     "credit": "Jean-Michel Moullec from Vern  · CC BY 2.0"
+    },
+    {
+     "years": "Sống thọ nhất",
+     "title": "Bảo Đại",
+     "sub": "Nhà Nguyễn · 1913–1997",
+     "stat": "84 tuổi",
+     "img": "vua-viet-nam/k98.jpg",
+     "credit": "không rõ.\n\nThe original upload · Public domain"
+    },
+    {
+     "years": "Mất sớm nhất",
+     "title": "Lê Quang Trị",
+     "sub": "Lê sơ · 1508–1516",
+     "stat": "8 tuổi"
+    }
+   ]
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Cứ 8 vị vua, 1 vị bị giết",
+   "tagline": "13 trong 99 vị bị giết hoặc bức tử, 16 vị bị phế. Hơn một nửa nối ngôi cha, và thời gian trị vì trung vị chỉ 8 năm.",
+   "stats": [
+    {
+     "value": "99",
+     "label": "vị vua"
+    },
+    {
+     "value": "74/74",
+     "label": "năm sinh, mất khớp nguồn"
+    },
+    {
+     "value": "0,6 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [],
+   "gridTitle": "Được bài viết đánh giá cao nhất",
+   "gridCols": 1,
+   "grid": [
+    {
+     "label": "Đinh Tiên Hoàng",
+     "value": "4,0/4"
+    },
+    {
+     "label": "Lý Thái Tổ",
+     "value": "4,0/4"
+    },
+    {
+     "label": "Lý Thánh Tông",
+     "value": "4,0/4"
+    },
+    {
+     "label": "Trần Nhân Tông",
+     "value": "4,0/4"
+    },
+    {
+     "label": "Quang Trung",
+     "value": "4,0/4"
+    }
+   ],
+   "footnote": "Năm trị vì theo bảng của bài \"Vua Việt Nam\" (bài riêng có thể ghi lệch 1 năm). Đánh giá là cách văn bản Wikipedia mô tả triều đại, không phải phán xét của Jev."
+  }
+ ]
+}

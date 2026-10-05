@@ -12,7 +12,7 @@ from jevcall import decide
 
 MODEL = "typesafe/jev-1.13"
 PRICE_PER_M_INPUT = 0.042
-UA = {"User-Agent": "jev-lab research script (public data)"}
+UA = {"User-Agent": "jev-lab/1.0 (https://github.com/mduongvandinh/jev-lab; research on public data)"}
 
 
 def get_json(url, headers=None, tries=5):

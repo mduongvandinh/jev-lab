@@ -100,7 +100,7 @@ def main():
          "questions": [{"name": "role", "kind": "Choice", "text": "Tuyển vị trí gì?"}, {"name": "remote", "kind": "Choice", "text": "Từ xa, hybrid hay tại chỗ?"},
                        {"name": "ai_skill", "kind": "Noul", "text": "Có đòi kinh nghiệm AI?"}, {"name": "visa", "kind": "Noul", "text": "Có bảo lãnh visa?"},
                        {"name": "salary_low", "kind": "Choice", "text": "Lương thấp nhất?"}, {"name": "salary_high", "kind": "Choice", "text": "Lương cao nhất?"}],
-         "results": [{"name": "role", "value": ROLE_VI[demo_a["role"]["choice"]]}, {"name": "remote", "value": demo_a["remote"]["choice"]},
+         "results": [{"name": "role", "value": ROLE_VI[demo_a["role"]["choice"]]}, {"name": "remote", "value": {"remote": "Từ xa", "hybrid": "Hybrid", "onsite": "Tại chỗ", "unclear": "Không ghi"}[demo_a["remote"]["choice"]]},
                      {"name": "ai_skill", "value": f"có: {round(demo_a['ai_skill']['noul'] * 100)}%", "tone": "warn"}, {"name": "visa", "value": f"có: {round(demo_a['visa']['noul'] * 100)}%", "tone": "muted"},
                      {"name": "salary", "value": f"{k(dlo)} – {k(dhi)}", "tone": "good"}],
          "footer": "+ 2 câu nữa: khu vực và cấp bậc"},

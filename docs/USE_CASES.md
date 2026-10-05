@@ -43,10 +43,10 @@ Dưới đây là các mẫu đã dùng thật trong repo, rồi tới danh sác
 | Chủ đề | Dữ liệu | Mẫu |
 |---|---|---|
 | ⭐ Báo Việt Nam "giật tít" đến mức nào | RSS các báo (chỉ tiêu đề, mô tả) | Chấm điểm, đối chiếu tít với mô tả |
-| ⭐ Người Việt đọc gì trên Wikipedia | Lượt xem Wikipedia tiếng Việt | Phân loại theo cây |
+| ⭐ Người Việt đọc gì trên Wikipedia ✅ | Lượt xem Wikipedia tiếng Việt | Phân loại theo cây, Guardrails |
 | ⭐ App giao đồ ăn, ngân hàng bị chê vì gì | Đánh giá App Store Việt Nam | Chưa chắc thì bỏ, hai ngưỡng |
 | Trang web có giấu lệnh cho AI không | Trang được dẫn trên Hacker News | Classifying RAG passages |
-| Bình luận nào trả lời đúng câu hỏi | Ask HN | Re-ranking, Line-by-line search |
+| Bình luận nào trả lời đúng câu hỏi | Ask HN | Re-ranking, Line-by-line search (đã làm với đố vui lịch sử ✅) |
 | Game bị "review bom" vì đâu 🖼️ | API đánh giá Steam | Hai ngưỡng, chưa chắc thì nói rộng |
 | Sách kinh điển nào mở đầu cuốn nhất | Gutendex | Biến chữ thành cột số |
 | Paper có trích dẫn đúng không | arXiv | Citation check, SDE cascade |

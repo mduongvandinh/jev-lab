@@ -1,0 +1,11 @@
+{
+ "intro": "Người Việt đọc gì trên Wikipedia? Mình cho AI Jev đọc 1.500 bài được xem nhiều nhất trong 12 tháng qua, tổng cộng 103 triệu lượt xem. Kết quả: 38% là về con người.",
+ "scan": "Mỗi tháng, Wikimedia công bố 1.000 bài tiếng Việt được xem nhiều nhất. Gộp 12 tháng có hơn 3.100 bài, mình lấy 1.500 bài dẫn đầu. Bài nào bị chặn thì chỉ hiện ô khóa.",
+ "technique": "Với mỗi bài, Jev trả lời năm câu trong một lần gọi: bài nói về gì, vì sao được đọc, có về Việt Nam không. Hai câu cuối là câu chắn: có phải nội dung người lớn, có phải vụ án liên quan người thật. Bài Tết Trung thu được xếp vào văn hóa, lý do là ngày lễ.",
+ "guard": "Đây là cách của cookbook Guardrails với hai ngưỡng. Từ 0,7 trở lên thì chặn: 37 bài người lớn và 9 bài vụ án. Vùng giữa thì để người xem xét: thêm 14 bài, cũng không hiện trong video. Ngưỡng nằm trong code, muốn chặt hơn chỉ cần đổi số.",
+ "topics": "Tính theo lượt xem, 38% là bài về con người. Sau đó là giải trí 14%, địa danh 12%, và lịch sử chính trị 11%. 56% lượt đọc là chủ đề Việt Nam.",
+ "tree": "Theo cookbook Hierarchical classification, Jev xếp chủ đề lớn trước, rồi mới chọn chủ đề con trong nhánh đó. Trần Hưng Đạo là nhân vật lịch sử, World Cup 2026 là bóng đá, Cortis là nhóm nhạc Hàn Quốc. Chủ đề con được đọc nhiều nhất là chính trị gia.",
+ "why": "Vì sao một bài được đọc? 28% lượt xem đến từ bài đang có tin tức, 26% là chủ đề lúc nào cũng có người đọc, và 13% vì đang có giải đấu thể thao.",
+ "history": "Nhân vật lịch sử được đọc nhiều nhất là Hồ Chí Minh, rồi Trần Hưng Đạo. Bất ngờ là hai hoàng đế Trung Quốc, Tần Thủy Hoàng và Minh Thái Tổ, cũng lọt top, ngang với Võ Nguyên Giáp.",
+ "reveal": "Bài được đọc nhiều nhất cả năm lại là Đài Truyền hình Kỹ thuật số VTC, với 5,2 triệu lượt. Cả thí nghiệm gần 3.000 lần gọi Jev tốn khoảng 12 cent. Lưu ý, lượt xem có thể gồm một phần lưu lượng tự động."
+}

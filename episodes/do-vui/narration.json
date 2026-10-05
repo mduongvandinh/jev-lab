@@ -1,0 +1,8 @@
+{
+ "intro": "Đố bạn: vua nào đổi quốc hiệu thành Đại Việt? Mình đố AI Jev 24 câu như vậy, với đáp án nằm đâu đó trong hơn 5.000 đoạn văn Wikipedia. Trong đó có 4 câu bẫy.",
+ "scan": "Kho tài liệu là toàn văn 99 bài Wikipedia về các vị vua Việt Nam, chia thành 5.095 đoạn. Muốn trả lời đúng, phải tìm đúng đoạn.",
+ "technique": "Bước một, tìm theo từ khóa để lấy 30 đoạn ứng viên. Cách này nhanh, nhưng với câu hỏi về Đại Việt, nó xếp đoạn về Minh Mạng lên đầu. Bước hai, theo cookbook Re-ranking, Jev chấm từng đoạn xem có thật sự trả lời không, cả 30 đoạn trong một lần gọi. Đoạn về Lý Thánh Tông được 97%, và lên đầu.",
+ "judge": "Theo cookbook Line-by-line search, Jev còn chỉ ra đúng câu trả lời trong đoạn văn. Với câu bẫy như vua nào vô địch World Cup, từ khóa vẫn trả về một đoạn bất kỳ, còn Jev cho điểm cao nhất chỉ 8%, nghĩa là không có đáp án.",
+ "score": "Chấm điểm: chỉ tìm từ khóa đúng 15 trên 20 câu. Thêm Jev xếp lại, đúng 19 trên 20. Và Jev nhận ra cả 4 câu bẫy.",
+ "reveal": "Kết luận: tìm từ khóa để lọc nhanh, rồi để Jev xếp lại và biết nói không có. Cả thí nghiệm tốn chưa tới 1 cent. Lưu ý, câu đố do mình đặt và kho chỉ gồm 99 bài về các vua."
+}

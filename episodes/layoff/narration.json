@@ -1,0 +1,10 @@
+{
+ "intro": "Năm 2026, công ty nào cắt người, vì sao, và người bị cắt sau đó làm gì? Mình cho AI Jev đọc gần 2.500 tiêu đề tin layoff và hơn 500 chuyện kể của người trong cuộc.",
+ "scan": "Tiêu đề lấy từ Google News tiếng Anh, từ tháng 1 tới tháng 10 năm 2026. Jev loại 620 tiêu đề không phải tin một công ty cụ thể cắt việc.",
+ "technique": "Với mỗi tiêu đề, Jev trả lời năm câu trong một lần gọi. Tên công ty thì máy tìm sẵn các cụm viết hoa, Jev chỉ được chọn một. Tiêu đề này nói Meta cắt 8.000 người. Jev chọn đúng Meta, và lý do là AI.",
+ "companies": "Meta bị nhắc nhiều nhất với 148 tiêu đề, rồi tới Amazon, Oracle, Disney và Nike. Đây là số tiêu đề, không phải số người bị cắt.",
+ "sectors": "Phần mềm và Internet đứng đầu, sau đó là bán lẻ, truyền thông giải trí, và khu vực nhà nước. Phần lớn tin nói về Mỹ.",
+ "reasons": "Trong 556 tiêu đề có nêu lý do, AI đứng đầu với 32%, nhỉnh hơn tái cấu trúc. Meta, Oracle và Block là những cái tên gắn với AI nhiều nhất.",
+ "after": "Còn người bị cắt? Trong 283 người tự kể trên Hacker News, đông nhất là nhóm vẫn đang tìm việc, và đó cũng là nhóm buồn nhất. Nhóm tự mở công ty lại có tâm trạng tốt nhất. Mốc tìm được việc hay được kể là sáu tháng.",
+ "reveal": "Kết luận: AI là lý do được nêu nhiều nhất cho các đợt cắt người năm 2026. Cả thí nghiệm tốn khoảng 14 cent. Lưu ý, đây là tiêu đề báo tiếng Anh và chuyện kể của giới lập trình viên, không đại diện cho mọi người lao động."
+}

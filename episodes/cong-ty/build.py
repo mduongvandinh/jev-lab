@@ -70,7 +70,7 @@ def main():
          "bars": [{"label": AREA_VI[k], "value": v, "text": f"{v}", "tone": "good" if i == 0 else "jev"} for i, (k, v) in enumerate(area.most_common(7))],
          "note": f"{round(ai * 100)}% lấy AI làm lõi sản phẩm. {round(sf * 100)}% đặt ở San Francisco; đội trung vị {team:.0f} người."},
         {"type": "bars", "key": "jobs", "step": "BƯỚC 4 · NGHỀ BỊ NHẮM TỚI", "title": "Startup đang tự động hóa việc gì?",
-         "bars": [{"label": JOB_VI[k], "value": v, "text": f"{v} công ty", "tone": "warn" if i < 3 else "jev"} for i, (k, v) in enumerate(jobs.most_common(8))],
+         "bars": [{"label": JOB_VI[k], "value": v, "text": f"{v}", "tone": "warn" if i < 3 else "jev"} for i, (k, v) in enumerate(jobs.most_common(8))],
          "note": f"{len(auto)} trên {len(Y)} startup ({round(100 * len(auto) / len(Y))}%) nhắm tới việc con người đang được trả lương để làm."},
         {"type": "bars", "key": "closed", "step": "BƯỚC 5 · CÔNG TY ĐÓNG CỬA", "title": "Ngành nào đóng cửa nhiều nhất",
          "bars": [{"label": SECTOR_VI[k], "value": v, "text": f"{v} tin", "tone": "bad" if i == 0 else "jev"} for i, (k, v) in enumerate(sector.most_common(6))],
@@ -81,7 +81,8 @@ def main():
         {"type": "reveal", "key": "reveal", "kicker": "KẾT QUẢ", "headline": "Đóng: bán lẻ, hàng không. Mở: AI agent",
          "tagline": f"{round(100 * len(auto) / len(Y))}% startup mới nhắm tự động hóa việc con người đang làm, nhiều nhất là phân tích dữ liệu và lập trình.",
          "stats": [{"value": str(len(Y)), "label": "startup YC 2026"}, {"value": f"{len(C):,}".replace(",", "."), "label": "tin đóng cửa"}, {"value": f"{spend['usd'] * 100:.0f} cent", "label": "tiền gọi Jev"}],
-         "bullets": [f"{round(ai * 100)}% startup YC 2026 lấy AI làm lõi", f"Đóng cửa nhiều nhất: {SECTOR_VI[sector.most_common(1)[0][0]].lower()}", f"Lý do hay gặp nhất: {REASON_VI[max(stated, key=stated.get)].lower()}"],
+         "bullets": [f"{round(ai * 100)}% startup YC 2026 lấy AI làm lõi", "Đóng cửa nhiều nhất: bán lẻ và thương mại điện tử" if sector.most_common(1)[0][0] == "retail_ecommerce" else f"Đóng cửa nhiều nhất: {SECTOR_VI[sector.most_common(1)[0][0]]}", f"Lý do hay gặp nhất: {REASON_VI[max(stated, key=stated.get)].lower()}"],
+         "gridTitle": "Bị nhắc nhiều nhất trong tin đóng cửa", "gridCols": 2, "grid": [{"label": c, "value": f"{v} tin"} for c, v in comp.most_common(6)],
          "footnote": "Startup YC là một vườn ươm, không đại diện mọi công ty mới. Tin đóng cửa là tiêu đề báo tiếng Anh, chủ yếu ở Mỹ; một công ty có thể có nhiều tin."},
     ]}
     json.dump(ep, open(os.path.join(HERE, "episode.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

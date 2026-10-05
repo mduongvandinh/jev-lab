@@ -936,7 +936,7 @@
      "tone": "jev"
     }
    ],
-   "note": "Trên 556 tin có nêu lý do; 1169 tin không nêu. Nêu AI nhiều nhất: Meta, Oracle, Block."
+   "note": "Trên 556 tin có nêu lý do; 1.169 tin không nêu. Nêu AI nhiều nhất: Meta, Oracle, Block."
   },
   {
    "type": "bars",
@@ -994,7 +994,7 @@
      "tone": "jev"
     }
    ],
-   "note": "283 người tự kể trên Hacker News; 113 người nói rõ kết cục. Mốc tìm việc hay được kể nhất: 6 months (41 người có nêu thời gian)."
+   "note": "283 người tự kể trên Hacker News; 113 người nói rõ kết cục. Mốc tìm việc hay được kể nhất: 6 tháng (41 người có nêu thời gian)."
   },
   {
    "type": "reveal",

@@ -1,0 +1,132 @@
+{
+ "articles": 1500,
+ "views": 103130986,
+ "blocked": {
+  "nội dung người lớn": 37,
+  "vụ án có người thật": 9
+ },
+ "review": 14,
+ "topic": {
+  "people": 0.381,
+  "entertainment": 0.144,
+  "places": 0.122,
+  "history_politics": 0.114,
+  "sports": 0.078,
+  "society_culture": 0.047,
+  "science_tech": 0.041,
+  "adult": 0.039,
+  "crime_disaster": 0.023,
+  "other": 0.01
+ },
+ "sub": {
+  "people/politician": 0.152,
+  "people/historical": 0.112,
+  "entertainment/vietnamese_show": 0.095,
+  "sports/football": 0.072,
+  "history_politics/government": 0.063,
+  "places/country": 0.061,
+  "places/vietnam_place": 0.05,
+  "people/athlete": 0.049,
+  "people/entertainer": 0.04,
+  "history_politics/vn_history": 0.032
+ },
+ "why": {
+  "news": 0.281,
+  "evergreen": 0.26,
+  "unclear": 0.177,
+  "sports_event": 0.129,
+  "holiday": 0.065,
+  "tv_airing": 0.061,
+  "scandal_crime": 0.021,
+  "death": 0.005
+ },
+ "vietnam": 0.559,
+ "history": [
+  [
+   "Hồ Chí Minh",
+   429634
+  ],
+  [
+   "Trần Hưng Đạo",
+   213916
+  ],
+  [
+   "Tần Thủy Hoàng",
+   212572
+  ],
+  [
+   "Minh Thái Tổ",
+   211503
+  ],
+  [
+   "Võ Nguyên Giáp",
+   210997
+  ],
+  [
+   "Võ Thị Sáu",
+   202020
+  ],
+  [
+   "Minh Thành Tổ",
+   185476
+  ],
+  [
+   "Gia Long",
+   180074
+  ]
+ ],
+ "top": [
+  [
+   "Đài Truyền hình Kỹ thuật số VTC",
+   5199917
+  ],
+  [
+   "Bảng xếp hạng bóng đá nam FIFA",
+   1000059
+  ],
+  [
+   "XNXX",
+   967420
+  ],
+  [
+   "Việt Nam",
+   798582
+  ],
+  [
+   "Lê Minh Hưng",
+   785907
+  ]
+ ],
+ "examples": [
+  [
+   "Tết Trung thu",
+   "society_culture",
+   "holiday"
+  ],
+  [
+   "Trần Hưng Đạo",
+   "people",
+   "historical"
+  ],
+  [
+   "Giải vô địch bóng đá thế giới 2026",
+   "sports",
+   "football"
+  ],
+  [
+   "Cortis",
+   "entertainment",
+   "korean"
+  ]
+ ],
+ "cost": {
+  "calls": 2943,
+  "input_tokens": 2738453,
+  "usd": 0.115
+ },
+ "demo": {
+  "title": "Tết Trung thu",
+  "topic": "society_culture",
+  "why": "holiday"
+ }
+}

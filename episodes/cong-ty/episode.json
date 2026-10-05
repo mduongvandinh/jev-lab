@@ -859,49 +859,49 @@
     {
      "label": "Phân tích dữ liệu",
      "value": 60,
-     "text": "60 công ty",
+     "text": "60",
      "tone": "warn"
     },
     {
      "label": "Lập trình, kiểm thử",
      "value": 56,
-     "text": "56 công ty",
+     "text": "56",
      "tone": "warn"
     },
     {
      "label": "Lao động chân tay",
      "value": 39,
-     "text": "39 công ty",
+     "text": "39",
      "tone": "warn"
     },
     {
      "label": "Hành chính y tế",
      "value": 23,
-     "text": "23 công ty",
+     "text": "23",
      "tone": "jev"
     },
     {
      "label": "Bán hàng",
      "value": 22,
-     "text": "22 công ty",
+     "text": "22",
      "tone": "jev"
     },
     {
      "label": "Kế toán",
      "value": 21,
-     "text": "21 công ty",
+     "text": "21",
      "tone": "jev"
     },
     {
      "label": "Pháp lý",
      "value": 17,
-     "text": "17 công ty",
+     "text": "17",
      "tone": "jev"
     },
     {
      "label": "Chăm sóc khách hàng",
      "value": 12,
-     "text": "12 công ty",
+     "text": "12",
      "tone": "jev"
     }
    ],
@@ -1019,8 +1019,36 @@
    ],
    "bullets": [
     "83% startup YC 2026 lấy AI làm lõi",
-    "Đóng cửa nhiều nhất: bán lẻ, tmđt",
+    "Đóng cửa nhiều nhất: bán lẻ và thương mại điện tử",
     "Lý do hay gặp nhất: nợ, cạn tiền"
+   ],
+   "gridTitle": "Bị nhắc nhiều nhất trong tin đóng cửa",
+   "gridCols": 2,
+   "grid": [
+    {
+     "label": "Spirit Airlines",
+     "value": "45 tin"
+    },
+    {
+     "label": "Saks Global",
+     "value": "22 tin"
+    },
+    {
+     "label": "Eddie Bauer",
+     "value": "16 tin"
+    },
+    {
+     "label": "West Marine",
+     "value": "16 tin"
+    },
+    {
+     "label": "QVC",
+     "value": "13 tin"
+    },
+    {
+     "label": "LIV Golf",
+     "value": "13 tin"
+    }
    ],
    "footnote": "Startup YC là một vườn ươm, không đại diện mọi công ty mới. Tin đóng cửa là tiêu đề báo tiếng Anh, chủ yếu ở Mỹ; một công ty có thể có nhiều tin."
   }

@@ -1,0 +1,11 @@
+{
+ "intro": "Trong 99 vị vua Việt Nam, từ Ngô Quyền tới Bảo Đại, cứ khoảng 8 vị thì có 1 vị bị giết. Mình cho AI Jev đọc bài Wikipedia của từng vị vua để đếm.",
+ "scan": "Danh sách lấy từ bài Vua Việt Nam trên Wikipedia tiếng Việt, từ nhà Ngô năm 939 tới nhà Nguyễn năm 1945. Thời Hùng Vương mang tính truyền thuyết nên không tính.",
+ "technique": "Năm sinh, năm mất được viết đủ kiểu: ngày tháng năm, dấu gạch chéo, hay dấu hỏi khi không rõ. Theo cookbook Date extraction, máy tìm mọi con số năm trong bài, Jev chỉ chọn đâu là năm sinh, đâu là năm mất. Ngô Quyền sinh năm 898, mất năm 944. Kết quả khớp 74 trên 74 vị có ghi ngày tháng.",
+ "came": "Hơn một nửa, 52 vị, lên ngôi nhờ nối ngôi cha. 18 vị được quyền thần hoặc triều đình dựng lên. Chỉ 9 vị tự lập ra triều đại mới.",
+ "ended": "Kết cục thì sao? 41 vị mất khi đang trị vì. Nhưng 16 vị bị phế truất, và 13 vị bị giết hoặc bị bức tử.",
+ "dyn": "Mỗi triều một kiểu. Nhà Trần có 6 vị tự nhường ngôi để làm Thái thượng hoàng. Nhà Lê sơ thì sóng gió: 5 vị bị phế và 4 vị bị giết.",
+ "reigns": "Mỗi cột là một vị vua theo thứ tự thời gian. Thời gian trị vì trung vị chỉ 8 năm. Cột cao nhất là Lý Nhân Tông, 55 năm.",
+ "records": "Vài kỷ lục: Lê Nhân Tông lên ngôi khi mới 1 tuổi. Bảo Đại, vị vua cuối cùng, sống tới 84 tuổi. Còn Lê Quang Trị mất khi mới 8 tuổi.",
+ "reveal": "Những vị được bài viết đánh giá cao nhất là Đinh Tiên Hoàng, Lý Thái Tổ, Lý Thánh Tông, Trần Nhân Tông và Quang Trung. Cả thí nghiệm 99 lần gọi Jev tốn chưa tới một cent."
+}

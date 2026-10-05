@@ -24,6 +24,12 @@ OUT_VI = {"same_field_job": "Việc mới cùng nghề", "different_field_job": 
           "still_searching": "Vẫn đang tìm", "break_retired": "Nghỉ, về hưu", "study": "Đi học lại", "unclear": "Không rõ"}
 
 
+def vi_time(t):
+    w = {"a": "1", "one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9", "ten": "10", "eleven": "11", "twelve": "12"}
+    n, unit = t.split(" ", 1)
+    return f"{w.get(n.lower(), n)} {'tháng' if unit.startswith('month') else 'năm' if unit.startswith('year') else 'tuần'}"
+
+
 def pick(text, a, key, fn):
     return fn(text)[int(a[key]["choice"][1:])] if key in a and a[key]["choice"] != "none" else None
 
@@ -74,10 +80,10 @@ def main():
          "note": f"Nước được nêu nhiều nhất: Mỹ, {country['us']} tin; Đức {country['germany']}, Anh {country['uk']}."},
         {"type": "bars", "key": "reasons", "step": "BƯỚC 5 · LÝ DO", "title": "Lý do được nêu trong tiêu đề",
          "bars": [{"label": REASON_VI[r], "value": v, "text": f"{round(100 * v / sum(stated.values()))}%", "tone": "warn" if r == "ai_automation" else "jev"} for r, v in sorted(stated.items(), key=lambda kv: -kv[1])[:6]],
-         "note": f"Trên {sum(stated.values())} tin có nêu lý do; {reason['not_stated']} tin không nêu. Nêu AI nhiều nhất: {', '.join(c for c, _ in ai_comp.most_common(3))}."},
+         "note": f"Trên {sum(stated.values())} tin có nêu lý do; {reason['not_stated']:,} tin không nêu.".replace(",", ".") + f" Nêu AI nhiều nhất: {', '.join(c for c, _ in ai_comp.most_common(3))}."},
         {"type": "bars", "key": "after", "step": "BƯỚC 6 · SAU KHI BỊ CẮT", "title": "Họ đã làm gì tiếp?",
          "bars": [{"label": OUT_VI[o], "value": v, "text": f"{v} người", "sub": f"tâm trạng {mood[o]:.1f}/4".replace(".", ","), "tone": "good" if mood[o] >= 2.4 else "bad" if mood[o] < 1.6 else "jev"} for o, v in top_out],
-         "note": f"{len(st)} người tự kể trên Hacker News; {sum(outc.values())} người nói rõ kết cục. Mốc tìm việc hay được kể nhất: {tt.most_common(1)[0][0]} ({sum(tt.values())} người có nêu thời gian)."},
+         "note": f"{len(st)} người tự kể trên Hacker News; {sum(outc.values())} người nói rõ kết cục. Mốc tìm việc hay được kể nhất: {vi_time(tt.most_common(1)[0][0])} ({sum(tt.values())} người có nêu thời gian)."},
         {"type": "reveal", "key": "reveal", "kicker": "KẾT QUẢ", "headline": "AI là lý do được nêu nhiều nhất",
          "tagline": f"{round(100 * stated['ai_automation'] / sum(stated.values()))}% tiêu đề có nêu lý do nhắc tới AI. Người tự mở công ty sau layoff có tâm trạng tốt nhất, người vẫn đang tìm việc tệ nhất.",
          "stats": [{"value": f"{len(lay):,}".replace(",", "."), "label": "tin cắt việc"}, {"value": str(len(st)), "label": "chuyện kể người thật"}, {"value": f"{spend['usd'] * 100:.0f} cent", "label": "tiền gọi Jev"}],

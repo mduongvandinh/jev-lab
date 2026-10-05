@@ -21,6 +21,13 @@
 14. **Thiết kế truy vấn để không lệch mẫu**: bỏ truy vấn "grapheneos pixel"; tìm hai chiều đổi máy với số truy vấn bằng nhau; nêu rõ số khiếu nại phụ thuộc doanh số.
 15. **Tôn trọng nguồn**: dừng khi bị chặn (DeviantArt 403), tôn trọng cờ noai, loại ảnh nhạy cảm/người thật trước khi gửi đi, ghi công tác giả, không hiện mục bị loại.
 
+## Làm việc với Wikipedia và Wikimedia
+18. **User-Agent phải có thông tin liên hệ** (link repo) theo chính sách Wikimedia, nếu không dễ bị 429. Gom 20 bài mỗi request (`prop=extracts|pageimages&exintro`) thay vì 1 request/bài: 1.500 bài từ 1.500 xuống 75 request.
+19. **Dừng tiến trình cũ trước khi chạy lại**: một bộ thu bị treo vẫn ghi đè cùng file; `pkill` theo tên lệnh không bắt được vì tiến trình hiện đường dẫn Python đầy đủ — kiểm tra bằng `lsof`.
+20. **Ngưỡng hiển thị chặt hơn ngưỡng thống kê**: bài y học hay sinh học không bị coi là người lớn (đúng), nhưng không nên lên Reels. Dùng vùng "xem xét" của Guardrails để ẩn khỏi video mà vẫn tính vào số liệu.
+21. **Chỉ dùng ảnh trên Wikimedia Commons** (đường dẫn `/wikipedia/commons/`), lấy tác giả + giấy phép bằng `imageinfo&iiprop=extmetadata` (50 file/request).
+
 ## Video
 16. Bộ tách câu cho TTS chỉ được tách khi dấu câu đứng trước khoảng trắng — nếu không "3.650", "TP.HCM", "jev-1.12" bị cắt đôi.
 17. Phụ đề dài quá 3 dòng sẽ che nội dung: viết câu ngắn.
+22. Lời đọc và hình phải dùng cùng một mẫu số (ví dụ "95% trong số hồ sơ có nhãn chắc chắn" chứ không phải 88% trên mọi hồ sơ).

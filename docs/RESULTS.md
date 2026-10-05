@@ -49,10 +49,10 @@ Mọi con số lấy từ `episodes/<slug>/facts.json` (tạo bởi `build.py`).
 ## Tuyển dụng — `episodes/tuyen-dung`
 - 3.979 tin "Who is hiring" và 6.056 hồ sơ "Who wants to be hired" (10/2025–10/2026). 8 câu/request với tin tuyển, 6 câu với hồ sơ. 12,5 triệu token, 0,53 USD.
 - Người tìm việc trên 100 tin tuyển: 104 (10/2025) → 242 (8/2026) → 218 (9/2026). Không tính 10/2026 (mới đăng vài ngày).
-- Làm từ xa: 88% hồ sơ muốn từ xa; tin cho từ xa hẳn 46%, hybrid 24%, chỉ tại chỗ 23% (nhãn chắc từ 0,6).
+- Làm từ xa (nhãn chắc từ 0,6): 95% hồ sơ muốn từ xa; tin cho từ xa hẳn 46%, hybrid 24%, chỉ tại chỗ 23% (nhãn chắc từ 0,6).
 - Lương (864 tin ghi bằng $, Jev chỉ chọn trong số tiền regex tìm được; điểm giữa khoảng): quản lý kỹ thuật 195k, DevOps 192k, ML/AI 190k, backend và full-stack 175k. Có ca Jev chọn sai (một tin có cả $500k và $250k, Jev chọn $250k cho cả hai đầu).
 - AI: 31% tin đòi kinh nghiệm AI, 48% hồ sơ ghi có AI, 44% công ty làm sản phẩm lõi AI. Lương trung vị tin đòi AI 185k vs không đòi 182,5k.
-- Tin cho người mới đi làm 1,3% (50 tin), hồ sơ người mới 6,6%. Bảo lãnh visa 3%. 60% tin ở Mỹ.
+- Tin cho người mới đi làm 2% (50 tin), hồ sơ người mới 8% (nhãn chắc từ 0,6). Bảo lãnh visa 3%. 60% tin ở Mỹ.
 
 ## Layoff — `episodes/layoff`
 - 2.491 tiêu đề Google News (1–10/2026); 1.871 là tin một công ty cụ thể cắt việc. 515 bình luận HN, 283 người tự kể. 0,14 USD.
@@ -70,6 +70,23 @@ Mọi con số lấy từ `episodes/<slug>/facts.json` (tạo bởi `build.py`).
 - 2.330 tiêu đề đóng cửa → 1.269 về một công ty cụ thể. Ngành: bán lẻ 313, vận tải/du lịch 194. Lý do có nêu: nợ/cạn tiền 105, gian lận/kiện tụng 58.
 - Bị nhắc nhiều: Spirit Airlines, Saks Global, Eddie Bauer, West Marine. 0,14 USD.
 
+## Wikipedia đọc gì — `episodes/wiki-doc-gi`
+- Top 1.000 bài mỗi tháng của vi.wikipedia, 10/2025–9/2026 (3.139 bài khác nhau); lấy 1.500 bài nhiều lượt xem nhất, tổng 103 triệu lượt. 2.943 request, 0,115 USD.
+- Theo lượt xem: con người 38% (chính trị gia 15%, nhân vật lịch sử 11%), giải trí 14%, địa danh 12%, lịch sử/chính trị 11%, thể thao 8%. Chủ đề Việt Nam 56%.
+- Lý do (Jev đoán từ nội dung và tháng đỉnh): tin tức 28%, lúc nào cũng đọc 26%, giải đấu 13%, ngày lễ 7%, phim đang chiếu 6%.
+- Trạm chắn hai ngưỡng: chặn khi người lớn >= 0,7 hoặc Jev xếp chủ đề người lớn (37 bài), vụ án có người thật >= 0,7 (9 bài); vùng xem xét (người lớn >= 0,1 hoặc vụ án >= 0,3) 14 bài — không hiện trên video.
+- Bài đọc nhiều nhất: Đài Truyền hình Kỹ thuật số VTC (5,2 triệu lượt). Giới hạn: lượt xem có thể gồm lưu lượng tự động.
+
+## Vua Việt Nam — `episodes/vua-viet-nam`
+- 99 vua từ nhà Ngô (939) tới nhà Nguyễn (1945), theo bảng bài "Vua Việt Nam"; 99 request, 0,56 cent.
+- Năm sinh/mất: regex tìm năm, Jev chọn (Date extraction) — khớp 74/74 với ngày trong ngoặc đầu bài.
+- Lên ngôi: nối ngôi cha 52, được lập 18, họ hàng 11, lập triều mới 9, cướp ngôi 5. Kết cục: mất tại vị 41, bị phế 16, bị giết/bức tử 13, nhường ngôi 13 (nhà Trần 6).
+- Trị vì trung vị 8 năm; lâu nhất Lý Nhân Tông 55 năm (bảng; bài riêng ghi gần 56); lên ngôi nhỏ nhất Lê Nhân Tông 1 tuổi; thọ nhất Bảo Đại 84 tuổi.
+
+## Đố vui lịch sử — `episodes/do-vui`
+- 20 câu có đáp án + 4 câu bẫy, kho 5.095 đoạn của 99 bài về các vua. BM25 lấy 30 đoạn; Jev chấm 30 Noul trong một request; rồi chọn câu trả lời trong đoạn đứng đầu.
+- Đoạn đứng đầu đúng bài: BM25 15/20, BM25 + Jev 19/20 (câu sai vẫn chỉ đúng câu trả lời, nằm trong bài của vua khác). Câu bẫy: điểm cao nhất 0,08–0,17 → 4/4 "không có". 0,77 cent.
+
 ## Ronaldo — `episodes/ronaldo`
 - Không dùng Jev: cộng từ bảng thống kê Wikipedia (bản 4/10/2026). CLB 1.106 trận/833 bàn; Bồ Đào Nha 234/146; đỉnh 61 bàn mùa 2014–15; 35 danh hiệu tập thể.
 
@@ -86,4 +103,4 @@ Mọi con số lấy từ `episodes/<slug>/facts.json` (tạo bởi `build.py`).
 | Google News RSS | layoff, cong-ty | Chỉ tiêu đề; không lưu trong repo |
 | Y Combinator API | cong-ty | Thông tin công khai của công ty |
 | Wikimedia Commons | bong-da, ronaldo (ảnh) | CC BY / CC BY-SA, ghi tác giả trên video |
-| Wikipedia | ronaldo | CC BY-SA; bảng thống kê tải lại bằng collect.py |
+| Wikipedia, Wikimedia Pageviews | ronaldo, wiki-doc-gi, vua-viet-nam, do-vui | CC BY-SA; tải lại bằng collect.py |
