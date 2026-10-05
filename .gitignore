@@ -1,0 +1,23 @@
+# Cấu hình máy cục bộ (đường dẫn, file key)
+lab/local.json
+.env
+
+# Dữ liệu thô và đáp án Jev: tải/chạy lại bằng collect.py, ask.py
+episodes/*/data/
+episodes/*/jev/
+episodes/*/voice.json
+episodes/phong-cach/descriptions/
+episodes/phong-cach/sheets/
+episodes/phong-cach/thumbs/
+
+# Sản phẩm dựng
+out/
+stills/
+viz/public/
+viz/src/data/
+viz/node_modules
+viz/out/
+*.mp4
+
+__pycache__/
+.DS_Store

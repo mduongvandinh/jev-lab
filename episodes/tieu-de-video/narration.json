@@ -1,0 +1,10 @@
+{
+ "intro": "Đặt tiêu đề kiểu nào thì video dễ nổ view? Mình cho AI Jev chấm 332 tiêu đề của 37 kênh YouTube lớn, rồi đối chiếu với lượt xem thật. Kết quả khiến mình bất ngờ.",
+ "scan": "Dữ liệu là các video gần đây của MrBeast, Veritasium, Marques Brownlee và nhiều kênh khác, lấy qua RSS công khai của YouTube: tiêu đề, ảnh thumbnail và lượt xem.",
+ "technique": "Jev chỉ được xem tiêu đề, không thấy tên kênh hay lượt xem. Mỗi tiêu đề trả lời chín câu trong một lần gọi: gây tò mò cỡ nào, cảm xúc có mạnh không, quy mô có cực lớn không. Đây là cách của cookbook Autoresearch feature discovery. Chữ được biến thành các cột số để phân tích. Tiêu đề này của MrBeast được 3,5 trên 4 về độ tò mò.",
+ "label": "Lượt xem thì so với chính kênh đó, vì kênh lớn thì video nào cũng nhiều view. Video gấp 1,5 lần mức thường của kênh thì tính là nổ view. Một video của Computerphile gấp 6 lần mức thường của kênh.",
+ "heat": "Bản đồ này cho thấy mỗi kênh có một giọng riêng. Half as Interesting và Yes Theory gần như tiêu đề nào cũng gây tò mò. TED-Ed và Wendover chuộng giải thích vì sao. Two Minute Papers hay nhắc tên sản phẩm.",
+ "bars": "Còn câu hỏi chính: kiểu tiêu đề nào nổ view nhiều hơn? Tiêu đề nói về sản phẩm có 30% nổ view, so với 20%. Nhưng với 273 video, mọi chênh lệch vẫn nằm trong mức may rủi.",
+ "judge": "Đối chiếu từng video là thấy. Tiêu đề về quả bom hạt nhân của ColdFusion được chấm rất tò mò, nhưng chỉ đạt 0,2 lần mức thường. Còn tiêu đề rất bình thường về đường hầm eo biển Manche của Wendover lại gấp 2,3 lần.",
+ "reveal": "Kết luận: không có công thức tiêu đề thần kỳ, ít nhất là trong mẫu này. Thứ rõ nhất là mỗi kênh có giọng riêng. Muốn biết tiêu đề nào hợp với bạn, hãy thử A/B trên chính kênh của mình. Cả thí nghiệm chỉ tốn khoảng 1 cent tiền gọi Jev."
+}

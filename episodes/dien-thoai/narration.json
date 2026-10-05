@@ -1,0 +1,11 @@
+{
+ "intro": "Dân công nghệ chê iPhone, Samsung và Pixel vì điều gì, và ai đang đổi phe? Mình cho AI Jev đọc 3.838 bình luận trên Hacker News, diễn đàn của giới lập trình viên.",
+ "scan": "Bình luận được lấy theo từ khóa, từ đầu năm 2025 tới nay. Ngay bước đầu, Jev tự nhận ra 781 bình luận thực ra không nói về điện thoại, và bỏ qua.",
+ "technique": "Với mỗi bình luận, Jev trả lời năm câu trong một lần gọi: nói về máy nào, khen hay chê, chuyện gì, có đổi phe không, và đổi theo hướng nào. Người này kể từng bẻ khóa chiếc iPhone 4, rồi chuyển hẳn sang Android.",
+ "label": "Theo cookbook Self-consistency với Choice, nhãn nào dưới 60% chắc chắn thì không tính. Có 1.229 bình luận rơi vào vùng chưa chắc. Phần còn lại cho thấy iPhone được bàn nhiều nhất.",
+ "heat": "Mỗi máy bị bàn một chuyện. iPhone và Samsung chủ yếu bị bàn về phần mềm và giao diện. Với Pixel, chủ đề số một là quyền riêng tư: gần hai phần ba số bình luận đó nhắc tới GrapheneOS, hệ điều hành bảo mật chạy trên Pixel.",
+ "mood": "Ai được khen nhiều hơn? Pixel 27%, Samsung 24%, iPhone 23%, chênh nhau không nhiều. iPhone và Samsung bị chê nhiều nhất vì phần mềm, Pixel vì quyền riêng tư.",
+ "judge": "Jev đọc chuyện từng người đổi máy. Câu kể rõ ràng thì Jev chắc tới 96 đến 98%. Câu mập mờ thì Jev chỉ 58%, và không được tính.",
+ "switch": "Có 201 người kể mình đã đổi máy: 118 người chuyển sang iPhone, 83 người sang Android. Lý do hàng đầu ở cả hai chiều đều là phần mềm, sau đó là hệ sinh thái.",
+ "reveal": "Kết luận: Pixel được khen nhiều nhất, còn iPhone bị bàn và bị chê nhiều nhất vì phần mềm, khoảng 19% lời chê đó nhắc tới bàn phím. Cả thí nghiệm tốn khoảng 16 cent. Lưu ý, đây là giới lập trình viên nói tiếng Anh, không đại diện cho mọi người dùng."
+}

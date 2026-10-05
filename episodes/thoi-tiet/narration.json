@@ -1,0 +1,11 @@
+{
+ "intro": "Năm 2025, thành phố nào ở Việt Nam có nhiều ngày đẹp trời nhất để ra ngoài? Mình cho AI Jev chấm 3.650 ngày thời tiết của 10 thành phố. Đà Lạt dẫn đầu, còn TP.HCM chỉ có 5 ngày.",
+ "scan": "Bước một là dữ liệu thật. Mỗi thẻ là một ngày của một thành phố: nhiệt độ, lượng mưa, độ ẩm và số giờ nắng, lấy từ Open-Meteo. Tổng cộng 3.650 ngày, từ Sa Pa tới Phú Quốc.",
+ "technique": "Jev là AI chuyên ra quyết định nhanh. Mỗi ngày mình hỏi bốn câu: ra ngoài có dễ chịu không, kiểu ngày gì, phơi đồ có khô không, có nên mang áo mưa không. Cả bốn câu gửi chung một lần gọi, đúng cách của cookbook Parallel questions, rẻ hơn nhiều so với hỏi riêng từng câu. Ngày 12 tháng 3 ở Hà Nội bị chấm khó chịu, mưa phùn, phơi đồ không khô.",
+ "label": "Mỗi đáp án đều kèm mức chắc chắn. Ngày đầu năm ở Hà Nội được 3,8 trên 4, gần như lý tưởng. Một ngày tháng 4 ở TP.HCM bị chê vì nắng nóng. Cả năm, kiểu ngày Jev gặp nhiều nhất là ngày mưa.",
+ "heat": "Gộp lại thành bản đồ cả năm. Mỗi ô là số ngày đẹp trong tháng, tức ngày Jev chấm từ 2,5 trên 4 trở lên. Tháng Một là tháng đẹp nhất của 9 trên 10 thành phố, riêng Sa Pa đẹp nhất vào tháng Ba. Từ tháng 6 đến tháng 9, chỉ Đà Lạt còn vài ngày đẹp.",
+ "bars": "Xếp hạng cả năm: Đà Lạt 94 ngày đẹp, Hải Phòng 86, Sa Pa 78, Hà Nội 75. Cuối bảng là Cần Thơ 22 ngày và TP.HCM chỉ 5 ngày, vì phần lớn thời gian vừa nóng vừa hay mưa.",
+ "judge": "Có 1.151 ngày Jev phân vân giữa các kiểu thời tiết. Cookbook Classification using confidence dạy rằng khi chưa chắc thì đừng đoán bừa, hãy nói rộng ra. Cộng xác suất của mưa phùn, mưa và mưa lớn, ta vẫn biết ngày đó có mưa hay không, mà không tốn thêm lần gọi nào.",
+ "repeat": "Hỏi lại cùng một ngày 15 lần thì sao? Đây là phép đo của cookbook Self-consistency. Điểm dễ chịu chỉ lệch khoảng 0,02, và cả ba ngày thử đều giữ nguyên kiểu thời tiết suốt 15 lần.",
+ "reveal": "Muốn nhiều ngày đẹp nhất, hãy chọn Đà Lạt, và đi vào tháng Một. Cả thí nghiệm 3.650 lần gọi Jev chỉ tốn khoảng 12 cent. Lưu ý, dữ liệu tái phân tích thường ghi mưa nhỏ nhiều hơn trạm đo, và đẹp hay không còn tùy cảm nhận mỗi người."
+}

@@ -1,0 +1,1281 @@
+{
+ "slug": "dien-thoai",
+ "title": "Dân công nghệ chê iPhone, Samsung, Pixel vì gì?",
+ "accent": "#a855f7",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · ĐIỆN THOẠI",
+   "headline": "Dân công nghệ chê iPhone, Samsung, Pixel vì gì?",
+   "sub": "3.838 bình luận thật trên Hacker News. AI đọc từng cái"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Mỗi thẻ là một bình luận",
+   "cards": [
+    {
+     "icon": "📱",
+     "title": "Hacker News · 24/08/2026",
+     "sub": "“One of the things about mobile phone is that there's 2 OSes on the phone: one that handles the phone stuff…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 14/10/2025",
+     "sub": "“> I just switched to the iPhone with the new cycle, explicitly because of this news. And guess what,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/07/2026",
+     "sub": "“Form factor is the easy part - both Nvidia and Apple are experienced SOC designers. The hard part is the GPU…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/04/2026",
+     "sub": "“This is a bit related, but not precisely on top of the major topic we are discussing, but I'll say it anyway:…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/08/2026",
+     "sub": "“Would MSAA compute more samples, effectively multiplying shader computation? Ideally, it should be something…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/02/2026",
+     "sub": "“> Are Google so high on their own supply that they think people use their phones out of preference for the…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 11/09/2025",
+     "sub": "“I agree with your first paragraph. For your second, I think you don’t understand why people buy/use iPads.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 06/08/2026",
+     "sub": "“Location: New York, NY Remote: Yes Willing to relocate: Yes Technologies: Python, PHP, TypeScript, AI Agents,…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/07/2025",
+     "sub": "“> If you’re not happy with the Apple products or the value you’re getting from them, then simply stop buying…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/11/2025",
+     "sub": "“I compare iPhones with Samsung flagships such as the S line. Tge iPhones are simply better made: they don’t…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/10/2026",
+     "sub": "“> It’s worth noting that this arrangement only applies to phones running Google-certified Android.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/09/2025",
+     "sub": "“I see this said all the time but I think people underestimate what an extra few millimeters of thickness…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 05/10/2026",
+     "sub": "“Yes please buy the low volume phone from a 5% market share manufacturer. Someone high up got tired to pull…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/03/2026",
+     "sub": "“In those lists iphones are supported up to 7 years old, while Pixels only go back 4 and they end security…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/09/2026",
+     "sub": "“If you went back in time to 2006 and showed a cellular Apple Watch and an iPhone (with no apps for either)…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/08/2026",
+     "sub": "“While I daily use an iPhone now, my original Pixel Fold is still working and running GrapheneOS. Besides a…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 16/07/2026",
+     "sub": "“The OnePlus One was exciting because I think it genuinely was an Android-flagship-competitor at a much lower…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 26/01/2026",
+     "sub": "“Sure, but the claim that \"Apple only implemented USB-C due to pressure from the EU.\" is simply ridiculous.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/09/2026",
+     "sub": "“I had many Xiaomi phones roughly from 2014 to 2024 and all were chock full of software bugs, going worse in…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/06/2025",
+     "sub": "“My HDMI Philips monitor supported MHL. And DVI-D, incidentally. However, I was never able to use MHL display.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/12/2025",
+     "sub": "“I wish I could switch my network to all IPv6 and use NAT64/DNS64, but Android, the world's most popular OS,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/08/2026",
+     "sub": "“I was very surprised by work put into making replacing the battery easy on the Pixel Watch 4. They designed…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/07/2026",
+     "sub": "“I switch between an iPhone and a GrapheneOS phone. I have a garmin watch and never thought to use it for tap…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/09/2026",
+     "sub": "“For some reason my iphone sporadically won't go back to \"music quality\" mode after cutting a call on a…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 08/02/2026",
+     "sub": "“I suspect this is about work related MFA apps; for example, one of the reasons I switched to an iPhone many…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/08/2026",
+     "sub": "“It's disclosed in the paper, not hidden. An AI agent ran the computations and tooling under my direction, and…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 17/06/2026",
+     "sub": "“I don't know how large a group who will do this is - but if the UK bans VPNs I can see Graphene having a very…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 22/07/2026",
+     "sub": "“Maybe things have changed since I was an Android dev in 2013, but I buy Pixel devices because I don't expect…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 06/07/2026",
+     "sub": "“The argument I struggle to get around and would love to hear a counter-argument to: Let's say a local police…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/12/2025",
+     "sub": "“I questioned the same thing over a decade ago with my then-shiny Samsung Galaxy S5: At the lowest of its…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/09/2026",
+     "sub": "“Not old nokias but newer phones were. Samsung actually made such phones even in 2020, eg the xcover pro:…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 19/08/2026",
+     "sub": "“What a colossal disaster. I was a huge Windows Phone fan, so their yearly missteps were quite painful to…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/12/2025",
+     "sub": "“Thank you! I believe you. If you work at Samsung, maybe you can get them to make the \"Galaxy XR\" landing page…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/06/2026",
+     "sub": "“They’ve been working towards this since the introduction of ARKit in iOS back in 2016. Maybe even earlier.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/02/2026",
+     "sub": "“> I would imagine a more typical consumer would be buying a USB or Thunderbolt connected drive and following…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 08/06/2026",
+     "sub": "“Apps I can't uninstall on my Pixel 9 or 10 (I forget): Gemini, Google TV, My Pixel, Now Playing, Screenshots,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/07/2026",
+     "sub": "“> Android users need to switch to Graphene. Doesn't GrapheneOS supports only Google Pixel smartphones now?…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 08/09/2026",
+     "sub": "“Probably 20TB here, 10.11.11, upgrade was smooth and quick. Maybe a few minutes of migration time? I was…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 05/10/2026",
+     "sub": "“In Sweden I have looked up someone's phone number through the info I got from the license plate to notify the…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/03/2026",
+     "sub": "“It was a joke, should have put a smiley face. But every thread on a new Apple product here on HN have the…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 22/06/2026",
+     "sub": "“>What does getting the COVID vaccine have to do with surveillance Google and Apple built contact tracing…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/10/2026",
+     "sub": "“Well, but to who? And for pennies on the dollar, most likely. Also not all ram is made equal. HBM for AI…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/11/2025",
+     "sub": "“I just got an S25 and having a Samsung account at all is optional. I never had one on my previous Galaxy…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 27/07/2026",
+     "sub": "“Forgot about the ol \"but how many tokens did you spend to get _there_\"--wish benchmarks would include the…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 23/10/2025",
+     "sub": "“I'd have so many of these weird issues on Android (pixel), is why I switched to iPhone a few years back, it's…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/10/2026",
+     "sub": "“I have never seen TPMS ID trackers as they change relatively frequently and there are passive ones too; not…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/04/2026",
+     "sub": "“I have found out that the main phone providers (Apple, Google, Samsung) have extremely long support period. I…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 17/06/2026",
+     "sub": "“Having many apps will not affect battery life on Android in any meaningful way. Actively using them will.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/10/2026",
+     "sub": "“It's already happening. Nationwide offers a discount if you agree they get to use the data feed that is…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/03/2026",
+     "sub": "“The only reason I use an Android instead of an Apple phone is that I can install two apps off of github. I am…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 23/06/2026",
+     "sub": "“I think it would be uncharacteristic of Apple to raise prices anytime from now till new products are…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 30/06/2026",
+     "sub": "“They've done this in the past. Between 1998 and 2002, DRAM manufacturers conspired to fix prices and were…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/08/2026",
+     "sub": "“Considering that the comments in the original article shows he is using a Pixel 7, the solution is obvious:…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/10/2025",
+     "sub": "“There are 2 problems to this. 1. I seriously doubt Apple was accidentally displaying more bars on the phone.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/12/2025",
+     "sub": "“On my desk I have 2 monitors, one normal 24\" and one dasung paperlike. If I need to watch a video or do work…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 13/02/2026",
+     "sub": "“> But I came crawling back to iOS because I'm weak and the orange iPhone was pretty and the Pixel 10 was…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/05/2026",
+     "sub": "“Getting files on and off of a phone is shockingly hard. Shockingly. It's even worse on an iPhone, if you…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/07/2026",
+     "sub": "“Yeah I saw that, which suggests that it was not totally working before. Not criticising of course, I know…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/10/2025",
+     "sub": "“I switched from Android to iOS exclusively because of Liquid Glass. It's amazing. I'll just sit there and…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 27/05/2026",
+     "sub": "“Yeah, I do the same thing with Flutter when I'm in \"rapid iteration mode\" and build for desktop Linux in my…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 13/02/2026",
+     "sub": "“The sad part is, that Apple used to make somewhat stable, functional software. I started with the iPhone 3…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 25/09/2026",
+     "sub": "“On my Pixel I don't even open the Play store for this Settings, System, Software Updates, App updates Bonus…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 23/06/2026",
+     "sub": "“Sure and maybe Google also subsidizes the Pixel phones because they'll make up for it with Google Play…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 29/09/2026",
+     "sub": "“\"Best build quality\" is the most important part. If you never got to handle one you are missing out. Glass…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/05/2026",
+     "sub": "“I'm actually working on a project that targets dual screen android handhelds. It will be kickstarted with a…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 19/12/2025",
+     "sub": "“> 15 years later and the iPad is still the only tablet anyone really talks about. When was the last time…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/09/2026",
+     "sub": "“My family's Pixels have all lasted physically long enough for Google to stop supporting them. My wife was…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/01/2026",
+     "sub": "“I updated to iPadOS 26 on my iPad Pro, opened Safari, and tried to log into a website. For some reason the…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/04/2026",
+     "sub": "“I don't see how that's technically any less possible than a Galaxy Fold (6 years ago!). The flaws on the…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/08/2026",
+     "sub": "“I've been running for 3 years with a pixel 7a, even doing sprints once a week. It triggered once. But I keep…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 25/09/2026",
+     "sub": "“It’s not that gnome is bad because it doesn’t fit the windows archetype. It’s bad because its archetype is…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/10/2026",
+     "sub": "“>I'll take the bait. Why is the freedom of the cyclist more valuable than the freedom of the driver? It…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/03/2026",
+     "sub": "“It comes preinstalled on new hardware, and has drivers. For folks who use odd-ball hardware, e.g., the new…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 14/07/2026",
+     "sub": "“According to Google, Texas currently has about 87GW of peak capacity & a data center production pipeline that…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/09/2026",
+     "sub": "“> You can also zoom into the moon on the night sky with these cameras iPhone, Samsung, Chinese phones, they…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/07/2026",
+     "sub": "“Apple has an excellent mobile OS, which is enough of a loyal userbase that they can make a hardware mistake…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/03/2026",
+     "sub": "“Right, I missed that part. Then get the mini if you prefer it. I’m in the camp of people who hate large…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 14/09/2026",
+     "sub": "“Its giraffe / grandfather clock one is pretty bad... (two necks? wearing a suit?) Weird as well, it's clearly…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 19/06/2026",
+     "sub": "“Complete opposite experience. Moved to the Apple ecosystem including the watch, and the seamlessness of how…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 06/07/2025",
+     "sub": "“By reasonable measure, they are poor at their job. I don't think you can make this assertion without knowing…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/07/2026",
+     "sub": "“Let's suppose that Apple somehow doesn't release any new iPhones during this leasing window, what happens…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/10/2026",
+     "sub": "“In the meanwhile you can try this temporary fix: Go to Developer Options->Apps>Background Process Limit and…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/07/2026",
+     "sub": "“Ruby on rails developer looking for senior roles and immediately available to start. Location: Pune, India…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 11/09/2026",
+     "sub": "“So you can use more than one iPhone as your primary phone. For example, if you have the new iPhone Duo but…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/07/2026",
+     "sub": "“So what? A Google Pixel 9 Pro costs only about 4 times what a bare RPi 5 with a run of the mill camera costs,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 13/01/2026",
+     "sub": "“Personally for me, who is bought into the Apple ecosystem this is worrying. I am aware how PCC is supposed to…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/08/2026",
+     "sub": "“A second hand pixel is a quarter of that. A four year old second hand phone being worth as much as a new…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/09/2026",
+     "sub": "“But I think you do need some level of consistency to retain customers. Churning models, especially given…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/11/2025",
+     "sub": "“Yeah iPhone was the end of Blackberry but Google Pixel was not the end of iPhone. The new Gemini is not THAT…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/06/2026",
+     "sub": "“Yeah I use a case with a magsafe compatible ring embedded in it and I have one of the magnetic popsockets on…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/11/2025",
+     "sub": "“Apple can’t do anything <to entrench its monopoly> without angering EU. Ironically one of Apple’s biggest…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/09/2026",
+     "sub": "“Nah, when the old Samsung phones allowed user battery replacement it was completely safe and easy to handle.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 12/03/2026",
+     "sub": "“Eh, bank teller jobs were dying and on their way out long before the iPhone showed up. Back in the early 00s…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/09/2026",
+     "sub": "“I guess that’s true, although we could possibly split that camp into two sides: the folks who believe that…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 15/07/2025",
+     "sub": "“As a user not involved in android or linux development: I don't care. Fix it. You just don't break the entire…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/02/2026",
+     "sub": "“>Come on, that's absolutely laughable. It's not, though. Google phones are not going to suddenly become…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 28/01/2026",
+     "sub": "“Just saw a video on YouTube video (https://www.youtube.com/watch?v=fDwt9AiItqU - starts at 3:25) that talked…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/10/2026",
+     "sub": "“The enshittification of Apple is going on. Debloating Windows, degoogling Android. MacOS/iOS was still decent…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 25/07/2026",
+     "sub": "“same with iphones and switching between cellular and wifi connections. I'll be walking away from or toward my…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/06/2026",
+     "sub": "“Should you be able to use a Samsung SoC in an Apple phone? At some point this is just a debate about vertical…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/09/2025",
+     "sub": "“I think hackers are not ready for the idea that unhackable hardware might actually be here. Hardware that…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/03/2026",
+     "sub": "“Location: Poland, Spain Remote: Yes Willing to relocate: No Technoligies: Manual Testing, QA Engineer,…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/04/2025",
+     "sub": "“I don't think I've reinstalled since around 2014, when I switched to a different Linux distribution. It's…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 22/10/2025",
+     "sub": "“Technical specifications here: https://news.samsung.com/global/introducing-galaxy-xr-openin... It seems the…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/03/2025",
+     "sub": "“I wonder how that will affect older devices, like Android TV streaming boxes, where you use the assistant…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 07/07/2026",
+     "sub": "“thanks for trying it out! I actually happen to have a trip planned for next month in Shenandoah and Blue…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 14/09/2026",
+     "sub": "“I've never found it that useful to see a list of numbers of sizes. I can't visualize them quickly, and in the…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 25/07/2026",
+     "sub": "“The funny thing is that there’s a relatively high amount of hype this year around iOS and macOS being a…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 11/03/2026",
+     "sub": "“For me, the one feature that sells having an iphone and a Mac laptop to me is copy and paste between the two…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 29/01/2026",
+     "sub": "“You quoted a sentence fragment that, when read in isolation, conveys a position I emphatically reject. To…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 21/01/2026",
+     "sub": "“Perfect I can't wait for the deluge of spam texts with real clickable buttons to trick me instead of just a…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 24/09/2026",
+     "sub": "“> \"please confirm your age\" screen is now mandatory during the iPhone setup in all countries Not quite. The…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 21/10/2025",
+     "sub": "“Fair enough for some of the points. My tesla is older so it has good controls, stalks, and parking sensors…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 08/06/2026",
+     "sub": "“> don't want my apps that have AI implemented to be able to read my messages because Europe mandates feature…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 27/09/2026",
+     "sub": "“I'd be so happy to install this on my phone. I miss the time when I was using Samsung Dex. Incredible to not…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/09/2026",
+     "sub": "“It's a music player, and it's way too heavy for what it does. Well, it does a lot it doesn't need to, too.…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 14/09/2026",
+     "sub": "“Apple Foundations Models Framework already aimed towards some generalized API for models. Personally I like…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/01/2026",
+     "sub": "“Except group chat. And RCS couldn’t be installed on a custom rom as Google took over the protocol and locked…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/07/2026",
+     "sub": "“I'm a little confused why so many here are making it seem like this particular attack is completely…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 26/05/2026",
+     "sub": "“My OG moto droid was pretty clean back in ~2009 or so, but even then there was plenty of sketchy carrier…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/06/2026",
+     "sub": "“My favourite stylus is the Staedtler Noris Digital Stylus which stands in for the classic #2 pencil quite…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/10/2026",
+     "sub": "“Then let's just take a random flagship device: https://www.samsung.com/us/smartphones/galaxy-s26/ The only…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/08/2026",
+     "sub": "“Location: Mexico City, Mexico Remote: Yes — US timezone Willing to relocate: Yes Technologies: Python,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 29/07/2026",
+     "sub": "“I am a UX Researcher, UX Design and Developer by trade since 2009. I don't know iphone development, python,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 22/07/2026",
+     "sub": "“I've switched to Kagi full time. I even use Orion on ios and wish there was an Android version. Kagi…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/08/2026",
+     "sub": "“It’s not Google’s responsibility to put RSS into their products. The only point the author made that fits the…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 26/09/2026",
+     "sub": "“A dollar or two? Per device that infringes? Apple has sold over 3 billion iPhones and 4.5 billion iPhones,…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 29/08/2026",
+     "sub": "“Pixel 10 was so bad I had to trade it in after using for a month. The version I got was 128GB for a whopping…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/05/2026",
+     "sub": "“VW? \"No one needs Apple Car or Android. We are the world wide Nr. 1 in car business, what does a computer…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/10/2026",
+     "sub": "“I would very much like one of those, and have done for years. Like the old PowerBook Duos, where you slotted…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 01/06/2026",
+     "sub": "“> What \"product that doesn't exist\" is Apple selling? Google? Who is paying for it? >>> My Google Pixel phone…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 27/03/2026",
+     "sub": "“Capitalism at work. There is more value to be generated by moving resources to data centers for the moment.…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 27/12/2025",
+     "sub": "“Could be; after ~3 years, my Samsung Galaxy S7 would reset if I tried to make a call with battery below ~20%.…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 05/10/2026",
+     "sub": "“> And for computers, most people could probably make do with machines that are many years old and not feel a…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/05/2026",
+     "sub": "“That's a pretty crazy assumption. I have to charge at least once a day on my flagship phone. Granted, I hate…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 24/09/2026",
+     "sub": "“I followed Pixel prices for the last year, and rock-bottom for a 256gb version (the current absolute minimum…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 13/07/2026",
+     "sub": "“> We were so close to having literal plain Linux phones. IIRC, the dominant position back then was \"Android…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/05/2026",
+     "sub": "“I use keepass and have for years and I wanted to switch from using google drive to something more self hosted…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 02/06/2026",
+     "sub": "“>>Sadly true (including \"find my iPhone\" reports I'll give you one better. I know someone who had their…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/08/2026",
+     "sub": "“Hmmh. My Samsung Galaxy S4 doesn't boot w/o battery. Not sure, whether early in the boot process the presence…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/10/2026",
+     "sub": "“I didn’t realize the bar code region is already semantically defined. That means all Apple has to do is to…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 10/09/2025",
+     "sub": "“Identity verification depends on the country. In certain cases there may be limitations. There are many eSIM…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 20/08/2025",
+     "sub": "“I think photos on the pixel are messed up (long-time iphone user who switched for the pixel 9 folding pro),…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 22/07/2026",
+     "sub": "“What are you suggesting exactly? That the maker of this hardware should do whatever it takes so that there is…”",
+     "locked": "lạc đề, không nói về điện thoại"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 03/10/2026",
+     "sub": "“Yes, the kitchen safes are great! I assume you're on an iPhone if blocking is weak? Have you tried iMazing?…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 21/07/2026",
+     "sub": "“It’s frankly embarrassing at this point. I’ve got free access through buying a Pixel phone and it’s not even…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 18/12/2025",
+     "sub": "“Mozilla has a recurring problem with being unable to provide the simple, obvious right answer. When they…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 11/11/2025",
+     "sub": "“For a second, I believed they were launching an iPhone small enough to reasonably fit into a pocket. That…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 09/09/2026",
+     "sub": "“Thats your experience. I've had the complete opposite. A 4 year old iPhone that still felt as snappy as it…”"
+    },
+    {
+     "icon": "📱",
+     "title": "Hacker News · 04/05/2026",
+     "sub": "“I'm guessing they use very conservative usage in their math. I'm on my pixel all day long but I barely use my…”"
+    }
+   ],
+   "total": 3838,
+   "totalLabel": "đã đọc",
+   "unit": "bình luận",
+   "excluded": 781,
+   "excludedLabel": "lạc đề",
+   "cols": 3,
+   "cardH": 210,
+   "credit": "Bình luận công khai trên Hacker News, 01/2025–10/2026, qua API Algolia"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · MỘT LẦN GỌI, NĂM CÂU",
+   "title": "Đọc một bình luận",
+   "cookbook": "Parallel questions",
+   "idea": "Năm câu hỏi gộp trong một request cho mỗi bình luận.",
+   "stateLines": [
+    "“I had my old iPhone 4 jailbroken and it was literally the only way I would use an iPhone as my main device. Having lost that, I switched back to…”"
+   ],
+   "questions": [
+    {
+     "name": "phone",
+     "kind": "Choice",
+     "text": "Nói về máy nào?"
+    },
+    {
+     "name": "stance",
+     "kind": "Score",
+     "text": "Khen hay chê?"
+    },
+    {
+     "name": "topic",
+     "kind": "Choice",
+     "text": "Chuyện gì: pin, camera, giá…?"
+    },
+    {
+     "name": "switched",
+     "kind": "Noul",
+     "text": "Có đổi phe không?"
+    },
+    {
+     "name": "direction",
+     "kind": "Choice",
+     "text": "Đổi từ đâu sang đâu?"
+    }
+   ],
+   "results": [
+    {
+     "name": "phone",
+     "value": "iPhone"
+    },
+    {
+     "name": "stance",
+     "value": "1,4/4",
+     "tone": "warn"
+    },
+    {
+     "name": "topic",
+     "value": "Phần mềm, giao diện"
+    },
+    {
+     "name": "switched",
+     "value": "có: 98%",
+     "tone": "good"
+    },
+    {
+     "name": "direction",
+     "value": "iPhone → Android",
+     "tone": "good"
+    }
+   ]
+  },
+  {
+   "type": "label",
+   "key": "label",
+   "step": "BƯỚC 3 · CHẮC THÌ TÍNH, CHƯA CHẮC THÌ BỎ",
+   "title": "Nhãn nào dưới 60% thì không tính",
+   "cookbook": "Self-consistency: choices",
+   "examples": [
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 06/01/2025",
+      "sub": "“It's what people always say: when the 5S came out, pundits were saying that was the death of the iPhone…”"
+     },
+     "answers": [
+      {
+       "q": "Nói về",
+       "text": "iPhone",
+       "prob": 0.99
+      },
+      {
+       "q": "Thái độ",
+       "text": "trung lập",
+       "tone": "muted"
+      },
+      {
+       "q": "Chủ đề",
+       "text": "Kích thước, thiết kế",
+       "prob": 1.0,
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 09/09/2025",
+      "sub": "“The Samsung S25 Edge, which has already been on the market for a while, seems to be pretty popular. It's…”"
+     },
+     "answers": [
+      {
+       "q": "Nói về",
+       "text": "Samsung",
+       "prob": 0.99
+      },
+      {
+       "q": "Thái độ",
+       "text": "khen",
+       "tone": "good"
+      },
+      {
+       "q": "Chủ đề",
+       "text": "Kích thước, thiết kế",
+       "prob": 0.95,
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 19/05/2026",
+      "sub": "“Gemma 4 E4B it via Edge Gallery on pixel phone:…”"
+     },
+     "answers": [
+      {
+       "q": "Nói về",
+       "text": "Pixel",
+       "prob": 1.0
+      },
+      {
+       "q": "Thái độ",
+       "text": "khen",
+       "tone": "good"
+      },
+      {
+       "q": "Chủ đề",
+       "text": "Tính năng AI",
+       "prob": 0.78,
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 05/02/2025",
+      "sub": "“In the meantime someone suggested Bangle.js Gadgetbridge for basic Pebble functionality and tonight I brought…”"
+     },
+     "answers": [
+      {
+       "q": "Nói về",
+       "text": "Samsung",
+       "prob": 1.0
+      },
+      {
+       "q": "Thái độ",
+       "text": "khen",
+       "tone": "good"
+      },
+      {
+       "q": "Chủ đề",
+       "text": "chưa chắc",
+       "prob": 0.49,
+       "tone": "warn"
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Bình luận nói về máy nào",
+    "bars": [
+     {
+      "label": "iPhone",
+      "value": 1011
+     },
+     {
+      "label": "Android nói chung",
+      "value": 475
+     },
+     {
+      "label": "Pixel",
+      "value": 505
+     },
+     {
+      "label": "Samsung",
+      "value": 333
+     },
+     {
+      "label": "Android hãng khác",
+      "value": 132
+     }
+    ]
+   }
+  },
+  {
+   "type": "heat",
+   "key": "heat",
+   "step": "BƯỚC 4 · MỖI MÁY BỊ BÀN CHUYỆN GÌ",
+   "title": "Chủ đề theo từng dòng máy",
+   "rows": [
+    "iPhone",
+    "Samsung",
+    "Pixel"
+   ],
+   "cols": [
+    "Phần mềm",
+    "Quyền riêng tư",
+    "Hệ sinh thái",
+    "Kích thước",
+    "Tính năng AI",
+    "Camera",
+    "Giá"
+   ],
+   "values": [
+    [
+     27,
+     7,
+     9,
+     8,
+     5,
+     5,
+     3
+    ],
+    [
+     22,
+     10,
+     4,
+     9,
+     3,
+     5,
+     5
+    ],
+    [
+     20,
+     27,
+     4,
+     3,
+     5,
+     3,
+     6
+    ]
+   ],
+   "highlight": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "legend": "% bình luận về máy đó nói tới từng chủ đề. Ô viền vàng: nhiều nhất"
+  },
+  {
+   "type": "bars",
+   "key": "mood",
+   "step": "BƯỚC 5 · KHEN HAY CHÊ",
+   "title": "Ai được khen nhiều hơn?",
+   "bars": [
+    {
+     "label": "Pixel",
+     "value": 0.2732673267326733,
+     "text": "27% khen",
+     "sub": "34% chê · 505 bình luận",
+     "tone": "good"
+    },
+    {
+     "label": "Samsung",
+     "value": 0.23723723723723725,
+     "text": "24% khen",
+     "sub": "41% chê · 333 bình luận",
+     "tone": "jev"
+    },
+    {
+     "label": "iPhone",
+     "value": 0.2344213649851632,
+     "text": "23% khen",
+     "sub": "39% chê · 1011 bình luận",
+     "tone": "jev"
+    }
+   ],
+   "note": "Chê nhiều nhất: iPhone vì phần mềm, giao diện, Samsung vì phần mềm, giao diện, Pixel vì quyền riêng tư."
+  },
+  {
+   "type": "judge",
+   "key": "judge",
+   "step": "BƯỚC 6 · AI ĐỔI PHE?",
+   "title": "Đọc chuyện người đổi máy",
+   "items": [
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 18/03/2025",
+      "sub": "“As someone who has a garmin watch and switched from android to iOS I can tell you it's exactly as crippled as the article spells out. So if anything garmin has…”"
+     },
+     "pass": true,
+     "stamp": "ANDROID → IPHONE",
+     "metrics": [
+      {
+       "label": "Có đổi phe",
+       "value": 0.96,
+       "text": "96%",
+       "tone": "good"
+      },
+      {
+       "label": "Chắc về hướng",
+       "value": 1.0,
+       "text": "1,00",
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 13/05/2025",
+      "sub": "“I switched from a lifetime of iPhones to an android phone last year, just because of folding phones. They are amazing and IMO the reason why Apple is going to…”"
+     },
+     "pass": true,
+     "stamp": "IPHONE → ANDROID",
+     "metrics": [
+      {
+       "label": "Có đổi phe",
+       "value": 0.98,
+       "text": "98%",
+       "tone": "good"
+      },
+      {
+       "label": "Chắc về hướng",
+       "value": 1.0,
+       "text": "1,00",
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 29/10/2025",
+      "sub": "“I recently switched to trying iOS after all of Google's recent Android nonsense and tried all the options. Brave didn't make the cut as it failed to block all…”"
+     },
+     "pass": true,
+     "stamp": "ANDROID → IPHONE",
+     "metrics": [
+      {
+       "label": "Có đổi phe",
+       "value": 0.78,
+       "text": "78%",
+       "tone": "good"
+      },
+      {
+       "label": "Chắc về hướng",
+       "value": 1.0,
+       "text": "1,00",
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 11/11/2025",
+      "sub": "“I was still on my iPhone 12 mini until about a month ago. I was ready to buy an iPhone 16 Mini on launch day if it existed. My wife was on her iPhone 13 mini…”"
+     },
+     "pass": true,
+     "stamp": "IPHONE → ANDROID",
+     "metrics": [
+      {
+       "label": "Có đổi phe",
+       "value": 0.89,
+       "text": "89%",
+       "tone": "good"
+      },
+      {
+       "label": "Chắc về hướng",
+       "value": 0.98,
+       "text": "0,98",
+       "tone": "jev"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "📱",
+      "title": "Hacker News · 16/07/2025",
+      "sub": "“My iPhone 12 Mini's camera just broke (the zoom is failing..) I have been poking around for any solution that is around the same size. The best answer is…”"
+     },
+     "pass": false,
+     "stamp": "CHƯA CHẮC",
+     "metrics": [
+      {
+       "label": "Có đổi phe",
+       "value": 0.58,
+       "text": "58%",
+       "tone": "good"
+      },
+      {
+       "label": "Chắc về hướng",
+       "value": 0.18,
+       "text": "0,18",
+       "tone": "jev"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "switch",
+   "step": "BƯỚC 7 · KẾT QUẢ ĐỔI PHE",
+   "title": "201 người kể chuyện đổi máy",
+   "bars": [
+    {
+     "label": "Android → iPhone",
+     "value": 118,
+     "text": "118 người",
+     "sub": "vì phần mềm, giao diện, hệ sinh thái",
+     "tone": "good"
+    },
+    {
+     "label": "iPhone → Android",
+     "value": 83,
+     "text": "83 người",
+     "sub": "vì phần mềm, giao diện, hệ sinh thái",
+     "tone": "jev"
+    }
+   ],
+   "note": "Truy vấn tìm cả hai chiều với số lượng như nhau, nhưng đây là người kể trên Hacker News, không phải số liệu bán hàng."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Pixel được khen nhiều nhất",
+   "tagline": "iPhone bị bàn nhiều nhất, và bị chê nhiều nhất vì phần mềm: khoảng 19% lời chê đó nhắc tới bàn phím.",
+   "stats": [
+    {
+     "value": "3.838",
+     "label": "bình luận đã đọc"
+    },
+    {
+     "value": "781",
+     "label": "lạc đề, Jev tự lọc"
+    },
+    {
+     "value": "16 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Đổi phe: 118 người sang iPhone, 83 người sang Android",
+    "Pixel được bàn nhiều nhất về quyền riêng tư",
+    "1.229 bình luận có nhãn dưới 60% chắc chắn. không tính"
+   ],
+   "footnote": "Hacker News là cộng đồng lập trình viên, chủ yếu nói tiếng Anh, không đại diện cho mọi người dùng. Bình luận lấy theo từ khóa, mới nhất trước."
+  }
+ ]
+}

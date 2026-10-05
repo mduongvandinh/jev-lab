@@ -1,0 +1,305 @@
+{
+ "n": 1200,
+ "systems": [
+  [
+   "powertrain",
+   380
+  ],
+  [
+   "steering",
+   175
+  ],
+  [
+   "body",
+   147
+  ],
+  [
+   "electrical",
+   116
+  ],
+  [
+   "driver_assist",
+   93
+  ],
+  [
+   "airbags_belts",
+   67
+  ],
+  [
+   "brakes",
+   66
+  ],
+  [
+   "fuel_exhaust",
+   50
+  ],
+  [
+   "infotainment",
+   42
+  ],
+  [
+   "wheels_suspension",
+   33
+  ],
+  [
+   "other",
+   17
+  ],
+  [
+   "climate",
+   14
+  ]
+ ],
+ "issues": [
+  [
+   "stall_shutoff",
+   111
+  ],
+  [
+   "power_loss_hesitation",
+   96
+  ],
+  [
+   "assist_loss",
+   86
+  ],
+  [
+   "doors_windows",
+   51
+  ],
+  [
+   "oil_dilution",
+   42
+  ],
+  [
+   "phantom_braking",
+   39
+  ],
+  [
+   "lights",
+   38
+  ],
+  [
+   "airbag_deploy",
+   31
+  ]
+ ],
+ "top_issue": {
+  "Toyota Camry": [
+   "airbag_deploy",
+   11
+  ],
+  "Toyota Corolla Cross": [
+   "stall_shutoff",
+   46
+  ],
+  "Honda CR-V": [
+   "assist_loss",
+   26
+  ],
+  "Honda Civic": [
+   "assist_loss",
+   50
+  ],
+  "Mazda CX-5": [
+   "oil_dilution",
+   22
+  ],
+  "Hyundai Tucson": [
+   "power_loss_hesitation",
+   22
+  ],
+  "Hyundai Santa Fe": [
+   "power_loss_hesitation",
+   24
+  ],
+  "Kia Seltos": [
+   "stall_shutoff",
+   29
+  ],
+  "Kia Sportage": [
+   "stall_shutoff",
+   12
+  ],
+  "Mitsubishi Outlander": [
+   "camera",
+   7
+  ]
+ },
+ "agree_pct": 87,
+ "moving_pct": 65,
+ "unsure_issue": 153,
+ "km_by_sys": {
+  "powertrain": 39137,
+  "steering": 15009,
+  "body": 10458,
+  "electrical": 49879,
+  "brakes": 15286
+ },
+ "with_miles": 162,
+ "triage": {
+  "THEO DÕI": 85,
+  "XEM XÉT": 732,
+  "ƯU TIÊN": 383
+ },
+ "cost": {
+  "calls": 2383,
+  "input_tokens": 1893514,
+  "usd": 0.0795
+ },
+ "demo": {
+  "model": "Hyundai Tucson",
+  "year": 2022,
+  "system": "powertrain",
+  "issue": "stall_shutoff",
+  "severity": 2.99,
+  "moving": 0.86,
+  "unfixed": 0.07,
+  "miles": 3000.0
+ },
+ "examples": [
+  [
+   "Hyundai Santa Fe",
+   "Động cơ, hộp số › Chết máy",
+   0.82
+  ],
+  [
+   "Honda Civic",
+   "Tay lái › Mất trợ lực lái",
+   0.85
+  ],
+  [
+   "Honda CR-V",
+   "Hỗ trợ lái › Tự phanh vô cớ",
+   1.0
+  ],
+  [
+   "Mazda CX-5",
+   "Phanh › (chưa chắc)",
+   0.42
+  ]
+ ],
+ "judge": [
+  [
+   "Kia Seltos",
+   "ƯU TIÊN"
+  ],
+  [
+   "Mazda CX-5",
+   "THEO DÕI"
+  ],
+  [
+   "Mitsubishi Outlander",
+   "XEM XÉT"
+  ],
+  [
+   "Mitsubishi Outlander",
+   "ƯU TIÊN"
+  ],
+  [
+   "Honda Civic",
+   "XEM XÉT"
+  ]
+ ],
+ "share": {
+  "Toyota Camry": [
+   18,
+   0,
+   20,
+   7,
+   5,
+   28,
+   5
+  ],
+  "Toyota Corolla Cross": [
+   46,
+   7,
+   9,
+   16,
+   5,
+   8,
+   5
+  ],
+  "Honda CR-V": [
+   9,
+   51,
+   11,
+   2,
+   12,
+   1,
+   4
+  ],
+  "Honda Civic": [
+   1,
+   81,
+   2,
+   2,
+   8,
+   2,
+   2
+  ],
+  "Mazda CX-5": [
+   38,
+   2,
+   12,
+   17,
+   5,
+   2,
+   10
+  ],
+  "Hyundai Tucson": [
+   39,
+   1,
+   8,
+   16,
+   11,
+   3,
+   4
+  ],
+  "Hyundai Santa Fe": [
+   46,
+   0,
+   15,
+   10,
+   8,
+   1,
+   10
+  ],
+  "Kia Seltos": [
+   77,
+   1,
+   5,
+   6,
+   4,
+   2,
+   0
+  ],
+  "Kia Sportage": [
+   32,
+   1,
+   16,
+   14,
+   8,
+   4,
+   9
+  ],
+  "Mitsubishi Outlander": [
+   11,
+   3,
+   25,
+   8,
+   12,
+   6,
+   5
+  ]
+ },
+ "systems_cols": [
+  "powertrain",
+  "steering",
+  "body",
+  "electrical",
+  "driver_assist",
+  "airbags_belts",
+  "brakes"
+ ]
+}

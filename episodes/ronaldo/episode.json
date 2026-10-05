@@ -1,0 +1,609 @@
+{
+ "slug": "ronaldo",
+ "title": "Cristiano Ronaldo qua những con số",
+ "accent": "#e11d48",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "HỒ SƠ SỐ LIỆU · CR7",
+   "headline": "Cristiano Ronaldo: 979 bàn thắng",
+   "sub": "Từ cậu bé nghèo ở Madeira tới Al-Nassr. Mọi con số theo Wikipedia, 4/10/2026"
+  },
+  {
+   "type": "timeline",
+   "key": "childhood",
+   "step": "PHẦN 1 · TUỔI THƠ",
+   "title": "Cậu bé đảo Madeira",
+   "items": [
+    {
+     "years": "5/2/1985",
+     "title": "Sinh ra ở Funchal, Madeira",
+     "sub": "Con út trong 4 anh chị em, nhà nghèo, ở chung một phòng",
+     "img": "ronaldo/madeira.jpg",
+     "credit": "Ảnh: TeWeBs · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+     "years": "1992–1995",
+     "title": "CLB Andorinha",
+     "sub": "Nơi bố làm người trông đồ thi đấu bán thời gian"
+    },
+    {
+     "years": "1995–1997",
+     "title": "CLB Nacional",
+     "sub": "Hai năm ở đội trẻ"
+    },
+    {
+     "years": "1997 · 12 tuổi",
+     "title": "Sporting CP, giá £1.500",
+     "sub": "Rời đảo Madeira sang Lisbon, vào lò đào tạo trẻ"
+    },
+    {
+     "years": "Tuổi thiếu niên",
+     "title": "Mổ tim vì nhịp tim nhanh",
+     "sub": "Vài ngày sau ca mổ đã tập lại"
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "key": "clubs",
+   "step": "PHẦN 2 · 6 CHẶNG CÂU LẠC BỘ",
+   "title": "Ra sân và bàn thắng",
+   "items": [
+    {
+     "years": "2002–03",
+     "title": "Sporting",
+     "sub": "Ra mắt chuyên nghiệp năm 17 tuổi",
+     "stat": "5 bàn\n33 trận",
+     "color": "#16a34a",
+     "img": null,
+     "credit": null
+    },
+    {
+     "years": "2003–2009",
+     "title": "Man United",
+     "sub": "£12 triệu, kỷ lục nước Anh cho cầu thủ tuổi teen",
+     "stat": "118 bàn\n292 trận",
+     "color": "#dc2626",
+     "img": "ronaldo/mu1.jpg",
+     "credit": "Ảnh: Ray Booysen · CC BY 2.0 · Wikimedia Commons"
+    },
+    {
+     "years": "2009–2018",
+     "title": "Real Madrid",
+     "sub": "£80 triệu, kỷ lục chuyển nhượng thế giới khi đó",
+     "stat": "450 bàn\n438 trận",
+     "color": "#e5e7eb",
+     "img": "ronaldo/ballon.jpg",
+     "credit": "Ảnh: Anish Morarji from St Albans, England · CC BY 2.0 · Wikimedia Commons"
+    },
+    {
+     "years": "2018–2022",
+     "title": "Juventus",
+     "sub": "€100 triệu, cao nhất cho cầu thủ trên 30 tuổi",
+     "stat": "101 bàn\n134 trận",
+     "color": "#9ca3af",
+     "img": "ronaldo/juve.jpg",
+     "credit": "Ảnh:  IamAlwaysHere / · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+     "years": "2021–2023",
+     "title": "Man United",
+     "sub": "Trở lại Old Trafford",
+     "stat": "27 bàn\n54 trận",
+     "color": "#dc2626",
+     "img": "ronaldo/mu2.jpg",
+     "credit": "Ảnh: Ardfern · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+     "years": "2022–2027",
+     "title": "Al-Nassr",
+     "sub": "Đội trưởng, ra mắt 22/1/2023",
+     "stat": "132 bàn\n155 trận",
+     "color": "#facc15",
+     "img": "ronaldo/nassr.jpg",
+     "credit": "Ảnh: Mehdi Marizad · CC BY 4.0 · Wikimedia Commons"
+    }
+   ]
+  },
+  {
+   "type": "columns",
+   "key": "seasons",
+   "step": "PHẦN 3 · TỪNG MÙA GIẢI",
+   "title": "Bàn thắng mỗi mùa cho CLB",
+   "cols": [
+    {
+     "label": "02",
+     "value": 5,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "03",
+     "value": 6,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "04",
+     "value": 9,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "05",
+     "value": 12,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "06",
+     "value": 23,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "07",
+     "value": 42,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "08",
+     "value": 26,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "09",
+     "value": 33,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "10",
+     "value": 53,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "11",
+     "value": 60,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "12",
+     "value": 55,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "13",
+     "value": 51,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "14",
+     "value": 61,
+     "color": "#e5e7eb",
+     "highlight": true
+    },
+    {
+     "label": "15",
+     "value": 51,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "16",
+     "value": 42,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "17",
+     "value": 44,
+     "color": "#e5e7eb",
+     "highlight": false
+    },
+    {
+     "label": "18",
+     "value": 28,
+     "color": "#9ca3af",
+     "highlight": false
+    },
+    {
+     "label": "19",
+     "value": 37,
+     "color": "#9ca3af",
+     "highlight": false
+    },
+    {
+     "label": "20",
+     "value": 36,
+     "color": "#9ca3af",
+     "highlight": false
+    },
+    {
+     "label": "21",
+     "value": 24,
+     "color": "#dc2626",
+     "highlight": false
+    },
+    {
+     "label": "22",
+     "value": 17,
+     "color": "#facc15",
+     "highlight": false
+    },
+    {
+     "label": "23",
+     "value": 50,
+     "color": "#facc15",
+     "highlight": false
+    },
+    {
+     "label": "24",
+     "value": 35,
+     "color": "#facc15",
+     "highlight": false
+    },
+    {
+     "label": "25",
+     "value": 30,
+     "color": "#facc15",
+     "highlight": false
+    },
+    {
+     "label": "26",
+     "value": 3,
+     "color": "#facc15",
+     "highlight": false
+    }
+   ],
+   "legend": [
+    {
+     "label": "Sporting",
+     "color": "#16a34a"
+    },
+    {
+     "label": "Man United",
+     "color": "#dc2626"
+    },
+    {
+     "label": "Real Madrid",
+     "color": "#e5e7eb"
+    },
+    {
+     "label": "Juventus",
+     "color": "#9ca3af"
+    },
+    {
+     "label": "Al-Nassr",
+     "color": "#facc15"
+    }
+   ],
+   "note": "Nhãn là năm bắt đầu mùa (14 = 2014–15). Đỉnh cao: mùa 2014–15 với 61 bàn. Mùa 2026–27 đang diễn ra."
+  },
+  {
+   "type": "heat",
+   "key": "comps",
+   "step": "PHẦN 4 · GHI BÀN Ở ĐÂU",
+   "title": "Bàn thắng theo giải đấu",
+   "rows": [
+    "Sporting",
+    "Man United",
+    "Real Madrid",
+    "Juventus",
+    "Al-Nassr"
+   ],
+   "cols": [
+    "VĐQG",
+    "Cúp QG",
+    "Cúp LĐ",
+    "Châu lục",
+    "Khác"
+   ],
+   "values": [
+    [
+     3,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     103,
+     13,
+     4,
+     24,
+     1
+    ],
+    [
+     311,
+     22,
+     0,
+     105,
+     12
+    ],
+    [
+     81,
+     4,
+     0,
+     14,
+     2
+    ],
+    [
+     105,
+     3,
+     0,
+     15,
+     9
+    ]
+   ],
+   "highlight": [
+    [
+     2,
+     0
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "legend": "Châu lục: Champions League và các cúp châu lục. Khác: siêu cúp, cúp thế giới các CLB."
+  },
+  {
+   "type": "columns",
+   "key": "portugal",
+   "step": "PHẦN 5 · ĐỘI TUYỂN BỒ ĐÀO NHA",
+   "title": "146 bàn sau 234 trận",
+   "cols": [
+    {
+     "label": "03",
+     "value": 0,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "04",
+     "value": 7,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "05",
+     "value": 2,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "06",
+     "value": 6,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "07",
+     "value": 5,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "08",
+     "value": 1,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "09",
+     "value": 1,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "10",
+     "value": 3,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "11",
+     "value": 7,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "12",
+     "value": 5,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "13",
+     "value": 10,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "14",
+     "value": 5,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "15",
+     "value": 3,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "16",
+     "value": 13,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "17",
+     "value": 11,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "18",
+     "value": 6,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "19",
+     "value": 14,
+     "color": "#16a34a",
+     "highlight": true
+    },
+    {
+     "label": "20",
+     "value": 3,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "21",
+     "value": 13,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "22",
+     "value": 3,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "23",
+     "value": 10,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "24",
+     "value": 7,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "25",
+     "value": 8,
+     "color": "#16a34a",
+     "highlight": false
+    },
+    {
+     "label": "26",
+     "value": 3,
+     "color": "#16a34a",
+     "highlight": false
+    }
+   ],
+   "note": "Bàn thắng mỗi năm (03 = 2003), tính cả trận giao hữu."
+  },
+  {
+   "type": "bars",
+   "key": "trophies",
+   "step": "PHẦN 6 · DANH HIỆU TẬP THỂ",
+   "title": "35 danh hiệu",
+   "bars": [
+    {
+     "label": "Sporting",
+     "value": 1,
+     "text": "1",
+     "tone": "jev"
+    },
+    {
+     "label": "Man United",
+     "value": 9,
+     "text": "9",
+     "tone": "jev"
+    },
+    {
+     "label": "Real Madrid",
+     "value": 15,
+     "text": "15",
+     "tone": "good"
+    },
+    {
+     "label": "Juventus",
+     "value": 5,
+     "text": "5",
+     "tone": "jev"
+    },
+    {
+     "label": "Al-Nassr",
+     "value": 2,
+     "text": "2",
+     "tone": "jev"
+    },
+    {
+     "label": "Bồ Đào Nha",
+     "value": 3,
+     "text": "3",
+     "tone": "jev"
+    }
+   ],
+   "note": "Gồm 5 Champions League (1 với Man United, 4 với Real Madrid), Euro 2016 và 2 UEFA Nations League."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "TỔNG KẾT SỰ NGHIỆP",
+   "headline": "1.340 trận · 979 bàn",
+   "tagline": "Cầu thủ ghi nhiều bàn chính thức nhất lịch sử bóng đá, và ra sân nhiều nhất trong các cầu thủ không phải thủ môn.",
+   "stats": [
+    {
+     "value": "5",
+     "label": "Quả bóng vàng"
+    },
+    {
+     "value": "5",
+     "label": "Champions League"
+    },
+    {
+     "value": "4",
+     "label": "Chiếc giày vàng châu Âu"
+    }
+   ],
+   "bullets": [
+    "Cầu thủ duy nhất ghi 100 bàn cho 4 CLB khác nhau",
+    "Vua phá lưới ở 4 giải VĐQG khác nhau",
+    "7 lần vua phá lưới Champions League"
+   ],
+   "gridTitle": "Bàn mỗi trận ở từng CLB",
+   "gridCols": 2,
+   "grid": [
+    {
+     "label": "Sporting",
+     "value": "0,15"
+    },
+    {
+     "label": "Man United",
+     "value": "0,42"
+    },
+    {
+     "label": "Real Madrid",
+     "value": "1,03"
+    },
+    {
+     "label": "Juventus",
+     "value": "0,75"
+    },
+    {
+     "label": "Al-Nassr",
+     "value": "0,85"
+    }
+   ],
+   "footnote": "Nguồn: Wikipedia tiếng Anh, bài \"Cristiano Ronaldo\" (bản ngày 4/10/2026, CC BY-SA). Ảnh: Wikimedia Commons, ghi tác giả trên từng ảnh. Số liệu mùa 2026–27 còn thay đổi."
+  }
+ ]
+}

@@ -1,0 +1,2528 @@
+{
+ "slug": "thoi-tiet",
+ "title": "Thành phố nào nhiều ngày đẹp trời nhất?",
+ "accent": "#38bdf8",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · THỜI TIẾT",
+   "headline": "Thành phố nào nhiều ngày đẹp trời nhất?",
+   "sub": "3.650 ngày thời tiết năm 2025 của 10 thành phố, AI chấm từng ngày"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Mỗi thẻ là một ngày",
+   "cards": [
+    {
+     "icon": "⛅",
+     "title": "Huế · 21/08",
+     "tone": null,
+     "lines": [
+      "24–34°C",
+      "không mưa",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 11/09",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 15,5 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Nẵng · 08/06",
+     "tone": null,
+     "lines": [
+      "27–36°C",
+      "không mưa",
+      "ẩm 69%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "TP.HCM · 28/04",
+     "tone": null,
+     "lines": [
+      "26–35°C",
+      "không mưa",
+      "ẩm 72%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 17/07",
+     "tone": null,
+     "lines": [
+      "26–35°C",
+      "mưa 0,2 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 24/10",
+     "tone": null,
+     "lines": [
+      "18–22°C",
+      "mưa 1,1 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Phú Quốc · 29/03",
+     "tone": null,
+     "lines": [
+      "25–32°C",
+      "mưa 2,8 mm",
+      "ẩm 79%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Lạt · 08/01",
+     "tone": null,
+     "lines": [
+      "11–22°C",
+      "không mưa",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hải Phòng · 22/01",
+     "tone": null,
+     "lines": [
+      "16–24°C",
+      "không mưa",
+      "ẩm 79%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 08/02",
+     "tone": null,
+     "lines": [
+      "19–22°C",
+      "mưa 5,1 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 21/07",
+     "tone": null,
+     "lines": [
+      "17–20°C",
+      "mưa 11,8 mm",
+      "ẩm 96%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 26/08",
+     "tone": null,
+     "lines": [
+      "24–26°C",
+      "mưa 72,1 mm",
+      "ẩm 94%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 13/09",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 1,5 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 31/05",
+     "tone": null,
+     "lines": [
+      "18–24°C",
+      "mưa 8,5 mm",
+      "ẩm 91%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 03/06",
+     "tone": null,
+     "lines": [
+      "26–32°C",
+      "mưa 16,3 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hà Nội · 19/12",
+     "tone": null,
+     "lines": [
+      "16–26°C",
+      "không mưa",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 14/11",
+     "tone": null,
+     "lines": [
+      "21–26°C",
+      "mưa 1,2 mm",
+      "ẩm 76%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Nẵng · 11/09",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 3,3 mm",
+      "ẩm 83%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 14/10",
+     "tone": null,
+     "lines": [
+      "24–28°C",
+      "mưa 30,5 mm",
+      "ẩm 93%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 14/09",
+     "tone": null,
+     "lines": [
+      "16–22°C",
+      "mưa 1,0 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hải Phòng · 08/01",
+     "tone": null,
+     "lines": [
+      "16–24°C",
+      "không mưa",
+      "ẩm 72%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 12/03",
+     "tone": null,
+     "lines": [
+      "15–24°C",
+      "mưa 3,1 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 07/10",
+     "tone": null,
+     "lines": [
+      "25–32°C",
+      "mưa 1,7 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 31/08",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 23,8 mm",
+      "ẩm 91%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Phú Quốc · 21/04",
+     "tone": null,
+     "lines": [
+      "24–32°C",
+      "mưa 1,9 mm",
+      "ẩm 76%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 11/05",
+     "tone": null,
+     "lines": [
+      "16–26°C",
+      "mưa 3,2 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 24/05",
+     "tone": null,
+     "lines": [
+      "23–26°C",
+      "mưa 12,9 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Sa Pa · 05/07",
+     "tone": null,
+     "lines": [
+      "16–23°C",
+      "mưa 22,6 mm",
+      "ẩm 94%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "TP.HCM · 03/02",
+     "tone": null,
+     "lines": [
+      "23–34°C",
+      "không mưa",
+      "ẩm 69%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "TP.HCM · 20/01",
+     "tone": null,
+     "lines": [
+      "22–31°C",
+      "không mưa",
+      "ẩm 75%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 11/09",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 19,4 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 27/06",
+     "tone": null,
+     "lines": [
+      "16–23°C",
+      "mưa 2,4 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 01/08",
+     "tone": null,
+     "lines": [
+      "18–25°C",
+      "mưa 0,8 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Nẵng · 15/06",
+     "tone": null,
+     "lines": [
+      "26–35°C",
+      "không mưa",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 23/07",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 20,4 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 26/06",
+     "tone": null,
+     "lines": [
+      "17–23°C",
+      "mưa 3,1 mm",
+      "ẩm 92%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 10/07",
+     "tone": null,
+     "lines": [
+      "27–34°C",
+      "mưa 0,9 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 05/04",
+     "tone": null,
+     "lines": [
+      "14–27°C",
+      "mưa 3,1 mm",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Phú Quốc · 29/08",
+     "tone": null,
+     "lines": [
+      "24–29°C",
+      "mưa 4,9 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 01/07",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 16,7 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 03/04",
+     "tone": null,
+     "lines": [
+      "19–25°C",
+      "mưa 0,5 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 15/09",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 1,7 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 15/08",
+     "tone": null,
+     "lines": [
+      "25–29°C",
+      "mưa 7,3 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Lạt · 28/01",
+     "tone": null,
+     "lines": [
+      "10–23°C",
+      "không mưa",
+      "ẩm 73%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 29/04",
+     "tone": null,
+     "lines": [
+      "24–28°C",
+      "mưa 5,0 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 02/06",
+     "tone": null,
+     "lines": [
+      "18–23°C",
+      "mưa 1,1 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 19/06",
+     "tone": null,
+     "lines": [
+      "25–33°C",
+      "mưa 2,9 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 19/04",
+     "tone": null,
+     "lines": [
+      "16–27°C",
+      "mưa 0,2 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Phú Quốc · 08/03",
+     "tone": null,
+     "lines": [
+      "24–32°C",
+      "mưa 2,4 mm",
+      "ẩm 79%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 03/09",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 13,2 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "☀️",
+     "title": "Sa Pa · 12/01",
+     "tone": null,
+     "lines": [
+      "2–11°C",
+      "không mưa",
+      "ẩm 76%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hải Phòng · 28/02",
+     "tone": null,
+     "lines": [
+      "18–23°C",
+      "mưa 1,8 mm",
+      "ẩm 93%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 16/07",
+     "tone": null,
+     "lines": [
+      "17–23°C",
+      "mưa 2,8 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 03/06",
+     "tone": null,
+     "lines": [
+      "18–23°C",
+      "mưa 1,8 mm",
+      "ẩm 81%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "TP.HCM · 09/03",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 0,1 mm",
+      "ẩm 69%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 10/02",
+     "tone": null,
+     "lines": [
+      "7–11°C",
+      "mưa 1,4 mm",
+      "ẩm 100%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 08/03",
+     "tone": null,
+     "lines": [
+      "20–24°C",
+      "mưa 0,7 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hải Phòng · 05/02",
+     "tone": null,
+     "lines": [
+      "14–20°C",
+      "mưa 0,7 mm",
+      "ẩm 78%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 26/02",
+     "tone": null,
+     "lines": [
+      "15–23°C",
+      "mưa 2,0 mm",
+      "ẩm 79%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Cần Thơ · 04/01",
+     "tone": null,
+     "lines": [
+      "23–30°C",
+      "không mưa",
+      "ẩm 83%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 15/09",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 5,3 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 06/05",
+     "tone": null,
+     "lines": [
+      "15–25°C",
+      "mưa 3,3 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 02/09",
+     "tone": null,
+     "lines": [
+      "26–32°C",
+      "mưa 0,7 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Lạt · 16/12",
+     "tone": null,
+     "lines": [
+      "14–23°C",
+      "không mưa",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 25/04",
+     "tone": null,
+     "lines": [
+      "16–22°C",
+      "mưa 3,4 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 30/07",
+     "tone": null,
+     "lines": [
+      "28–38°C",
+      "mưa 0,1 mm",
+      "ẩm 58%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 27/08",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 10,4 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 22/12",
+     "tone": null,
+     "lines": [
+      "24–27°C",
+      "mưa 2,3 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Nẵng · 20/10",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 17,6 mm",
+      "ẩm 81%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Cần Thơ · 28/09",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 12,4 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 12/07",
+     "tone": null,
+     "lines": [
+      "26–33°C",
+      "mưa 0,8 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 25/03",
+     "tone": null,
+     "lines": [
+      "21–28°C",
+      "không mưa",
+      "ẩm 72%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 02/02",
+     "tone": null,
+     "lines": [
+      "19–26°C",
+      "không mưa",
+      "ẩm 81%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Đà Nẵng · 23/01",
+     "tone": null,
+     "lines": [
+      "16–26°C",
+      "không mưa",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 14/05",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 1,8 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Sa Pa · 16/10",
+     "tone": null,
+     "lines": [
+      "15–20°C",
+      "mưa 15,9 mm",
+      "ẩm 96%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 08/12",
+     "tone": null,
+     "lines": [
+      "21–29°C",
+      "mưa 0,2 mm",
+      "ẩm 76%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 08/01",
+     "tone": null,
+     "lines": [
+      "6–13°C",
+      "mưa 0,6 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 12/11",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 7,7 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Cần Thơ · 09/10",
+     "tone": null,
+     "lines": [
+      "23–31°C",
+      "mưa 11,7 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Sa Pa · 28/09",
+     "tone": null,
+     "lines": [
+      "16–22°C",
+      "mưa 8,7 mm",
+      "ẩm 90%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 02/12",
+     "tone": null,
+     "lines": [
+      "19–26°C",
+      "mưa 0,1 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 16/06",
+     "tone": null,
+     "lines": [
+      "16–26°C",
+      "mưa 5,3 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 16/05",
+     "tone": null,
+     "lines": [
+      "25–33°C",
+      "mưa 0,4 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 26/11",
+     "tone": null,
+     "lines": [
+      "23–28°C",
+      "không mưa",
+      "ẩm 70%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Nha Trang · 24/07",
+     "tone": null,
+     "lines": [
+      "27–34°C",
+      "mưa 2,8 mm",
+      "ẩm 70%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 05/11",
+     "tone": null,
+     "lines": [
+      "24–29°C",
+      "mưa 5,2 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 09/11",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 0,7 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 16/03",
+     "tone": null,
+     "lines": [
+      "24–33°C",
+      "mưa 0,2 mm",
+      "ẩm 75%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Nha Trang · 15/01",
+     "tone": null,
+     "lines": [
+      "23–26°C",
+      "mưa 4,5 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Huế · 27/03",
+     "tone": null,
+     "lines": [
+      "22–32°C",
+      "không mưa",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 05/11",
+     "tone": null,
+     "lines": [
+      "16–23°C",
+      "mưa 3,2 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hà Nội · 27/10",
+     "tone": null,
+     "lines": [
+      "21–27°C",
+      "không mưa",
+      "ẩm 70%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 30/04",
+     "tone": null,
+     "lines": [
+      "24–29°C",
+      "mưa 2,0 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 01/10",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 0,4 mm",
+      "ẩm 78%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hải Phòng · 08/11",
+     "tone": null,
+     "lines": [
+      "24–29°C",
+      "mưa 3,3 mm",
+      "ẩm 90%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 08/07",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 1,4 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Huế · 04/11",
+     "tone": null,
+     "lines": [
+      "20–26°C",
+      "mưa 10,3 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hải Phòng · 16/09",
+     "tone": null,
+     "lines": [
+      "24–32°C",
+      "mưa 1,8 mm",
+      "ẩm 81%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 29/06",
+     "tone": null,
+     "lines": [
+      "26–34°C",
+      "không mưa",
+      "ẩm 65%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Nẵng · 26/09",
+     "tone": null,
+     "lines": [
+      "26–29°C",
+      "mưa 22,6 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 10/06",
+     "tone": null,
+     "lines": [
+      "25–29°C",
+      "mưa 26,2 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 08/07",
+     "tone": null,
+     "lines": [
+      "25–31°C",
+      "mưa 12,0 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "☀️",
+     "title": "Hà Nội · 14/11",
+     "tone": null,
+     "lines": [
+      "17–26°C",
+      "không mưa",
+      "ẩm 70%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Cần Thơ · 07/08",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 9,4 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 10/04",
+     "tone": null,
+     "lines": [
+      "15–27°C",
+      "mưa 1,0 mm",
+      "ẩm 78%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 11/06",
+     "tone": null,
+     "lines": [
+      "17–20°C",
+      "mưa 11,6 mm",
+      "ẩm 94%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Cần Thơ · 16/11",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 20,1 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 06/11",
+     "tone": null,
+     "lines": [
+      "25–29°C",
+      "mưa 3,7 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 17/03",
+     "tone": null,
+     "lines": [
+      "23–31°C",
+      "mưa 8,8 mm",
+      "ẩm 83%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Huế · 11/07",
+     "tone": null,
+     "lines": [
+      "26–32°C",
+      "mưa 4,9 mm",
+      "ẩm 80%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Huế · 27/10",
+     "tone": null,
+     "lines": [
+      "24–25°C",
+      "mưa 73,6 mm",
+      "ẩm 92%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 27/10",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 9,9 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 07/12",
+     "tone": null,
+     "lines": [
+      "18–26°C",
+      "mưa 0,6 mm",
+      "ẩm 81%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 06/09",
+     "tone": null,
+     "lines": [
+      "17–24°C",
+      "mưa 4,5 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 31/07",
+     "tone": null,
+     "lines": [
+      "28–37°C",
+      "mưa 0,5 mm",
+      "ẩm 58%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 09/07",
+     "tone": null,
+     "lines": [
+      "17–23°C",
+      "mưa 3,9 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 19/12",
+     "tone": null,
+     "lines": [
+      "23–30°C",
+      "mưa 0,3 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 14/02",
+     "tone": null,
+     "lines": [
+      "22–30°C",
+      "không mưa",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 09/10",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 0,5 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 14/06",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 7,3 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "☀️",
+     "title": "Hải Phòng · 20/01",
+     "tone": null,
+     "lines": [
+      "12–24°C",
+      "không mưa",
+      "ẩm 68%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Huế · 12/01",
+     "tone": null,
+     "lines": [
+      "16–20°C",
+      "mưa 8,4 mm",
+      "ẩm 72%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 28/04",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "không mưa",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 04/11",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 11,8 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 21/06",
+     "tone": null,
+     "lines": [
+      "24–31°C",
+      "mưa 3,5 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 24/09",
+     "tone": null,
+     "lines": [
+      "25–33°C",
+      "mưa 0,1 mm",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hà Nội · 06/09",
+     "tone": null,
+     "lines": [
+      "27–33°C",
+      "mưa 0,4 mm",
+      "ẩm 83%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 23/03",
+     "tone": null,
+     "lines": [
+      "24–32°C",
+      "mưa 0,3 mm",
+      "ẩm 68%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "TP.HCM · 22/11",
+     "tone": null,
+     "lines": [
+      "24–27°C",
+      "mưa 3,2 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 24/06",
+     "tone": null,
+     "lines": [
+      "25–33°C",
+      "mưa 1,5 mm",
+      "ẩm 78%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "TP.HCM · 12/04",
+     "tone": null,
+     "lines": [
+      "26–35°C",
+      "không mưa",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Đà Lạt · 01/07",
+     "tone": null,
+     "lines": [
+      "16–24°C",
+      "mưa 20,2 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 31/08",
+     "tone": null,
+     "lines": [
+      "25–32°C",
+      "mưa 26,2 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 01/04",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 38,3 mm",
+      "ẩm 90%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 02/01",
+     "tone": null,
+     "lines": [
+      "23–28°C",
+      "mưa 3,1 mm",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 13/03",
+     "tone": null,
+     "lines": [
+      "24–29°C",
+      "mưa 0,5 mm",
+      "ẩm 88%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Cần Thơ · 23/01",
+     "tone": null,
+     "lines": [
+      "23–31°C",
+      "không mưa",
+      "ẩm 72%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 02/05",
+     "tone": null,
+     "lines": [
+      "25–33°C",
+      "mưa 0,9 mm",
+      "ẩm 74%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Phú Quốc · 24/12",
+     "tone": null,
+     "lines": [
+      "24–33°C",
+      "mưa 0,6 mm",
+      "ẩm 73%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "TP.HCM · 09/07",
+     "tone": null,
+     "lines": [
+      "25–30°C",
+      "mưa 22,0 mm",
+      "ẩm 85%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Huế · 24/11",
+     "tone": null,
+     "lines": [
+      "21–25°C",
+      "mưa 32,7 mm",
+      "ẩm 93%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hà Nội · 03/04",
+     "tone": null,
+     "lines": [
+      "15–28°C",
+      "không mưa",
+      "ẩm 66%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Nha Trang · 09/03",
+     "tone": null,
+     "lines": [
+      "24–26°C",
+      "mưa 6,8 mm",
+      "ẩm 84%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Huế · 28/12",
+     "tone": null,
+     "lines": [
+      "18–24°C",
+      "mưa 3,6 mm",
+      "ẩm 90%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hải Phòng · 21/11",
+     "tone": null,
+     "lines": [
+      "14–24°C",
+      "không mưa",
+      "ẩm 62%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Lạt · 13/11",
+     "tone": null,
+     "lines": [
+      "15–25°C",
+      "mưa 1,5 mm",
+      "ẩm 78%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Hải Phòng · 26/04",
+     "tone": null,
+     "lines": [
+      "24–28°C",
+      "mưa 1,6 mm",
+      "ẩm 87%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Nha Trang · 19/07",
+     "tone": null,
+     "lines": [
+      "27–36°C",
+      "không mưa",
+      "ẩm 56%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hà Nội · 30/08",
+     "tone": null,
+     "lines": [
+      "24–30°C",
+      "mưa 33,2 mm",
+      "ẩm 90%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 14/06",
+     "tone": null,
+     "lines": [
+      "16–25°C",
+      "mưa 1,3 mm",
+      "ẩm 86%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Cần Thơ · 22/08",
+     "tone": null,
+     "lines": [
+      "23–30°C",
+      "mưa 7,7 mm",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Huế · 25/03",
+     "tone": null,
+     "lines": [
+      "18–27°C",
+      "không mưa",
+      "ẩm 89%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Hải Phòng · 15/06",
+     "tone": null,
+     "lines": [
+      "28–35°C",
+      "mưa 9,6 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Cần Thơ · 22/04",
+     "tone": null,
+     "lines": [
+      "26–33°C",
+      "mưa 1,2 mm",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Sa Pa · 13/10",
+     "tone": null,
+     "lines": [
+      "15–21°C",
+      "mưa 2,9 mm",
+      "ẩm 92%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 20/06",
+     "tone": null,
+     "lines": [
+      "26–32°C",
+      "mưa 0,5 mm",
+      "ẩm 82%"
+     ]
+    },
+    {
+     "icon": "🌦️",
+     "title": "Đà Nẵng · 23/05",
+     "tone": null,
+     "lines": [
+      "25–34°C",
+      "mưa 1,8 mm",
+      "ẩm 77%"
+     ]
+    },
+    {
+     "icon": "🌧️",
+     "title": "Phú Quốc · 21/10",
+     "tone": null,
+     "lines": [
+      "24–28°C",
+      "mưa 16,5 mm",
+      "ẩm 93%"
+     ]
+    },
+    {
+     "icon": "⛅",
+     "title": "Hà Nội · 27/11",
+     "tone": null,
+     "lines": [
+      "14–24°C",
+      "không mưa",
+      "ẩm 62%"
+     ]
+    }
+   ],
+   "total": 3650,
+   "totalLabel": "đã đọc",
+   "unit": "ngày",
+   "cols": 4,
+   "cardH": 200,
+   "credit": "Dữ liệu: Open-Meteo.com (CC BY 4.0), tái phân tích ERA5"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · MỘT LẦN GỌI, BỐN CÂU",
+   "title": "Hỏi gộp cho rẻ",
+   "cookbook": "Parallel questions",
+   "idea": "Mỗi ngày chỉ gửi Jev một request, kèm cả bốn câu hỏi.",
+   "stateLines": [
+    "Hà Nội · 12/03/2025",
+    "21–27°C · ẩm 88%",
+    "mưa 1,4 mm trong 10 giờ · nắng 3,6 giờ"
+   ],
+   "questions": [
+    {
+     "name": "comfort",
+     "kind": "Score",
+     "text": "Ra ngoài có dễ chịu không?"
+    },
+    {
+     "name": "kind",
+     "kind": "Choice",
+     "text": "Kiểu ngày nào?"
+    },
+    {
+     "name": "laundry",
+     "kind": "Noul",
+     "text": "Phơi đồ có khô không?"
+    },
+    {
+     "name": "umbrella",
+     "kind": "Noul",
+     "text": "Có nên mang áo mưa?"
+    }
+   ],
+   "results": [
+    {
+     "name": "comfort",
+     "value": "1,06 / 4",
+     "tone": "bad"
+    },
+    {
+     "name": "kind",
+     "value": "Âm u, mưa phùn"
+    },
+    {
+     "name": "laundry",
+     "value": "có: 9%",
+     "tone": "muted"
+    },
+    {
+     "name": "umbrella",
+     "value": "có: 90%",
+     "tone": "warn"
+    }
+   ],
+   "footer": "3.650 request, mỗi ngày một lần · tổng 2,94 triệu token"
+  },
+  {
+   "type": "label",
+   "key": "label",
+   "step": "BƯỚC 3 · JEV CHẤM TỪNG NGÀY",
+   "title": "Đáp án kèm mức chắc chắn",
+   "examples": [
+    {
+     "card": {
+      "icon": "☀️",
+      "title": "Hà Nội · 01/01",
+      "tone": null,
+      "lines": [
+       "13–25°C",
+       "không mưa",
+       "ẩm 70%"
+      ]
+     },
+     "answers": [
+      {
+       "q": "Dễ chịu",
+       "text": "3,8/4 · Lý tưởng",
+       "tone": "good"
+      },
+      {
+       "q": "Kiểu ngày",
+       "text": "Ấm, dễ chịu",
+       "prob": 0.97
+      },
+      {
+       "q": "Phơi đồ",
+       "text": "Khô được",
+       "prob": 0.92,
+       "tone": "good"
+      },
+      {
+       "q": "Áo mưa",
+       "text": "Không cần",
+       "prob": 0.05,
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "⛅",
+      "title": "Đà Lạt · 10/02",
+      "tone": null,
+      "lines": [
+       "13–23°C",
+       "không mưa",
+       "ẩm 77%"
+      ]
+     },
+     "answers": [
+      {
+       "q": "Dễ chịu",
+       "text": "2,3/4 · Ổn",
+       "tone": "bad"
+      },
+      {
+       "q": "Kiểu ngày",
+       "text": "Oi ẩm, nồm",
+       "prob": 0.45
+      },
+      {
+       "q": "Phơi đồ",
+       "text": "Không khô",
+       "prob": 0.42,
+       "tone": "muted"
+      },
+      {
+       "q": "Áo mưa",
+       "text": "Không cần",
+       "prob": 0.14,
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "⛅",
+      "title": "TP.HCM · 20/04",
+      "tone": null,
+      "lines": [
+       "26–36°C",
+       "không mưa",
+       "ẩm 70%"
+      ]
+     },
+     "answers": [
+      {
+       "q": "Dễ chịu",
+       "text": "1,3/4 · Khó chịu",
+       "tone": "bad"
+      },
+      {
+       "q": "Kiểu ngày",
+       "text": "Nắng nóng",
+       "prob": 1.0
+      },
+      {
+       "q": "Phơi đồ",
+       "text": "Khô được",
+       "prob": 0.89,
+       "tone": "good"
+      },
+      {
+       "q": "Áo mưa",
+       "text": "Không cần",
+       "prob": 0.07,
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🌧️",
+      "title": "Huế · 28/10",
+      "tone": null,
+      "lines": [
+       "24–25°C",
+       "mưa 97,9 mm",
+       "ẩm 92%"
+      ]
+     },
+     "answers": [
+      {
+       "q": "Dễ chịu",
+       "text": "0,1/4 · Rất tệ",
+       "tone": "bad"
+      },
+      {
+       "q": "Kiểu ngày",
+       "text": "Mưa lớn, bão",
+       "prob": 0.77
+      },
+      {
+       "q": "Phơi đồ",
+       "text": "Không khô",
+       "prob": 0.02,
+       "tone": "muted"
+      },
+      {
+       "q": "Áo mưa",
+       "text": "Nên mang",
+       "prob": 0.99,
+       "tone": "warn"
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Kiểu ngày phổ biến nhất",
+    "bars": [
+     {
+      "label": "Mưa",
+      "value": 1776
+     },
+     {
+      "label": "Âm u, mưa phùn",
+      "value": 496
+     },
+     {
+      "label": "Nắng nóng",
+      "value": 465
+     },
+     {
+      "label": "Oi ẩm, nồm",
+      "value": 410
+     },
+     {
+      "label": "Ấm, dễ chịu",
+      "value": 363
+     }
+    ]
+   }
+  },
+  {
+   "type": "heat",
+   "key": "heat",
+   "step": "BƯỚC 4 · BẢN ĐỒ CẢ NĂM",
+   "title": "Số ngày đẹp mỗi tháng",
+   "rows": [
+    "Hà Nội",
+    "Hải Phòng",
+    "Sa Pa",
+    "Huế",
+    "Đà Nẵng",
+    "Nha Trang",
+    "Đà Lạt",
+    "TP.HCM",
+    "Cần Thơ",
+    "Phú Quốc"
+   ],
+   "cols": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7",
+    "T8",
+    "T9",
+    "T10",
+    "T11",
+    "T12"
+   ],
+   "values": [
+    [
+     22,
+     3,
+     9,
+     5,
+     2,
+     0,
+     0,
+     0,
+     0,
+     5,
+     15,
+     14
+    ],
+    [
+     25,
+     4,
+     11,
+     5,
+     2,
+     0,
+     0,
+     0,
+     0,
+     4,
+     16,
+     19
+    ],
+    [
+     12,
+     8,
+     18,
+     6,
+     4,
+     0,
+     0,
+     0,
+     0,
+     3,
+     11,
+     16
+    ],
+    [
+     13,
+     7,
+     5,
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     4
+    ],
+    [
+     11,
+     5,
+     7,
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     3
+    ],
+    [
+     20,
+     15,
+     13,
+     8,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     6
+    ],
+    [
+     22,
+     13,
+     21,
+     12,
+     2,
+     1,
+     1,
+     2,
+     0,
+     2,
+     4,
+     14
+    ],
+    [
+     4,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     10,
+     6,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     4,
+     2
+    ],
+    [
+     23,
+     11,
+     5,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     7,
+     10
+    ]
+   ],
+   "highlight": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     7,
+     0
+    ],
+    [
+     8,
+     0
+    ],
+    [
+     9,
+     0
+    ]
+   ],
+   "legend": "Ô sáng viền vàng: tháng đẹp nhất của từng thành phố"
+  },
+  {
+   "type": "bars",
+   "key": "bars",
+   "step": "BƯỚC 5 · XẾP HẠNG",
+   "title": "Cả năm có bao nhiêu ngày đẹp?",
+   "bars": [
+    {
+     "label": "Đà Lạt",
+     "value": 94,
+     "text": "94 ngày",
+     "tone": "good",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Hải Phòng",
+     "value": 86,
+     "text": "86 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Sa Pa",
+     "value": 78,
+     "text": "78 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 3"
+    },
+    {
+     "label": "Hà Nội",
+     "value": 75,
+     "text": "75 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Nha Trang",
+     "value": 64,
+     "text": "64 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Phú Quốc",
+     "value": 57,
+     "text": "57 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Huế",
+     "value": 33,
+     "text": "33 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Đà Nẵng",
+     "value": 32,
+     "text": "32 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "Cần Thơ",
+     "value": 22,
+     "text": "22 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    },
+    {
+     "label": "TP.HCM",
+     "value": 5,
+     "text": "5 ngày",
+     "tone": "jev",
+     "sub": "đẹp nhất: tháng 1"
+    }
+   ],
+   "note": "Ngày đẹp: Jev chấm từ 2,5/4 trở lên"
+  },
+  {
+   "type": "judge",
+   "key": "judge",
+   "step": "BƯỚC 6 · KHI JEV PHÂN VÂN",
+   "title": "Chưa chắc thì nói rộng ra",
+   "cookbook": "Classification using confidence",
+   "items": [
+    {
+     "card": {
+      "icon": "⛅",
+      "title": "Cần Thơ · 01/01",
+      "tone": null,
+      "lines": [
+       "23–29°C",
+       "không mưa",
+       "ẩm 79%"
+      ]
+     },
+     "pass": true,
+     "stamp": "CHẮC: OI ẨM, NỒM",
+     "metrics": [
+      {
+       "label": "Oi ẩm, nồm",
+       "value": 0.94,
+       "text": "94%",
+       "tone": "jev"
+      },
+      {
+       "label": "Ấm, dễ chịu",
+       "value": 0.06,
+       "text": "6%",
+       "tone": "muted"
+      },
+      {
+       "label": "Confidence",
+       "value": 0.93,
+       "text": "0,93",
+       "tone": "good"
+      },
+      {
+       "label": "Cộng dồn: có mưa",
+       "value": 0.0,
+       "text": "0%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🌦️",
+      "title": "Cần Thơ · 03/01",
+      "tone": null,
+      "lines": [
+       "24–29°C",
+       "mưa 1,5 mm",
+       "ẩm 85%"
+      ]
+     },
+     "pass": false,
+     "stamp": "CHƯA CHẮC → CÓ MƯA",
+     "metrics": [
+      {
+       "label": "Âm u, mưa phùn",
+       "value": 0.44,
+       "text": "44%",
+       "tone": "jev"
+      },
+      {
+       "label": "Mưa",
+       "value": 0.39,
+       "text": "39%",
+       "tone": "muted"
+      },
+      {
+       "label": "Confidence",
+       "value": 0.36,
+       "text": "0,36",
+       "tone": "bad"
+      },
+      {
+       "label": "Cộng dồn: có mưa",
+       "value": 0.8300000000000001,
+       "text": "83%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "☀️",
+      "title": "Hải Phòng · 21/01",
+      "tone": null,
+      "lines": [
+       "13–24°C",
+       "không mưa",
+       "ẩm 72%"
+      ]
+     },
+     "pass": true,
+     "stamp": "CHẮC: ẤM, DỄ CHỊU",
+     "metrics": [
+      {
+       "label": "Ấm, dễ chịu",
+       "value": 0.97,
+       "text": "97%",
+       "tone": "jev"
+      },
+      {
+       "label": "Mát, khô ráo",
+       "value": 0.03,
+       "text": "3%",
+       "tone": "muted"
+      },
+      {
+       "label": "Confidence",
+       "value": 0.96,
+       "text": "0,96",
+       "tone": "good"
+      },
+      {
+       "label": "Cộng dồn: có mưa",
+       "value": 0.0,
+       "text": "0%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "⛅",
+      "title": "Cần Thơ · 07/01",
+      "tone": null,
+      "lines": [
+       "21–30°C",
+       "không mưa",
+       "ẩm 78%"
+      ]
+     },
+     "pass": false,
+     "stamp": "CHƯA CHẮC → KHÔNG MƯA",
+     "metrics": [
+      {
+       "label": "Nắng nóng",
+       "value": 0.6,
+       "text": "60%",
+       "tone": "jev"
+      },
+      {
+       "label": "Ấm, dễ chịu",
+       "value": 0.36,
+       "text": "36%",
+       "tone": "muted"
+      },
+      {
+       "label": "Confidence",
+       "value": 0.53,
+       "text": "0,53",
+       "tone": "bad"
+      },
+      {
+       "label": "Cộng dồn: có mưa",
+       "value": 0.0,
+       "text": "0%",
+       "tone": "warn"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🌦️",
+      "title": "Hà Nội · 01/12",
+      "tone": null,
+      "lines": [
+       "17–24°C",
+       "mưa 1,9 mm",
+       "ẩm 87%"
+      ]
+     },
+     "pass": false,
+     "stamp": "CHƯA CHẮC → CÓ MƯA",
+     "metrics": [
+      {
+       "label": "Mưa",
+       "value": 0.54,
+       "text": "54%",
+       "tone": "jev"
+      },
+      {
+       "label": "Âm u, mưa phùn",
+       "value": 0.41,
+       "text": "41%",
+       "tone": "muted"
+      },
+      {
+       "label": "Confidence",
+       "value": 0.47,
+       "text": "0,47",
+       "tone": "bad"
+      },
+      {
+       "label": "Cộng dồn: có mưa",
+       "value": 0.95,
+       "text": "95%",
+       "tone": "warn"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "repeat",
+   "key": "repeat",
+   "step": "BƯỚC 7 · HỎI LẠI 15 LẦN",
+   "title": "Đáp án có đổi không?",
+   "cookbook": "Self-consistency",
+   "rows": [
+    {
+     "label": "Hà Nội · 2025-03-12",
+     "values": [
+      1.04,
+      1.05,
+      1.01,
+      1.02,
+      1.02,
+      0.99,
+      1.03,
+      1.02,
+      1.03,
+      1.03,
+      1.03,
+      1.01,
+      1.02,
+      1.02,
+      1.08
+     ],
+     "min": 0,
+     "max": 4,
+     "text": "lệch 0,020",
+     "zoom": [
+      0.9,
+      1.2
+     ]
+    },
+    {
+     "label": "Đà Lạt · 2025-07-20",
+     "values": [
+      0.97,
+      1.01,
+      1.0,
+      1.02,
+      1.01,
+      0.98,
+      1.0,
+      0.95,
+      0.98,
+      0.99,
+      1.0,
+      1.02,
+      1.0,
+      1.06,
+      0.99
+     ],
+     "min": 0,
+     "max": 4,
+     "text": "lệch 0,025",
+     "zoom": [
+      0.8,
+      1.2
+     ]
+    },
+    {
+     "label": "TP.HCM · 2025-04-15",
+     "values": [
+      1.12,
+      1.09,
+      1.12,
+      1.15,
+      1.08,
+      1.13,
+      1.13,
+      1.11,
+      1.15,
+      1.11,
+      1.12,
+      1.1,
+      1.11,
+      1.12,
+      1.14
+     ],
+     "min": 0,
+     "max": 4,
+     "text": "lệch 0,019",
+     "zoom": [
+      1.0,
+      1.2
+     ]
+    }
+   ],
+   "verdict": "Mỗi chấm là một lần hỏi lại điểm dễ chịu (thang 0–4, thanh dưới phóng to). 3/3 ngày giữ nguyên kiểu ngày cả 15 lần."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Đà Lạt: 94 ngày đẹp",
+   "tagline": "Nhiều nhất trong 10 thành phố. Hà Nội đẹp nhất vào tháng 1, TP.HCM vào tháng 1.",
+   "stats": [
+    {
+     "value": "3.650",
+     "label": "ngày đã chấm"
+    },
+    {
+     "value": "1.151",
+     "label": "ngày Jev chưa chắc kiểu"
+    },
+    {
+     "value": "0,12 USD",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Ít ngày đẹp nhất: TP.HCM (5 ngày)",
+    "Phơi đồ khô được nhiều nhất: Nha Trang",
+    "Nhiều ngày nắng nóng nhất: TP.HCM (103 ngày)"
+   ],
+   "gridTitle": "Tháng đẹp nhất để đi",
+   "grid": [
+    {
+     "label": "Đà Lạt",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Hải Phòng",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Sa Pa",
+     "value": "tháng 3"
+    },
+    {
+     "label": "Hà Nội",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Nha Trang",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Phú Quốc",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Huế",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Đà Nẵng",
+     "value": "tháng 1"
+    },
+    {
+     "label": "Cần Thơ",
+     "value": "tháng 1"
+    },
+    {
+     "label": "TP.HCM",
+     "value": "tháng 1"
+    }
+   ],
+   "footnote": "Số liệu tái phân tích của Open-Meteo, không phải trạm đo, và thường ghi nhận mưa nhỏ nhiều hơn thực tế. \"Đẹp\" là đánh giá của Jev từ con số, mỗi người cảm nhận khác."
+  }
+ ]
+}

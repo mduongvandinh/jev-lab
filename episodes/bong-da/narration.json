@@ -1,0 +1,11 @@
+{
+ "intro": "AI không xem video, chỉ đọc mô tả tình huống, thì có đoán được cú sút nào thành bàn không? Mình cho Jev chấm 1.453 cú sút ở World Cup 2022. Jev xếp hạng gần bằng mô hình chuyên dụng, nhưng có một tật.",
+ "scan": "Dữ liệu mở của StatsBomb ghi lại từng cú sút trong 64 trận: bóng ở đâu, hậu vệ đứng đâu, thủ môn đứng đâu, sút bằng chân hay bằng đầu.",
+ "technique": "Jev không được biết ai sút, cũng không biết kết quả. Với mỗi cú sút, Jev trả lời ba câu trong một lần gọi: có thành bàn không, cơ hội ngon cỡ nào, và là kiểu cơ hội gì. Đây là cú sút xa 23 mét của Messi trận gặp Hà Lan. Jev cho 24%, chuyên gia chỉ cho khoảng 4%. Bóng đi ra ngoài.",
+ "pitch": "Đặt cả giải lên một sân. Chấm càng to là Jev càng tin sẽ thành bàn. Các chấm to dồn quanh khung thành, đúng như trực giác. Viền trắng là những bàn thắng thật.",
+ "label": "Trong trận chung kết, cú vô lê của Mbappé được Jev cho 38%, còn chỉ số xG chuyên môn chỉ 10%. Bàn của Di María, Jev cho 44%, xG cho 30%. Jev cũng nhận ra đúng 46 cú sút phạt trực tiếp.",
+ "rank": "Jev có xếp đúng không? Những cú Jev cho từ 40% trở lên vào lưới 30%. Những cú Jev cho dưới 20% chỉ vào 2%. Lấy ngẫu nhiên một cú vào và một cú trượt, Jev xếp đúng 79% số lần, mô hình xG chuyên dụng là 81%. Nhưng Jev quá lạc quan: đoán 460 bàn, thực tế chỉ 152.",
+ "repeat": "Hỏi lại cùng một cú sút 15 lần, con số của Jev chỉ lệch chưa tới 0,01. Jev lạc quan một cách nhất quán, nên có thể sửa được.",
+ "calib": "Cách sửa là hiệu chỉnh bằng dữ liệu có nhãn, như các cookbook khuyên. Mình dùng một nửa số trận để học xem mỗi mức Jev nói thì thực tế vào bao nhiêu. Thử trên 32 trận còn lại, sai số giảm từ 0,130 xuống 0,080, gần bằng mô hình chuyên dụng. Jev đoán 74 bàn, thực tế là 70.",
+ "reveal": "Kết luận: chỉ đọc chữ, Jev biết cú nào nguy hiểm hơn, nhưng con số thô thì quá lạc quan. Hiệu chỉnh một lần là dùng được. Cả thí nghiệm 1.453 lần gọi tốn chưa tới 5 cent. Lưu ý, xG của StatsBomb được huấn luyện trên hàng trăm nghìn cú sút, còn Jev thì không."
+}

@@ -1,0 +1,1027 @@
+{
+ "slug": "layoff",
+ "title": "Layoff 2026: ai bị cắt, rồi họ làm gì?",
+ "accent": "#f43f5e",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · LAYOFF 2026",
+   "headline": "Layoff 2026: ai bị cắt, rồi họ làm gì?",
+   "sub": "2.491 tiêu đề tin tức và 515 chuyện kể của người trong cuộc. AI đọc từng cái"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · TIN TỨC",
+   "title": "Mỗi thẻ là một tiêu đề",
+   "cards": [
+    {
+     "icon": "📰",
+     "title": "Kennedy Center Lays Off Box Office Ticket Sellers",
+     "sub": "City Cast DC · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Intel Layoffs Show Data Center Workers Aren’t Immune to Corporate Job Cuts",
+     "sub": "DataCenterKnowledge · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle layoffs explained: Second round of job cuts—here’s what the CFO says",
+     "sub": "Firstpost · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amazon cutting 16,000 jobs. Are any Massachusetts employees included?",
+     "sub": "The Patriot Ledger · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
+     "sub": "CNBC · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Small layoffs and budget cuts are hitting Apple, with more expected",
+     "sub": "AppleInsider · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle begins layoffs affecting thousands, CNBC reports",
+     "sub": "Reuters · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Around 150 employees of ECMC laid off, Poloncarz says",
+     "sub": "WIVB News 4 · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "MFA Boston Layoffs Thrust the Museum into a Credibility Crisis with Staff and Publics",
+     "sub": "Boston Art Review · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Lowe’s home improvement near Charlotte to cut 600 jobs in corporate, other roles",
+     "sub": "Charlotte Observer · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Sierra Nevada Memorial Hospital nurses to protest CommonSpirit layoffs and reduction in services",
+     "sub": "National Nurses United · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Monday.com lays off hundreds to focus on AI",
+     "sub": "TechCrunch · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Microsoft layoffs 2026: cuts hitting sales, consulting, and Xbox",
+     "sub": "Yahoo Finance · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "JTA planning additional layoffs as it works to cut $39 million from FY 2027 budget, suspend Skyway service in November",
+     "sub": "news4jax.com · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Yamaha changes production, resulting in job losses in Newnan",
+     "sub": "95.5 WSB · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Nestle plans to cut 450 jobs from UK sites",
+     "sub": "BBC · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "LAHSA announces plans to lay off nearly 300 employees amid shift in funding",
+     "sub": "ABC7 Los Angeles · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Channel 4 to axe about 300 jobs in biggest layoffs in its history",
+     "sub": "The Guardian · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amazon slashing some 16,000 jobs in its latest layoff round",
+     "sub": "CBS News · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Block, Atlassian, Meta Have Cut 20,000+ Jobs—What Do Prediction Markets Say About Unemployment?",
+     "sub": "Yahoo Finance · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Baystate Health addresses reported layoffs amid $60 million budget shortfall",
+     "sub": "Western Mass News · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Disney cuts hundreds of jobs across multiple departments: report",
+     "sub": "Fox Business · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Today’s layoffs",
+     "sub": "Epic Games · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "SanDisk cuts dozens of jobs in Israel despite AI-fueled surge",
+     "sub": "calcalistech.com · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Vestas lays off another 27 workers at Lindø factory",
+     "sub": "EnergyWatch · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Colorado IT office lays off 170 staff, names new CIO",
+     "sub": "StateScoop · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Apple Faces More Job Cuts as John Ternus Pushes for Leaner Teams and Faster Product Development",
+     "sub": "International Business Times UK · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Read Star Tribune Publisher Steve Grove's Leaked Memo Announcing Dramatic Job Cuts, Updated 'Vision'",
+     "sub": "racketmn.com · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Job cuts are once again coming to the Minnesota Star Tribune",
+     "sub": "Audacy · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Visa lays off dozens of senior executives, including some with salaries near $500k",
+     "sub": "The Jerusalem Post · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "After cutting 14,000 jobs in October, Amazon just announced another 16,000 layoffs are happening now",
+     "sub": "AL.com · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Fresno Unified to send 250 layoff notices after enrollment declines",
+     "sub": "ABC30 Fresno · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta accused of using AI to pick employees with medical conditions for layoffs",
+     "sub": "Los Angeles Times · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Genentech lays off 103 alongside gRED rethink, pens $490M breast cancer collab",
+     "sub": "Fierce Biotech · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "T-Mobile shutters 5 Washington stores, cuts jobs in fall layoffs at Bellevue HQ",
+     "sub": "KOMO · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Intel cuts dozens of Bay Area jobs in latest layoffs",
+     "sub": "KRON4 · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "BMW cuts 8,000 jobs in Germany",
+     "sub": "World Socialist Web Site · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amazon cuts more jobs; this time in robotics unit",
+     "sub": "Yahoo Finance · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Apple Reportedly Planned to Replace 5,000 Support Employees With AI",
+     "sub": "MacRumors · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Despite Toy Story 5 being a box-office smash, Pixar is laying off employees",
+     "sub": "Polygon.com · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "TikTok to lay off 75 Bellevue employees, the second consecutive year of local job cuts",
+     "sub": "KIRO 7 News Seattle · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Report: Amazon continues layoffs in pursuit of 30,000 job cuts",
+     "sub": "SILive.com · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+     "sub": "Reuters · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Spirit Airlines lays off 999 employees in Las Vegas",
+     "sub": "KLAS 8 News Now · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "PGA Tour Lays Off 4% of Staff As Part of Restructuring",
+     "sub": "Sports Illustrated · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "UPS to cut up to 30,000 more jobs in move away from low-profit Amazon shipments",
+     "sub": "NBC News · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Estée Lauder Companies to cut up to 3,000 more jobs in ‘pivotal’ year for turnaround",
+     "sub": "Cosmetics Business · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Denver manufacturer sells portion of business, plans job cuts",
+     "sub": "The Business Journals · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Southwest Airlines lays off about 75 employees amid restructuring",
+     "sub": "WFAA · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "CEO of Epic Games apologizes after laying off employee with terminal brain cancer",
+     "sub": "The Guardian · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Continental reaches labour agreement on 1,600 job cuts in Germany",
+     "sub": "Reuters · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Paramount, Warner Bros. Insiders Stunned by Settlement, Readying for Layoffs",
+     "sub": "Variety · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "State Dept evaluations could push out more diplomats, after mass layoffs last year",
+     "sub": "Federal News Network · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "ICA San Diego lays off nearly half its staff due to financial pressures",
+     "sub": "San Diego Union-Tribune · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Microsoft R&D jobs drop for second straight year as total headcount falls for first time in a decade",
+     "sub": "GeekWire · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Universal Music Canada Lays Off Staff Across Several Departments",
+     "sub": "Billboard · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "UMD employees worry about ripple effects of hiring freeze, layoffs",
+     "sub": "The Diamondback · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Washington Post Lays Off More Than 300 Journalists",
+     "sub": "nytimes.com · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Pinterest will lay off 15% of its workforce as the platform pivots resources to AI",
+     "sub": "AP News · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Southern California radio station lays off entire staff, switches to all-music format",
+     "sub": "KTLA · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Workday to cut up to 80 Irish jobs at Dublin HQ",
+     "sub": "Business Post · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Dozens lose jobs at Kennedy Center as renovation layoffs commence",
+     "sub": "DC News Now · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amy’s Kitchen to cut 49 local jobs as company restructures",
+     "sub": "eastidahonews.com · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Google to cut 52 employees in Washington state",
+     "sub": "GeekWire · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Nike Announces Global Restructuring and Job Cuts Following Sales Slump",
+     "sub": "SuaraGarut.ID · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta Plans to Cut 8,000 Jobs Amid Rising AI Costs",
+     "sub": "Business Chief · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Rivian Layoffs Will Not Impact Production Workers, R2 Has Launched",
+     "sub": "Work Truck Online · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "BMW targets margin recovery with job cuts, AI and new models",
+     "sub": "The American Bazaar · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "NBCUniversal Layoffs: Streaming Technology Jobs Cut at Sky and US Operations Ahead of Comcast Spin-Off",
+     "sub": "LatestLY · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Kennedy Center begins layoffs as Trump-directed shutdown looms",
+     "sub": "Politico · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "UPMC lays off 200 employees, cuts another 300 positions",
+     "sub": "Pittsburgh Post-Gazette · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs",
+     "sub": "Game Informer · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Xbox Layoffs Hit 3,200 as 5 Studios Exit in Reset [2026]",
+     "sub": "tech-insider.org · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "T-Mobile to lay off 77 employees, close 5 stores",
+     "sub": "KING5.com · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Automotive technology company to close Lafayette plant, cut 133 jobs",
+     "sub": "Inside INdiana Business · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Disney lays off several hundred employees - media",
+     "sub": "Українські Національні Новини (УНН) · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Centra Health to lay off about 90 employees, offer 35 of them open jobs",
+     "sub": "Virginia Business · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Wildgate developer Moonshot Games confirms layoffs",
+     "sub": "Game Developer · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Intel and Uber announce Bay Area job cuts",
+     "sub": "The Mercury News · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta Laying Off 8,000 Employees, 10% of Workforce, Amid Surge in Spending on AI",
+     "sub": "Variety · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "CBS News shutters radio division, lays off staff amid network’s Bari Weiss-led makeover",
+     "sub": "Politico · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "I was laid off from Disney after 31 years. Networking on social media helped me reach nearly 2 million people.",
+     "sub": "Business Insider · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Wix cuts 1,000 employees in latest AI-fueled layoff",
+     "sub": "Mashable · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "More layoffs aren’t off the table for Meta",
+     "sub": "LinkedIn · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta quietly plans massive job cuts as AI spending surges",
+     "sub": "Cleveland.com · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "International Motors laying off over 1,000 workers in Springfield",
+     "sub": "Spectrum News · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Washington Post begins widespread layoffs, sharply shrinking storied newspaper's reach",
+     "sub": "CNBC · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Chemical maker Dow is cutting 4,500 jobs, will rely on AI",
+     "sub": "Yahoo Finance · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs",
+     "sub": "forbes.com · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Android Central layoffs put site's future in doubt",
+     "sub": "cybernews.com · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Long Beach Proposes 260 Layoffs to Close $58 Million Budget Gap",
+     "sub": "Los Angeles Sentinel · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
+     "sub": "CNBC · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "400 jobs cut in Bloomington amidst Novo Nordisk layoffs",
+     "sub": "Fox 59 · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Smartsheet layoffs: Enterprise software giant cuts staff",
+     "sub": "GeekWire · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Illinois Institute of Technology cuts 160 faculty and staff just before fall semester",
+     "sub": "WBEZ Chicago · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Mark Zuckerberg has cut 25,000 jobs at Meta since 2022. Here’s what that says about his leadership",
+     "sub": "Fortune · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle's layoff package puts severance benchmarking under the microscope",
+     "sub": "HR Executive · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
+     "sub": "Reuters · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "All Keller Center staff laid off in first mass termination of academic unit staff in years",
+     "sub": "The Daily Princetonian · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Takeda cuts send layoffs soaring in May, rising year over year",
+     "sub": "BioSpace · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "More teacher layoffs, cuts coming to this Pierce County school district",
+     "sub": "Tacoma News Tribune · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle reported to lay off up to 30,000 workers globally via email",
+     "sub": "World Socialist Web Site · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Atlanta Journal-Constitution to lay off about 50 employees as it restructures for growth",
+     "sub": "CBS News · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Samsung laying off hundreds amid U.S. headquarters move to Plano",
+     "sub": "Dallas News · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "IGT confirms layoffs as integration moves forward",
+     "sub": "KTVN · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle begins fresh round of layoffs; over 1,000 Indian employees set to lose jobs",
+     "sub": "Deccan Herald · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Foghorn lays off 40% of staff after Lilly collaboration ends",
+     "sub": "BioSpace · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "A Utah tech darling’s A.I. business just changed hands. Now, 175 local workers are losing their jobs.",
+     "sub": "The Salt Lake Tribune · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Les Schwab lays off 70 at Bend headquarters",
+     "sub": "OregonLive.com · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "City officials say questions remain about scope, permanence of Collis layoffs in Clinton",
+     "sub": "KWQC · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta is reportedly planning its biggest layoff since 2022",
+     "sub": "HR Executive · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "'It's devastating': Hundreds of Stelco workers in Hamilton and Nanticoke face uncertain future due to layoffs",
+     "sub": "cbc.ca · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Opinion: Block's layoffs might just be the biggest story of a tumultuous week. Here's why",
+     "sub": "CNBC · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "North Star to lay off 100+ employees",
+     "sub": "WWNY · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Zillow layoffs hit 91 jobs in Washington state, with senior roles bearing the brunt",
+     "sub": "GeekWire · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Arctos-, Blackstone-Backed GeoComply Cuts About 15% of Staff",
+     "sub": "Sportico.com · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Once the ‘Worldwide Leader in Sports,’ ESPN’s latest layoffs cement its new identity",
+     "sub": "nytimes.com · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Jobs lost as Moray-based firm goes into administration",
+     "sub": "northern-scot.co.uk · 10/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Sharp HealthCare announces another reorganization affecting 260 workers",
+     "sub": "Fierce Healthcare · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amazon Cuts Jobs in Artificial General Intelligence Unit",
+     "sub": "WSJ · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Visa to lay off 7% of staff as efficiency push deepens",
+     "sub": "Reuters · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "IU Tech Services lays off 13, university quiet on scope of layoffs",
+     "sub": "Indiana Public Media · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "FAS Could Lay Off 25 Percent of Staff in Summer Administrative Restructuring",
+     "sub": "The Harvard Crimson · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "FAS To Lay Off High-Level Administrators in Staff Restructuring",
+     "sub": "The Harvard Crimson · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "SAS eliminates hundreds of positions across the company, spokesperson says",
+     "sub": "WRAL · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "UnityPoint, Wells Fargo cutting West Des Moines jobs",
+     "sub": "The Des Moines Register · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Meta will lay off 10% of its staff",
+     "sub": "NPR · 04/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Students and faculty express concern about layoffs at The College of Wooster",
+     "sub": "Ideastream Public Media · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
+     "sub": "nytimes.com · 08/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Google has quietly cut staff across its Cloud business",
+     "sub": "Business Insider · 06/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Laid off HHS employees win judge approval to seek class action suit",
+     "sub": "GovExec.com · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Jack Dorsey’s chilling warning about job apocalypse – as he cuts 4,000",
+     "sub": "New York Post · 02/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Charlotte nonprofit laying off 100+ employees",
+     "sub": "WBTV · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Wellstar Health System lays off 761 workers",
+     "sub": "modernhealthcare.com · 07/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Oracle begins a new round of layoffs. Read the email.",
+     "sub": "Business Insider · 09/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Intuit layoffs: company cutting 17% of workforce in AI push",
+     "sub": "qz.com · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Amazon set for new job cuts next week in major workforce shake-up",
+     "sub": "The American Bazaar · 01/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Cisco to cut nearly 4,000 jobs as AI shift accelerates",
+     "sub": "CFO Dive · 05/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "SK lays off nearly 1,000 workers at Georgia plant",
+     "sub": "WSB-TV · 03/2026"
+    },
+    {
+     "icon": "📰",
+     "title": "Thinkific lays off 30 percent of employees as part of enterprise push",
+     "sub": "BetaKit · 09/2026"
+    }
+   ],
+   "total": 2491,
+   "totalLabel": "đã đọc",
+   "unit": "tiêu đề",
+   "excluded": 620,
+   "excludedLabel": "không phải tin cắt việc",
+   "cols": 3,
+   "cardH": 170,
+   "credit": "Tiêu đề Google News tiếng Anh, tháng 1–10/2026; chỉ dùng tiêu đề, không lấy bài"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · ĐỌC MỘT TIÊU ĐỀ",
+   "title": "Công ty nào, vì sao?",
+   "cookbook": "Parallel questions · Pre-parsed value extraction",
+   "idea": "Tên công ty: máy tìm các cụm viết hoa, Jev chỉ được chọn một.",
+   "stateLines": [
+    "\"Meta Lays Off 8,000 Employees, as A.I. Casualties Mount\"",
+    "nytimes.com"
+   ],
+   "questions": [
+    {
+     "name": "is_layoff",
+     "kind": "Noul",
+     "text": "Có công ty cụ thể cắt việc?"
+    },
+    {
+     "name": "company",
+     "kind": "Choice",
+     "text": "Công ty nào?"
+    },
+    {
+     "name": "sector",
+     "kind": "Choice",
+     "text": "Ngành gì?"
+    },
+    {
+     "name": "country",
+     "kind": "Choice",
+     "text": "Nước nào?"
+    },
+    {
+     "name": "reason",
+     "kind": "Choice",
+     "text": "Lý do?"
+    }
+   ],
+   "results": [
+    {
+     "name": "is_layoff",
+     "value": "có: 98%",
+     "tone": "good"
+    },
+    {
+     "name": "company",
+     "value": "Meta"
+    },
+    {
+     "name": "sector",
+     "value": "Phần mềm, Internet"
+    },
+    {
+     "name": "reason",
+     "value": "AI, tự động hóa",
+     "tone": "warn"
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "companies",
+   "step": "BƯỚC 3 · CÔNG TY",
+   "title": "Bị nhắc nhiều nhất trong tin layoff",
+   "bars": [
+    {
+     "label": "Meta",
+     "value": 148,
+     "text": "148 tin",
+     "tone": "bad"
+    },
+    {
+     "label": "Amazon",
+     "value": 126,
+     "text": "126 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Oracle",
+     "value": 89,
+     "text": "89 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Disney",
+     "value": 61,
+     "text": "61 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Nike",
+     "value": 59,
+     "text": "59 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Block",
+     "value": 37,
+     "text": "37 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Starbucks",
+     "value": 29,
+     "text": "29 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Microsoft",
+     "value": 25,
+     "text": "25 tin",
+     "tone": "jev"
+    }
+   ],
+   "note": "Số tiêu đề nhắc tới công ty, không phải số người bị cắt."
+  },
+  {
+   "type": "bars",
+   "key": "sectors",
+   "step": "BƯỚC 4 · NGÀNH",
+   "title": "Ngành nào cắt nhiều tin nhất",
+   "bars": [
+    {
+     "label": "Phần mềm, Internet",
+     "value": 417,
+     "text": "417 tin",
+     "tone": "bad"
+    },
+    {
+     "label": "Bán lẻ, TMĐT",
+     "value": 295,
+     "text": "295 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Truyền thông, giải trí",
+     "value": 261,
+     "text": "261 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Nhà nước, giáo dục",
+     "value": 180,
+     "text": "180 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Y tế, dược",
+     "value": 158,
+     "text": "158 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Tài chính",
+     "value": 123,
+     "text": "123 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Ô tô, sản xuất",
+     "value": 93,
+     "text": "93 tin",
+     "tone": "jev"
+    }
+   ],
+   "note": "Nước được nêu nhiều nhất: Mỹ, 1011 tin; Đức 30, Anh 24."
+  },
+  {
+   "type": "bars",
+   "key": "reasons",
+   "step": "BƯỚC 5 · LÝ DO",
+   "title": "Lý do được nêu trong tiêu đề",
+   "bars": [
+    {
+     "label": "AI, tự động hóa",
+     "value": 179,
+     "text": "32%",
+     "tone": "warn"
+    },
+    {
+     "label": "Tái cấu trúc",
+     "value": 166,
+     "text": "30%",
+     "tone": "jev"
+    },
+    {
+     "label": "Cắt giảm chi phí",
+     "value": 69,
+     "text": "12%",
+     "tone": "jev"
+    },
+    {
+     "label": "Bán chậm",
+     "value": 59,
+     "text": "11%",
+     "tone": "jev"
+    },
+    {
+     "label": "Cắt ngân sách",
+     "value": 42,
+     "text": "8%",
+     "tone": "jev"
+    },
+    {
+     "label": "Sáp nhập",
+     "value": 20,
+     "text": "4%",
+     "tone": "jev"
+    }
+   ],
+   "note": "Trên 556 tin có nêu lý do; 1169 tin không nêu. Nêu AI nhiều nhất: Meta, Oracle, Block."
+  },
+  {
+   "type": "bars",
+   "key": "after",
+   "step": "BƯỚC 6 · SAU KHI BỊ CẮT",
+   "title": "Họ đã làm gì tiếp?",
+   "bars": [
+    {
+     "label": "Vẫn đang tìm",
+     "value": 35,
+     "text": "35 người",
+     "sub": "tâm trạng 1,3/4",
+     "tone": "bad"
+    },
+    {
+     "label": "Việc mới cùng nghề",
+     "value": 26,
+     "text": "26 người",
+     "sub": "tâm trạng 2,4/4",
+     "tone": "good"
+    },
+    {
+     "label": "Tự mở công ty",
+     "value": 18,
+     "text": "18 người",
+     "sub": "tâm trạng 2,6/4",
+     "tone": "good"
+    },
+    {
+     "label": "Việc mới khác nghề",
+     "value": 15,
+     "text": "15 người",
+     "sub": "tâm trạng 2,1/4",
+     "tone": "jev"
+    },
+    {
+     "label": "Nghỉ, về hưu",
+     "value": 11,
+     "text": "11 người",
+     "sub": "tâm trạng 2,4/4",
+     "tone": "good"
+    },
+    {
+     "label": "Đi học lại",
+     "value": 6,
+     "text": "6 người",
+     "sub": "tâm trạng 1,9/4",
+     "tone": "jev"
+    },
+    {
+     "label": "Làm tự do",
+     "value": 2,
+     "text": "2 người",
+     "sub": "tâm trạng 2,2/4",
+     "tone": "jev"
+    }
+   ],
+   "note": "283 người tự kể trên Hacker News; 113 người nói rõ kết cục. Mốc tìm việc hay được kể nhất: 6 months (41 người có nêu thời gian)."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "AI là lý do được nêu nhiều nhất",
+   "tagline": "32% tiêu đề có nêu lý do nhắc tới AI. Người tự mở công ty sau layoff có tâm trạng tốt nhất, người vẫn đang tìm việc tệ nhất.",
+   "stats": [
+    {
+     "value": "1.871",
+     "label": "tin cắt việc"
+    },
+    {
+     "value": "283",
+     "label": "chuyện kể người thật"
+    },
+    {
+     "value": "14 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Meta được nhắc trong 148 tiêu đề, nhiều nhất",
+    "Phần mềm, Internet là ngành bị nhắc nhiều nhất (417 tin)",
+    "Vẫn đang tìm việc: tâm trạng 1,3/4; tự mở công ty: 2,6/4"
+   ],
+   "footnote": "Tiêu đề báo tiếng Anh, chủ yếu về Mỹ; nhiều bài cho cùng một đợt cắt. Chuyện kể từ cộng đồng lập trình viên, không đại diện mọi người lao động."
+  }
+ ]
+}

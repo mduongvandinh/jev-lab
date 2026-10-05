@@ -1,0 +1,118 @@
+{
+ "rows": 1453,
+ "open_play_n": 1430,
+ "goals_np": 152,
+ "jev_sum": 460,
+ "auc_jev": 0.789,
+ "auc_xg": 0.815,
+ "brier": {
+  "raw": 0.1302,
+  "cal": 0.0798,
+  "xg": 0.0766,
+  "base": 0.0902
+ },
+ "test_matches": 32,
+ "test_goals": 70,
+ "cal_sum": 74,
+ "buckets": [
+  {
+   "label": "Jev nói dưới 20%",
+   "n": 55,
+   "rate": 0.01818181818181818,
+   "mean": 0.17163636363636364
+  },
+  {
+   "label": "Jev nói 20–40%",
+   "n": 1102,
+   "rate": 0.06170598911070781,
+   "mean": 0.3007168784029038
+  },
+  {
+   "label": "Jev nói từ 40%",
+   "n": 273,
+   "rate": 0.304029304029304,
+   "mean": 0.43663003663003663
+  }
+ ],
+ "cost": {
+  "calls": 1453,
+  "input_tokens": 1073201,
+  "usd": 0.0451
+ },
+ "kinds": [
+  [
+   "box_shot",
+   538
+  ],
+  [
+   "long_range",
+   537
+  ],
+  [
+   "header",
+   227
+  ],
+  [
+   "one_on_one",
+   68
+  ],
+  [
+   "direct_free_kick",
+   46
+  ],
+  [
+   "penalty",
+   23
+  ],
+  [
+   "close_range",
+   14
+  ]
+ ],
+ "messi_miss": {
+  "minute": 21,
+  "distance_m": 23.4,
+  "angle_deg": 16.4,
+  "p": 0.24,
+  "q": 1.98,
+  "kind": "long_range",
+  "xg": 0.037832856
+ },
+ "final": [
+  [
+   "Di María",
+   35,
+   0.44,
+   0.3
+  ],
+  [
+   "Mbappé",
+   80,
+   0.38,
+   0.1
+  ],
+  [
+   "Messi",
+   107,
+   0.43,
+   0.49
+  ]
+ ],
+ "consistency": [
+  [
+   "Mark Anthony Kaye",
+   0.0088,
+   0.038882375
+  ],
+  [
+   "Ellyes Joris Skhiri",
+   0.0079,
+   0.041405495
+  ],
+  [
+   "Ernesto Alexis Vega Rojas",
+   0.0065,
+   0.04950449
+  ]
+ ]
+}

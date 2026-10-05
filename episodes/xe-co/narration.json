@@ -1,0 +1,11 @@
+{
+ "intro": "Mười dòng xe Nhật, xe Hàn quen thuộc ở Việt Nam bị chủ xe phàn nàn nhiều nhất về chuyện gì? Mình cho AI Jev đọc 1.200 khiếu nại thật của chủ xe ở Mỹ. Đứng đầu là chết máy.",
+ "scan": "Dữ liệu lấy từ NHTSA, cơ quan an toàn giao thông Mỹ, nơi chủ xe tự gửi khiếu nại. Mười dòng xe cũng bán ở Việt Nam, đời 2021 đến 2024, mỗi dòng 120 khiếu nại chọn ngẫu nhiên.",
+ "technique": "Với mỗi khiếu nại, Jev trả lời năm câu trong một lần gọi: hệ thống nào lỗi, nguy hiểm cỡ nào, có xảy ra khi đang chạy không, sửa rồi có bị lại không, và số dặm lúc gặp lỗi. Câu cuối theo cookbook Pre-parsed value extraction. Máy tìm sẵn các con số trong bài, Jev chỉ được chọn. Nhờ vậy không thể gõ sai một chữ số. Chiếc Tucson này chết máy khi đang chạy, ở mốc 3.000 dặm, khoảng 4.800 km.",
+ "label": "Lượt hai theo cookbook Hierarchical classification: biết hệ thống rồi mới hỏi lỗi cụ thể trong nhánh đó, như tìm quận trước rồi mới tìm số nhà. Civic bị mất trợ lực lái, CR-V tự phanh vô cớ. Ca nào Jev chưa chắc lỗi cụ thể thì chỉ báo hệ thống.",
+ "heat": "Mỗi dòng xe một kiểu. 81% khiếu nại về Civic là tay lái, với CR-V là 51%. Kia Seltos thì 77% về động cơ và hộp số. Camry nổi lên ở túi khí và dây đai.",
+ "bars": "Tính cả mười dòng, ba lỗi bị kể nhiều nhất là chết máy, hụt ga và mất trợ lực lái. Ngoài ra còn dầu máy lẫn xăng, và xe tự phanh khi phía trước không có gì.",
+ "judge": "Tiếp theo là phân mức độ, theo cách đặt hai ngưỡng của cookbook Guardrails. Nguy hiểm từ 3 trên 4 và xảy ra khi đang chạy thì vào nhóm ưu tiên. Có 383 khiếu nại như vậy. Ngưỡng nằm trong code của bạn, muốn chặt hay lỏng chỉ cần đổi số.",
+ "km": "Lỗi xuất hiện khi nào? Trong 162 khiếu nại có ghi số dặm, lỗi thân xe và tay lái đến sớm, quanh 10 đến 15 nghìn km. Lỗi động cơ quanh 39 nghìn km, lỗi điện quanh 50 nghìn km.",
+ "reveal": "Chết máy là lời phàn nàn số một. 87% nhãn của Jev khớp với nhãn bộ phận NHTSA gắn sẵn. Cả thí nghiệm 2.383 lần gọi tốn khoảng 8 cent. Lưu ý, đây là khiếu nại chưa kiểm chứng ở Mỹ, xe bán chạy thì nhiều khiếu nại hơn, nên đây không phải bảng xếp hạng độ bền."
+}

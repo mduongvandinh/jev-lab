@@ -1,0 +1,1246 @@
+{
+ "slug": "tieu-de-video",
+ "title": "Tiêu đề kiểu nào giúp video nổ view?",
+ "accent": "#ef4444",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · TIÊU ĐỀ VIDEO",
+   "headline": "Tiêu đề kiểu nào giúp video nổ view?",
+   "sub": "332 video của 37 kênh YouTube lớn, AI chấm từng tiêu đề"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Tiêu đề và lượt xem thật",
+   "cards": [
+    {
+     "img": "tieu-de-video/thumbs/-17mPnFxi30.jpg",
+     "title": "Stopping the Unstoppable",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ENkbkzeCYYM.jpg",
+     "title": "Why Rolex Won’t Sell You Their Most Expensive Watches",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/8nilP--GFLY.jpg",
+     "title": "The Unsolved Mystery of Impact Flashes - Smarter Every Day 307",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/70LOaxzmcg4.jpg",
+     "title": "Press This Button To Win $250,000",
+     "credit": "MrBeast Gaming"
+    },
+    {
+     "img": "tieu-de-video/thumbs/I4bxOuhl8TE.jpg",
+     "title": "Impossible Moments Caught On Camera!",
+     "credit": "Beast Reacts"
+    },
+    {
+     "img": "tieu-de-video/thumbs/FluKUJyeYD8.jpg",
+     "title": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+     "credit": "Fireship"
+    },
+    {
+     "img": "tieu-de-video/thumbs/-0JKHuzJ67A.jpg",
+     "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/tDLbO9KeddY.jpg",
+     "title": "How do you keep 8,995 codebreakers secret?",
+     "credit": "Tom Scott"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ohqxP8EEumo.jpg",
+     "title": "iPhone 18 Pro Review: All About that Chip",
+     "credit": "Marques Brownlee"
+    },
+    {
+     "img": "tieu-de-video/thumbs/6_oMb90boiU.jpg",
+     "title": "How The Wildlife Black Market Actually Works | How Crime Works | Insider",
+     "credit": "Insider"
+    },
+    {
+     "img": "tieu-de-video/thumbs/4te9rzEAHnI.jpg",
+     "title": "Insane Android Bug",
+     "credit": "ThioJoe"
+    },
+    {
+     "img": "tieu-de-video/thumbs/hIOW2HKgzPk.jpg",
+     "title": "Why Fast Food Got So Expensive",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/AQqVcdTH5bQ.jpg",
+     "title": "Can I get into the Top 100 of tiddlywinks in one day?",
+     "credit": "Tom Scott"
+    },
+    {
+     "img": "tieu-de-video/thumbs/9SRFbFreCkE.jpg",
+     "title": "I made these to do a ridiculously high dunk",
+     "credit": "Stuff Made Here"
+    },
+    {
+     "img": "tieu-de-video/thumbs/eVBJIUxv8N8.jpg",
+     "title": "GPT-6 Astra Changes Everything",
+     "credit": "Two Minute Papers"
+    },
+    {
+     "img": "tieu-de-video/thumbs/JQ97GiDwPxc.jpg",
+     "title": "How OpenAI Hacked HuggingFace",
+     "credit": "Two Minute Papers"
+    },
+    {
+     "img": "tieu-de-video/thumbs/vC5C2denOOM.jpg",
+     "title": "They’re Really Doing It…",
+     "credit": "TechLinked"
+    },
+    {
+     "img": "tieu-de-video/thumbs/gLkbK8h_9fc.jpg",
+     "title": "How the Channel Tunnel Works",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/wgyGVMN8Hxw.jpg",
+     "title": "Dropbox Was Worth $10 Billion. Then Everyone Left",
+     "credit": "ColdFusion"
+    },
+    {
+     "img": "tieu-de-video/thumbs/lylCYkgC63Q.jpg",
+     "title": "The Backwards Brain Tractor - Smarter Every Day 305",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/rCM6dvK2Hjg.jpg",
+     "title": "NASA’s Next Monster Telescope",
+     "credit": "Real Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/BO_YGcSzJdA.jpg",
+     "title": "I really thought this would fly well",
+     "credit": "Stuff Made Here"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ANmTVYkEtLw.jpg",
+     "title": "Google Pixel 11/Pro Review: Poker Face",
+     "credit": "Marques Brownlee"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Ssw5bdx1HKw.jpg",
+     "title": "So You Want to Build a Tunnel...",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ZewlcJsfbn8.jpg",
+     "title": "The Dark Side of the World’s Lightest Structural Metal",
+     "credit": "Real Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/KzotBDL7Jj8.jpg",
+     "title": "Psychiatrist Debunks The Biggest Psychopath Myths on Reddit",
+     "credit": "WIRED"
+    },
+    {
+     "img": "tieu-de-video/thumbs/0Hvt-xhS65k.jpg",
+     "title": "Before the Foldable, Apple Copied This Phone",
+     "credit": "ColdFusion"
+    },
+    {
+     "img": "tieu-de-video/thumbs/89thRe3elQM.jpg",
+     "title": "The Weird, Scary Airspace Over Washington DC",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/YSwRqNCeP9k.jpg",
+     "title": "So You Want to Understand Quantum Mechanics…",
+     "credit": "PBS Space Time"
+    },
+    {
+     "img": "tieu-de-video/thumbs/mikDGdoFGmw.jpg",
+     "title": "Yep, That’s a Folding iPhone",
+     "credit": "TechLinked"
+    },
+    {
+     "img": "tieu-de-video/thumbs/5lCWqEFVzbY.jpg",
+     "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/5pV3D14y1FQ.jpg",
+     "title": "iPhone Duo/18 Pro Hands On - I wasn’t ready",
+     "credit": "Mrwhosetheboss"
+    },
+    {
+     "img": "tieu-de-video/thumbs/FO9kMeIQI7M.jpg",
+     "title": "10 YouTubers vs 1 Secret Traitor",
+     "credit": "MrBeast Gaming"
+    },
+    {
+     "img": "tieu-de-video/thumbs/_CuibYl_Fh0.jpg",
+     "title": "Is Linux the perfect operating system? - Omarchy interview with DHH",
+     "credit": "NetworkChuck"
+    },
+    {
+     "img": "tieu-de-video/thumbs/DWLcmq_DiaA.jpg",
+     "title": "Fixing the Most Dangerous Dam in the World",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/IXWtyLSEXcE.jpg",
+     "title": "The $400 Billion Company That Watches Everyone",
+     "credit": "ColdFusion"
+    },
+    {
+     "img": "tieu-de-video/thumbs/3YvwqMDDb3k.jpg",
+     "title": "Why Roads Get Washboards",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/F5wMOCZHcH4.jpg",
+     "title": "1 Tank vs 10 Cars!",
+     "credit": "Beast Reacts"
+    },
+    {
+     "img": "tieu-de-video/thumbs/2iHPVsyv4GU.jpg",
+     "title": "How Taiwan is Preparing to Get Invaded",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/WtQ64nSbdY4.jpg",
+     "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/eWP5-BRZndU.jpg",
+     "title": "Weird Scams",
+     "credit": "ThioJoe"
+    },
+    {
+     "img": "tieu-de-video/thumbs/aRUhgrqnpGY.jpg",
+     "title": "How ICE's Surveillance System Works",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Af6i6ChAVTw.jpg",
+     "title": "Last To Leave Mansion, Keeps It",
+     "credit": "MrBeast"
+    },
+    {
+     "img": "tieu-de-video/thumbs/2NK0wBBZZ24.jpg",
+     "title": "What Went Wrong With California High Speed Rail",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/lX_SnVQXC-A.jpg",
+     "title": "Why It’s Illegal to Call a Drug “Stroebenazoline”",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/9SDkU5VDQEQ.jpg",
+     "title": "You need to switch to Linux RIGHT NOW!!",
+     "credit": "NetworkChuck"
+    },
+    {
+     "img": "tieu-de-video/thumbs/iuHddnIzKRA.jpg",
+     "title": "The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile",
+     "credit": "Computerphile"
+    },
+    {
+     "img": "tieu-de-video/thumbs/_FINZmjFxlU.jpg",
+     "title": "Fairway to Hell! | Strange Evidence | Science Channel",
+     "credit": "Science Channel"
+    },
+    {
+     "img": "tieu-de-video/thumbs/I8XaYkRW1tA.jpg",
+     "title": "Why do some people have a better sense of direction than others? - Oliver Baumann",
+     "credit": "TED-Ed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ABRjwGo6Usg.jpg",
+     "title": "The Problem With Spirit Airlines’ Business Model",
+     "credit": "Wendover Productions"
+    },
+    {
+     "img": "tieu-de-video/thumbs/QyRqlTV60zM.jpg",
+     "title": "Plato’s infamous Ship of State thought experiment - Michael Vazquez",
+     "credit": "TED-Ed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/-OI7CL_kyUo.jpg",
+     "title": "How Kim Jong Un \"Accidentally\" Fixed North Korea's Economy",
+     "credit": "Economics Explained"
+    },
+    {
+     "img": "tieu-de-video/thumbs/UuqSy1jPSUw.jpg",
+     "title": "The most expensive software bug in history...",
+     "credit": "Fireship"
+    },
+    {
+     "img": "tieu-de-video/thumbs/n_1wzYQwnts.jpg",
+     "title": "Every US Electrical Outlet Explained",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/3VlnvsZ6kJE.jpg",
+     "title": "This Is The Shortest Train in the United States",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/qt2j2gn0yWc.jpg",
+     "title": "How Earthquake Bearings Work",
+     "credit": "Practical Engineering"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Z1sqWFs86uU.jpg",
+     "title": "Building the Rarest PC",
+     "credit": "Linus Tech Tips"
+    },
+    {
+     "img": "tieu-de-video/thumbs/blubg9l8AVc.jpg",
+     "title": "To help fire this trebuchet, I climbed inside it",
+     "credit": "Tom Scott"
+    },
+    {
+     "img": "tieu-de-video/thumbs/qgLaCZyKv_8.jpg",
+     "title": "I Tried All The Best (and Worst) Doorbells",
+     "credit": "Linus Tech Tips"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Efwafl87Yb8.jpg",
+     "title": "How Has Nepal Been Going?",
+     "credit": "Economics Explained"
+    },
+    {
+     "img": "tieu-de-video/thumbs/NbCf2La5SD8.jpg",
+     "title": "Buying a 1 euro House in Italy - is it a scam?",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/mOvtumfyjCs.jpg",
+     "title": "I Never Thought I’d See This Happen",
+     "credit": "Two Minute Papers"
+    },
+    {
+     "img": "tieu-de-video/thumbs/IYjSmlWG-4A.jpg",
+     "title": "Funniest Fails On The Internet!",
+     "credit": "Beast Reacts"
+    },
+    {
+     "img": "tieu-de-video/thumbs/n3F996g8wjg.jpg",
+     "title": "The Honor Robot Phone is absolutely insane.",
+     "credit": "Mrwhosetheboss"
+    },
+    {
+     "img": "tieu-de-video/thumbs/LoLYw--s-5w.jpg",
+     "title": "Did Google just kickstart the intelligence explosion?",
+     "credit": "Fireship"
+    },
+    {
+     "img": "tieu-de-video/thumbs/LFt5CwsZNK8.jpg",
+     "title": "Astrobiologist Answers Mars Questions",
+     "credit": "WIRED"
+    },
+    {
+     "img": "tieu-de-video/thumbs/eYViePMalJE.jpg",
+     "title": "The Universe Has Been Expanding Since the Big Bang. Just Not How We Thought.",
+     "credit": "PBS Space Time"
+    },
+    {
+     "img": "tieu-de-video/thumbs/EB6BhmoSDvI.jpg",
+     "title": "The Internet Bans Google",
+     "credit": "ThioJoe"
+    },
+    {
+     "img": "tieu-de-video/thumbs/GmwaJnj6pfY.jpg",
+     "title": "Making liquid nitrogen from scratch (an absurd amount)",
+     "credit": "NileRed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/G2b0JOgLpeg.jpg",
+     "title": "Has Inequality Ever Been Worse?",
+     "credit": "Economics Explained"
+    },
+    {
+     "img": "tieu-de-video/thumbs/CnSYsUhlx14.jpg",
+     "title": "Quantum Machine Learning - Computerphile",
+     "credit": "Computerphile"
+    },
+    {
+     "img": "tieu-de-video/thumbs/O7LvhSQ5Te4.jpg",
+     "title": "I don't get democracy",
+     "credit": "Johnny Harris"
+    },
+    {
+     "img": "tieu-de-video/thumbs/TLl027cYgY4.jpg",
+     "title": "This New Phone Has a Subwoofer...",
+     "credit": "Unbox Therapy"
+    },
+    {
+     "img": "tieu-de-video/thumbs/-61qDRPG3to.jpg",
+     "title": "The fastest way to board a plane, according to mathematics - Rachel Yang",
+     "credit": "TED-Ed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/gExsfWU76-Y.jpg",
+     "title": "The Tests to Determine If AI Is Smarter Than a Person",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/5vEGc9U1gLE.jpg",
+     "title": "Rhett & Link Answer The Internet's Best Questions",
+     "credit": "WIRED"
+    },
+    {
+     "img": "tieu-de-video/thumbs/1imHQVVquyg.jpg",
+     "title": "Why This Giant Bag of CO2 is Actually Useful",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/h0EGCnBjTVk.jpg",
+     "title": "I Outsmarted Pro Car Thieves",
+     "credit": "Mark Rober"
+    },
+    {
+     "img": "tieu-de-video/thumbs/bHB5iiDDJ-s.jpg",
+     "title": "Everything you need to know about bird flu - Benjamin Anderson",
+     "credit": "TED-Ed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/ngPkbaZliaU.jpg",
+     "title": "The Truth About the Bezelless Concept Phone",
+     "credit": "Marques Brownlee"
+    },
+    {
+     "img": "tieu-de-video/thumbs/3DVKs1wFoFw.jpg",
+     "title": "LG’s New Budget Laptop...",
+     "credit": "Unbox Therapy"
+    },
+    {
+     "img": "tieu-de-video/thumbs/58SrtQNt4YE.jpg",
+     "title": "America Forgot It's Allowed to Stop Making Coins",
+     "credit": "CGP Grey"
+    },
+    {
+     "img": "tieu-de-video/thumbs/U0wTDK0VOeY.jpg",
+     "title": "The Video Game That Accidentally Gave Antarctica a Flag",
+     "credit": "CGP Grey"
+    },
+    {
+     "img": "tieu-de-video/thumbs/nH9R0Jpqeqc.jpg",
+     "title": "10 YouTubers vs 2 Secret Traitors",
+     "credit": "MrBeast Gaming"
+    },
+    {
+     "img": "tieu-de-video/thumbs/EnWmuc-J8i8.jpg",
+     "title": "I THOUGHT IT WAS FAKE",
+     "credit": "JerryRigEverything"
+    },
+    {
+     "img": "tieu-de-video/thumbs/LX52DmpRO2M.jpg",
+     "title": "These Are HAI’s Worst Mistakes of the Year",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/mxpuV33vpNk.jpg",
+     "title": "JWST May Have Discovered a New Cosmic Object: The Black Hole Star",
+     "credit": "PBS Space Time"
+    },
+    {
+     "img": "tieu-de-video/thumbs/1K5oDtVAYzk.jpg",
+     "title": "Your Post Code Is the Directions, Not the Destination",
+     "credit": "CGP Grey"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Dr4lseoF82c.jpg",
+     "title": "Thomas, a tank engine, is not Thomas the Tank Engine.",
+     "credit": "Tom Scott"
+    },
+    {
+     "img": "tieu-de-video/thumbs/giTmBaNGaHw.jpg",
+     "title": "What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile",
+     "credit": "Computerphile"
+    },
+    {
+     "img": "tieu-de-video/thumbs/bReHusqxnvw.jpg",
+     "title": "Impossible 0.0000001% Odds!",
+     "credit": "Beast Reacts"
+    },
+    {
+     "img": "tieu-de-video/thumbs/W_s81Dn4uEI.jpg",
+     "title": "Why is this piece of America still owned by France?",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/B3LXEW4Pc-w.jpg",
+     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+     "credit": "Two Minute Papers"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Gu_1S77XkiM.jpg",
+     "title": "A simple human task that's insanely hard for a robot",
+     "credit": "Stuff Made Here"
+    },
+    {
+     "img": "tieu-de-video/thumbs/J1WoNuemKOg.jpg",
+     "title": "We sent a camera to space to film the solar eclipse",
+     "credit": "Veritasium"
+    },
+    {
+     "img": "tieu-de-video/thumbs/I07RBedXRYA.jpg",
+     "title": "We Thought All Black Holes Came From Stars. We May Have Been Wrong.",
+     "credit": "PBS Space Time"
+    },
+    {
+     "img": "tieu-de-video/thumbs/LWiNBT22gOI.jpg",
+     "title": "Why Does Nobody Travel to South America's Strangest Countries?",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/pJzuFc52oWk.jpg",
+     "title": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed...",
+     "credit": "Unbox Therapy"
+    },
+    {
+     "img": "tieu-de-video/thumbs/GaX0frxNwfQ.jpg",
+     "title": "I Thought These Guys Made Cables",
+     "credit": "Linus Tech Tips"
+    },
+    {
+     "img": "tieu-de-video/thumbs/i_kzsY5Msbw.jpg",
+     "title": "Unfortunately, AI Might Be Turning Us Into Peasants",
+     "credit": "Economics Explained"
+    },
+    {
+     "img": "tieu-de-video/thumbs/TbkUKCm3CHQ.jpg",
+     "title": "An ex-OpenAI researcher just deleted language from the LLM...",
+     "credit": "Fireship"
+    },
+    {
+     "img": "tieu-de-video/thumbs/CXYt9wzX3kg.jpg",
+     "title": "It’s Finally Here",
+     "credit": "TechLinked"
+    },
+    {
+     "img": "tieu-de-video/thumbs/IEIBXM1YwO8.jpg",
+     "title": "50 Hours on Europe's Most Dangerous Island",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/7K_sA6o1dOE.jpg",
+     "title": "How to lose $35 Billion Dollars Betting on AI",
+     "credit": "ColdFusion"
+    },
+    {
+     "img": "tieu-de-video/thumbs/lVylRtlPOIE.jpg",
+     "title": "I Granted 100 Kids Their Biggest Wish!",
+     "credit": "MrBeast"
+    },
+    {
+     "img": "tieu-de-video/thumbs/5ddVm5r28i0.jpg",
+     "title": "Nintendo Banned Many of You",
+     "credit": "ThioJoe"
+    },
+    {
+     "img": "tieu-de-video/thumbs/Rtj5-iql5FE.jpg",
+     "title": "What it's like in America's Poorest Region",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/jknb1YE6zdY.jpg",
+     "title": "Finally a Country Is Taxing Its Billionaires",
+     "credit": "Economics Explained"
+    },
+    {
+     "img": "tieu-de-video/thumbs/jUa2x_xpFuM.jpg",
+     "title": "I have a weird conspiracy theory about this bridge",
+     "credit": "Tom Scott"
+    },
+    {
+     "img": "tieu-de-video/thumbs/2Qrxj5N_eYE.jpg",
+     "title": "Abandoned in Germany with $0 for 24 Hours (Man vs. Woman)",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/OGjBA4kv89U.jpg",
+     "title": "Why This NYC Skyscraper Has Been Half-Finished Since 2018",
+     "credit": "Half as Interesting"
+    },
+    {
+     "img": "tieu-de-video/thumbs/2OfjZ3ORJfc.jpg",
+     "title": "Robot golf vs holes that keep getting harder",
+     "credit": "Stuff Made Here"
+    },
+    {
+     "img": "tieu-de-video/thumbs/_Ul2V3Dj2Mo.jpg",
+     "title": "Exploring Scotland's Forgotten Castles with Giants",
+     "credit": "Yes Theory"
+    },
+    {
+     "img": "tieu-de-video/thumbs/DNRYkBMaf3Y.jpg",
+     "title": "I Tested YouTubers' Favourite Products",
+     "credit": "Mrwhosetheboss"
+    },
+    {
+     "img": "tieu-de-video/thumbs/w_r-hRlzlDU.jpg",
+     "title": "Do We Really Need To Make This? 🤔 How It's Made | Science Channel",
+     "credit": "Science Channel"
+    },
+    {
+     "img": "tieu-de-video/thumbs/DLOQOUWmRpI.jpg",
+     "title": "The Apple Product I Still Fanboy Over - AirPods 5 Review",
+     "credit": "Linus Tech Tips"
+    },
+    {
+     "img": "tieu-de-video/thumbs/7r4ikZHm9AI.jpg",
+     "title": "Anthropic researchers are quitting... and now we know why",
+     "credit": "Fireship"
+    },
+    {
+     "img": "tieu-de-video/thumbs/JOs-q7rXqdk.jpg",
+     "title": "4 ways to tell a great story",
+     "credit": "TED-Ed"
+    },
+    {
+     "img": "tieu-de-video/thumbs/dt_CG_xRnrY.jpg",
+     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310",
+     "credit": "SmarterEveryDay"
+    },
+    {
+     "img": "tieu-de-video/thumbs/0GQ2RP-25gM.jpg",
+     "title": "Why AI is like a (Clever Hans) Horse - Computerphile",
+     "credit": "Computerphile"
+    }
+   ],
+   "total": 332,
+   "totalLabel": "đã đọc",
+   "unit": "tiêu đề",
+   "cols": 3,
+   "cardH": 250,
+   "credit": "Ảnh và tiêu đề thuộc về các kênh; lượt xem lấy từ RSS công khai của YouTube ngày 5/10/2026"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · BIẾN CHỮ THÀNH SỐ",
+   "title": "Mỗi tiêu đề thành 9 cột số",
+   "cookbook": "Autoresearch feature discovery",
+   "idea": "Jev chỉ thấy tiêu đề, không thấy tên kênh hay lượt xem.",
+   "stateLines": [
+    "\"I Built A City To Save Kids From Illegal Labor\""
+   ],
+   "questions": [
+    {
+     "name": "curiosity",
+     "kind": "Score",
+     "text": "Gây tò mò đến mức nào?"
+    },
+    {
+     "name": "emotion",
+     "kind": "Score",
+     "text": "Cảm xúc mạnh cỡ nào?"
+    },
+    {
+     "name": "stakes",
+     "kind": "Noul",
+     "text": "Quy mô, rủi ro cực lớn?"
+    },
+    {
+     "name": "personal",
+     "kind": "Noul",
+     "text": "\"Tôi đã làm…\"?"
+    },
+    {
+     "name": "negative",
+     "kind": "Noul",
+     "text": "Cảnh báo, sai lầm?"
+    },
+    {
+     "name": "format",
+     "kind": "Choice",
+     "text": "Kiểu video gì?"
+    }
+   ],
+   "results": [
+    {
+     "name": "curiosity",
+     "value": "3,47/4"
+    },
+    {
+     "name": "emotion",
+     "value": "2,98/4"
+    },
+    {
+     "name": "stakes",
+     "value": "có: 82%",
+     "tone": "warn"
+    },
+    {
+     "name": "personal",
+     "value": "có: 99%",
+     "tone": "muted"
+    },
+    {
+     "name": "negative",
+     "value": "có: 81%",
+     "tone": "muted"
+    },
+    {
+     "name": "format",
+     "value": "Chế tạo",
+     "tone": "good"
+    }
+   ],
+   "footer": "+ 3 câu nữa trong cùng request · số, dấu hỏi, độ dài thì code tự đếm"
+  },
+  {
+   "type": "label",
+   "key": "label",
+   "step": "BƯỚC 3 · GHÉP VỚI LƯỢT XEM",
+   "title": "So với chính kênh đó",
+   "examples": [
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/-0HRzXk8vlk.jpg",
+      "title": "Why AI Tokens are so Expensive - Computerphile",
+      "credit": "Computerphile"
+     },
+     "answers": [
+      {
+       "q": "Tò mò",
+       "text": "2,7/4"
+      },
+      {
+       "q": "Kiểu video",
+       "text": "Giải thích khoa học",
+       "prob": 0.73
+      },
+      {
+       "q": "Lượt xem",
+       "text": "x6,0 view kênh",
+       "tone": "good"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/C_2cE21MM7s.jpg",
+      "title": "Inside Pakistan’s Most Dangerous City (surreal)",
+      "credit": "Yes Theory"
+     },
+     "answers": [
+      {
+       "q": "Tò mò",
+       "text": "3,2/4"
+      },
+      {
+       "q": "Kiểu video",
+       "text": "Khác",
+       "prob": 0.76
+      },
+      {
+       "q": "Lượt xem",
+       "text": "x1,2 view kênh",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/Os4LzeRhUz0.jpg",
+      "title": "They Lied About DLSS 5",
+      "credit": "ThioJoe"
+     },
+     "answers": [
+      {
+       "q": "Tò mò",
+       "text": "3,1/4"
+      },
+      {
+       "q": "Kiểu video",
+       "text": "Đánh giá sản phẩm",
+       "prob": 0.81
+      },
+      {
+       "q": "Lượt xem",
+       "text": "x0,6 view kênh",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/cDKPbMaLTA4.jpg",
+      "title": "Recreating ITS - Computerphile",
+      "credit": "Computerphile"
+     },
+     "answers": [
+      {
+       "q": "Tò mò",
+       "text": "2,1/4"
+      },
+      {
+       "q": "Kiểu video",
+       "text": "Chế tạo",
+       "prob": 0.6900000000000001
+      },
+      {
+       "q": "Lượt xem",
+       "text": "x0,1 view kênh",
+       "tone": "muted"
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Kiểu video trong mẫu",
+    "bars": [
+     {
+      "label": "Giải thích khoa học",
+      "value": 69
+     },
+     {
+      "label": "Tin tức, kinh tế",
+      "value": 64
+     },
+     {
+      "label": "Đánh giá sản phẩm",
+      "value": 42
+     },
+     {
+      "label": "Khác",
+      "value": 33
+     },
+     {
+      "label": "Thử thách",
+      "value": 25
+     }
+    ]
+   }
+  },
+  {
+   "type": "heat",
+   "key": "heat",
+   "step": "BƯỚC 4 · GIỌNG CỦA TỪNG KÊNH",
+   "title": "Mỗi kênh một kiểu tiêu đề",
+   "rows": [
+    "Practical Engineering",
+    "Wendover Productions",
+    "Half as Interesting",
+    "Two Minute Papers",
+    "Yes Theory",
+    "Computerphile",
+    "Tom Scott",
+    "MrBeast Gaming",
+    "TED-Ed"
+   ],
+   "cols": [
+    "Tò mò",
+    "Cảm xúc",
+    "Cực lớn",
+    "Tôi",
+    "Cảnh báo",
+    "Vì sao",
+    "Sản phẩm",
+    "Số"
+   ],
+   "values": [
+    [
+     60,
+     27,
+     27,
+     0,
+     40,
+     80,
+     0,
+     0
+    ],
+    [
+     50,
+     21,
+     7,
+     0,
+     71,
+     93,
+     21,
+     0
+    ],
+    [
+     100,
+     0,
+     21,
+     0,
+     57,
+     64,
+     36,
+     21
+    ],
+    [
+     93,
+     50,
+     29,
+     7,
+     50,
+     50,
+     71,
+     29
+    ],
+    [
+     100,
+     36,
+     29,
+     29,
+     57,
+     29,
+     0,
+     50
+    ],
+    [
+     43,
+     0,
+     0,
+     0,
+     14,
+     79,
+     29,
+     14
+    ],
+    [
+     77,
+     15,
+     15,
+     62,
+     54,
+     23,
+     15,
+     31
+    ],
+    [
+     85,
+     23,
+     31,
+     38,
+     31,
+     8,
+     23,
+     69
+    ],
+    [
+     31,
+     0,
+     8,
+     0,
+     38,
+     85,
+     0,
+     15
+    ]
+   ],
+   "highlight": [
+    [
+     0,
+     5
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     2,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     7,
+     0
+    ],
+    [
+     8,
+     5
+    ]
+   ],
+   "legend": "% tiêu đề của kênh có đặc điểm đó. Ô viền vàng: nét nổi bật nhất"
+  },
+  {
+   "type": "bars",
+   "key": "bars",
+   "step": "BƯỚC 5 · CÓ CÔNG THỨC KHÔNG?",
+   "title": "Tỷ lệ video nổ view",
+   "bars": [
+    {
+     "label": "Nói về sản phẩm",
+     "value": 0.30120481927710846,
+     "text": "30%",
+     "tone": "muted",
+     "sub": "không có: 20%"
+    },
+    {
+     "label": "Cảm xúc mạnh",
+     "value": 0.29850746268656714,
+     "text": "30%",
+     "tone": "muted",
+     "sub": "không có: 21%"
+    },
+    {
+     "label": "Quy mô cực lớn",
+     "value": 0.29310344827586204,
+     "text": "29%",
+     "tone": "muted",
+     "sub": "không có: 21%"
+    },
+    {
+     "label": "Có con số",
+     "value": 0.2894736842105263,
+     "text": "29%",
+     "tone": "muted",
+     "sub": "không có: 21%"
+    },
+    {
+     "label": "Gây tò mò",
+     "value": 0.24615384615384617,
+     "text": "25%",
+     "tone": "muted",
+     "sub": "không có: 19%"
+    },
+    {
+     "label": "Hứa hẹn cụ thể",
+     "value": 0.24324324324324326,
+     "text": "24%",
+     "tone": "muted",
+     "sub": "không có: 22%"
+    },
+    {
+     "label": "Cảnh báo, sai lầm",
+     "value": 0.2184873949579832,
+     "text": "22%",
+     "tone": "muted",
+     "sub": "không có: 24%"
+    },
+    {
+     "label": "\"Tôi đã làm…\"",
+     "value": 0.20833333333333334,
+     "text": "21%",
+     "tone": "muted",
+     "sub": "không có: 24%"
+    },
+    {
+     "label": "Giải thích vì sao",
+     "value": 0.20714285714285716,
+     "text": "21%",
+     "tone": "muted",
+     "sub": "không có: 26%"
+    },
+    {
+     "label": "Câu hỏi",
+     "value": 0.1724137931034483,
+     "text": "17%",
+     "tone": "muted",
+     "sub": "không có: 24%"
+    },
+    {
+     "label": "Ngắn ≤ 6 chữ",
+     "value": 0.16666666666666666,
+     "text": "17%",
+     "tone": "muted",
+     "sub": "không có: 27%"
+    }
+   ],
+   "note": "Nổ view: gấp 1,5 lần trung vị của chính kênh. Trung bình chung 23%. Không chênh lệch nào vượt mức may rủi (kiểm định hoán vị, p > 0,05)."
+  },
+  {
+   "type": "judge",
+   "key": "judge",
+   "step": "BƯỚC 6 · ĐỐI CHIẾU",
+   "title": "Tò mò cao có chắc nổ không?",
+   "items": [
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/v0afQ6w3Bjw.jpg",
+      "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311",
+      "credit": "SmarterEveryDay"
+     },
+     "pass": true,
+     "stamp": "X5,5 VIEW KÊNH",
+     "metrics": [
+      {
+       "label": "Gây tò mò",
+       "value": 0.8175,
+       "text": "3,3/4"
+      },
+      {
+       "label": "Cảm xúc",
+       "value": 0.5075,
+       "text": "2,0/4",
+       "tone": "warn"
+      },
+      {
+       "label": "Quy mô cực lớn",
+       "value": 0.67,
+       "text": "67%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/a-uqfwq9Ibo.jpg",
+      "title": "The Nuke That Almost Erased the US East Coast",
+      "credit": "ColdFusion"
+     },
+     "pass": false,
+     "stamp": "X0,2 VIEW KÊNH",
+     "metrics": [
+      {
+       "label": "Gây tò mò",
+       "value": 0.9175,
+       "text": "3,7/4"
+      },
+      {
+       "label": "Cảm xúc",
+       "value": 0.86,
+       "text": "3,4/4",
+       "tone": "warn"
+      },
+      {
+       "label": "Quy mô cực lớn",
+       "value": 0.98,
+       "text": "98%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/gLkbK8h_9fc.jpg",
+      "title": "How the Channel Tunnel Works",
+      "credit": "Wendover Productions"
+     },
+     "pass": true,
+     "stamp": "X2,3 VIEW KÊNH",
+     "metrics": [
+      {
+       "label": "Gây tò mò",
+       "value": 0.3775,
+       "text": "1,5/4"
+      },
+      {
+       "label": "Cảm xúc",
+       "value": 0.0175,
+       "text": "0,1/4",
+       "tone": "warn"
+      },
+      {
+       "label": "Quy mô cực lớn",
+       "value": 0.13,
+       "text": "13%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/tJMqVauWsjk.jpg",
+      "title": "ITS, Eliza & MiT's AI Lab - Computerphile",
+      "credit": "Computerphile"
+     },
+     "pass": false,
+     "stamp": "X0,1 VIEW KÊNH",
+     "metrics": [
+      {
+       "label": "Gây tò mò",
+       "value": 0.395,
+       "text": "1,6/4"
+      },
+      {
+       "label": "Cảm xúc",
+       "value": 0.03,
+       "text": "0,1/4",
+       "tone": "warn"
+      },
+      {
+       "label": "Quy mô cực lớn",
+       "value": 0.03,
+       "text": "3%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "img": "tieu-de-video/thumbs/AQqVcdTH5bQ.jpg",
+      "title": "Can I get into the Top 100 of tiddlywinks in one day?",
+      "credit": "Tom Scott"
+     },
+     "pass": false,
+     "stamp": "X1,0 VIEW KÊNH",
+     "metrics": [
+      {
+       "label": "Gây tò mò",
+       "value": 0.6875,
+       "text": "2,8/4"
+      },
+      {
+       "label": "Cảm xúc",
+       "value": 0.305,
+       "text": "1,2/4",
+       "tone": "warn"
+      },
+      {
+       "label": "Quy mô cực lớn",
+       "value": 0.17,
+       "text": "17%",
+       "tone": "muted"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Không có công thức tiêu đề thần kỳ",
+   "tagline": "Trong cùng một kênh, kiểu tiêu đề không đoán được video nào nổ view. Thứ đo được rõ nhất là mỗi kênh có giọng riêng.",
+   "stats": [
+    {
+     "value": "332",
+     "label": "tiêu đề đã chấm"
+    },
+    {
+     "value": "9",
+     "label": "cột số mỗi tiêu đề, 1 lần gọi"
+    },
+    {
+     "value": "1,2 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Nói về sản phẩm: 30% nổ view, so với 20%, chưa đủ chắc",
+    "Tiêu đề rất ngắn: 17% so với 27%, cũng chưa đủ chắc",
+    "Muốn biết thật: thử A/B tiêu đề trên chính kênh của bạn"
+   ],
+   "footnote": "273 video 10–400 ngày tuổi của 35 kênh, lượt xem tại một thời điểm. Tương quan, không phải nhân quả; ảnh thumbnail và chủ đề cũng ảnh hưởng."
+  }
+ ]
+}

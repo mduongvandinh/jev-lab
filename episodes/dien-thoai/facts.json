@@ -1,0 +1,180 @@
+{
+ "n": 3838,
+ "off": 781,
+ "by": {
+  "iphone": 1011,
+  "samsung": 333,
+  "pixel": 505
+ },
+ "pos": {
+  "iphone": 0.234,
+  "samsung": 0.237,
+  "pixel": 0.273
+ },
+ "neg": {
+  "iphone": 0.394,
+  "samsung": 0.408,
+  "pixel": 0.339
+ },
+ "topics": [
+  "software_ux",
+  "privacy_security",
+  "ecosystem",
+  "size_design",
+  "ai_features",
+  "camera",
+  "price_value"
+ ],
+ "share": {
+  "iphone": [
+   27,
+   7,
+   9,
+   8,
+   5,
+   5,
+   3
+  ],
+  "samsung": [
+   22,
+   10,
+   4,
+   9,
+   3,
+   5,
+   5
+  ],
+  "pixel": [
+   20,
+   27,
+   4,
+   3,
+   5,
+   3,
+   6
+  ]
+ },
+ "neg_top": {
+  "iphone": [
+   "software_ux",
+   149
+  ],
+  "samsung": [
+   "software_ux",
+   30
+  ],
+  "pixel": [
+   "privacy_security",
+   38
+  ]
+ },
+ "switch": {
+  "android_to_iphone": 118,
+  "iphone_to_android": 83
+ },
+ "sw_why": {
+  "android_to_iphone": [
+   [
+    "software_ux",
+    62
+   ],
+   [
+    "ecosystem",
+    12
+   ],
+   [
+    "privacy_security",
+    6
+   ]
+  ],
+  "iphone_to_android": [
+   [
+    "software_ux",
+    42
+   ],
+   [
+    "ecosystem",
+    11
+   ],
+   [
+    "size_design",
+    7
+   ]
+  ]
+ },
+ "kb": [
+  29,
+  149
+ ],
+ "unsure": 1229,
+ "months": [
+  "2025-01",
+  "2026-10"
+ ],
+ "cost": {
+  "calls": 3838,
+  "input_tokens": 3926149,
+  "usd": 0.1649
+ },
+ "demo": {
+  "text": "I had my old iPhone 4 jailbroken and it was literally the only way I would use an iPhone as my main device. Having lost that, I switched back to Android which had caught up in many basic features by then.",
+  "phone": "iphone",
+  "stance": 1.39,
+  "topic": "software_ux",
+  "sw": 0.98,
+  "dir": "iphone_to_android"
+ },
+ "examples": [
+  [
+   "iPhone",
+   "size_design",
+   1.0,
+   2.41
+  ],
+  [
+   "Samsung",
+   "size_design",
+   0.95,
+   3.0
+  ],
+  [
+   "Pixel",
+   "ai_features",
+   0.75,
+   2.94
+  ],
+  [
+   "Samsung",
+   "ecosystem",
+   0.43,
+   3.91
+  ]
+ ],
+ "judge": [
+  [
+   "android_to_iphone",
+   0.96,
+   1.0
+  ],
+  [
+   "iphone_to_android",
+   0.98,
+   1.0
+  ],
+  [
+   "android_to_iphone",
+   0.78,
+   1.0
+  ],
+  [
+   "iphone_to_android",
+   0.89,
+   0.98
+  ],
+  [
+   "iphone_to_android",
+   0.58,
+   0.18
+  ]
+ ]
+}

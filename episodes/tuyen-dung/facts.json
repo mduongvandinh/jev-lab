@@ -1,0 +1,200 @@
+{
+ "hiring": 3979,
+ "seeking": 6056,
+ "per_month": {
+  "2025-10": [
+   338,
+   353
+  ],
+  "2025-11": [
+   392,
+   416
+  ],
+  "2025-12": [
+   374,
+   401
+  ],
+  "2026-01": [
+   255,
+   393
+  ],
+  "2026-02": [
+   402,
+   523
+  ],
+  "2026-03": [
+   314,
+   405
+  ],
+  "2026-04": [
+   329,
+   386
+  ],
+  "2026-05": [
+   315,
+   510
+  ],
+  "2026-06": [
+   311,
+   548
+  ],
+  "2026-07": [
+   258,
+   490
+  ],
+  "2026-08": [
+   229,
+   555
+  ],
+  "2026-09": [
+   252,
+   549
+  ]
+ },
+ "ratio": {
+  "2025-10": 1.04,
+  "2025-11": 1.06,
+  "2025-12": 1.07,
+  "2026-01": 1.54,
+  "2026-02": 1.3,
+  "2026-03": 1.29,
+  "2026-04": 1.17,
+  "2026-05": 1.62,
+  "2026-06": 1.76,
+  "2026-07": 1.9,
+  "2026-08": 2.42,
+  "2026-09": 2.18
+ },
+ "remote_h": {
+  "remote": 1717,
+  "onsite": 844,
+  "hybrid": 890,
+  "unclear": 265
+ },
+ "remote_s": {
+  "remote": 5350,
+  "hybrid": 139,
+  "unclear": 115,
+  "onsite": 53
+ },
+ "roles_h": {
+  "fullstack": 848,
+  "design_product": 48,
+  "other": 991,
+  "backend": 430,
+  "data": 85,
+  "mobile": 49,
+  "devops_infra": 232,
+  "leadership": 109,
+  "embedded_hardware": 44,
+  "frontend": 71,
+  "ml_ai": 370,
+  "security": 61
+ },
+ "roles_s": {
+  "ml_ai": 565,
+  "leadership": 241,
+  "fullstack": 1755,
+  "data": 186,
+  "backend": 921,
+  "embedded_hardware": 111,
+  "devops_infra": 450,
+  "other": 301,
+  "mobile": 167,
+  "security": 64,
+  "frontend": 204,
+  "design_product": 214
+ },
+ "level_h": {
+  "unclear": 1470,
+  "senior": 1113,
+  "staff_plus": 445,
+  "mid": 122,
+  "junior": 50
+ },
+ "level_s": {
+  "senior": 2259,
+  "staff_plus": 806,
+  "junior": 400,
+  "mid": 598,
+  "unclear": 854
+ },
+ "salary_n": 864,
+ "role_pay": [
+  [
+   "leadership",
+   195000.0,
+   27
+  ],
+  [
+   "devops_infra",
+   192000.0,
+   51
+  ],
+  [
+   "ml_ai",
+   190000.0,
+   91
+  ],
+  [
+   "backend",
+   175000.0,
+   129
+  ],
+  [
+   "fullstack",
+   175000.0,
+   276
+  ],
+  [
+   "embedded_hardware",
+   172500.0,
+   12
+  ],
+  [
+   "frontend",
+   170000.0,
+   13
+  ],
+  [
+   "data",
+   168750.0,
+   22
+  ],
+  [
+   "design_product",
+   165000.0,
+   10
+  ],
+  [
+   "mobile",
+   163750.0,
+   10
+  ],
+  [
+   "security",
+   160000.0,
+   14
+  ]
+ ],
+ "ai_pay": {
+  "true": 185000.0,
+  "false": 182500.0
+ },
+ "ai_h": 0.31,
+ "ai_s": 0.478,
+ "ai_prod": 0.438,
+ "visa": 0.03,
+ "us": 0.599,
+ "cost": {
+  "calls": 10035,
+  "input_tokens": 12533653,
+  "usd": 0.5264
+ },
+ "demo": {
+  "line": "Hestus | Machine Learning Engineer (Python, ML) | Peninsula (Onsite) | Full-time | $130k–$170k + equity | YC-funded",
+  "lo": 130000.0,
+  "hi": 170000.0,
+  "role": "ml_ai"
+ }
+}

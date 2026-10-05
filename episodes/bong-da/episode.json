@@ -1,0 +1,10489 @@
+{
+ "slug": "bong-da",
+ "title": "AI có đoán được cú sút nào thành bàn?",
+ "accent": "#22c55e",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · BÓNG ĐÁ",
+   "headline": "AI có đoán được cú sút nào thành bàn?",
+   "sub": "1.453 cú sút ở World Cup 2022. AI chỉ được đọc tình huống, không biết ai sút"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Mỗi thẻ là một cú sút",
+   "cards": [
+    {
+     "icon": "⚽",
+     "title": "Oršić · 77'",
+     "sub": "Argentina – Croatia",
+     "lines": [
+      "19,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lastra · 15'",
+     "sub": "Qatar – Ecuador",
+     "lines": [
+      "10,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Diallo · 24'",
+     "sub": "Ecuador – Senegal",
+     "lines": [
+      "11,2 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Gnabry · 54'",
+     "sub": "Costa Rica – Germany",
+     "lines": [
+      "21,3 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Johnson · 88'",
+     "sub": "United States – Wales",
+     "lines": [
+      "17,5 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Asano · 65'",
+     "sub": "Germany – Japan",
+     "lines": [
+      "17,2 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Silva · 55'",
+     "sub": "Cameroon – Brazil",
+     "lines": [
+      "16,6 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Saka · 26'",
+     "sub": "England – Iran",
+     "lines": [
+      "22,2 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Behich · 46'",
+     "sub": "Australia – Denmark",
+     "lines": [
+      "18,9 m · chân phải",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Petković · 116'",
+     "sub": "Croatia – Brazil",
+     "lines": [
+      "15,4 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Allister · 82'",
+     "sub": "Argentina – Croatia",
+     "lines": [
+      "13,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Meunier · 18'",
+     "sub": "Belgium – Morocco",
+     "lines": [
+      "20,8 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Williams · 95'",
+     "sub": "Wales – Iran",
+     "lines": [
+      "27,9 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lindstrøm · 10'",
+     "sub": "Australia – Denmark",
+     "lines": [
+      "9,7 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Depay · 9'",
+     "sub": "Netherlands – United States",
+     "lines": [
+      "14,2 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Correia · 61'",
+     "sub": "Qatar – Ecuador",
+     "lines": [
+      "14,1 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Ferreira · 34'",
+     "sub": "South Korea – Portugal",
+     "lines": [
+      "26,5 m · chân phải",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Carvajal · 41'",
+     "sub": "Japan – Spain",
+     "lines": [
+      "16,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Morante · 88'",
+     "sub": "Ecuador – Senegal",
+     "lines": [
+      "15,3 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mbappé · 60'",
+     "sub": "France – Denmark",
+     "lines": [
+      "11,6 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Horta · 46'",
+     "sub": "South Korea – Portugal",
+     "lines": [
+      "17,3 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Sarr · 68'",
+     "sub": "England – Senegal",
+     "lines": [
+      "28,6 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Paul · 42'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "7,1 m · bộ phận khác",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Gakpo · 25'",
+     "sub": "Netherlands – Qatar",
+     "lines": [
+      "15,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mbappé · 55'",
+     "sub": "France – Denmark",
+     "lines": [
+      "17,1 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Bruyne · 85'",
+     "sub": "Belgium – Canada",
+     "lines": [
+      "21,4 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mount · 45'",
+     "sub": "England – United States",
+     "lines": [
+      "19,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Monteiro · 4'",
+     "sub": "Portugal – Ghana",
+     "lines": [
+      "22,0 m · chân phải",
+      "5 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Klaassen · 98'",
+     "sub": "Senegal – Netherlands",
+     "lines": [
+      "10,7 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Carvajal · 54'",
+     "sub": "Morocco – Spain",
+     "lines": [
+      "26,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Kostić · 10'",
+     "sub": "Cameroon – Serbia",
+     "lines": [
+      "20,1 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Ziyech · 12'",
+     "sub": "Morocco – Croatia",
+     "lines": [
+      "16,8 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Giroud · 36'",
+     "sub": "France – Australia",
+     "lines": [
+      "14,2 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Colmán · 54'",
+     "sub": "Uruguay – South Korea",
+     "lines": [
+      "17,2 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Colwill · 83'",
+     "sub": "Wales – England",
+     "lines": [
+      "23,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Muani · 67'",
+     "sub": "Argentina – France",
+     "lines": [
+      "7,8 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Cornelius · 91'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "5,9 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Goes · 46'",
+     "sub": "Cameroon – Brazil",
+     "lines": [
+      "14,4 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Muntari · 89'",
+     "sub": "Qatar – Senegal",
+     "lines": [
+      "8,7 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Messi · 38'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "10,9 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Disasi · 79'",
+     "sub": "Tunisia – France",
+     "lines": [
+      "8,1 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Valverde · 51'",
+     "sub": "Costa Rica – Germany",
+     "lines": [
+      "22,4 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lewandowski · 57'",
+     "sub": "Mexico – Poland",
+     "lines": [
+      "10,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Sequeira · 81'",
+     "sub": "Morocco – Portugal",
+     "lines": [
+      "22,7 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Morita · 45'",
+     "sub": "Japan – Costa Rica",
+     "lines": [
+      "18,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Dolberg · 76'",
+     "sub": "Australia – Denmark",
+     "lines": [
+      "13,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Carvajal · 79'",
+     "sub": "Japan – Spain",
+     "lines": [
+      "31,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Skhiri · 42'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "18,5 m · chân trái",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Sargent · 27'",
+     "sub": "Iran – United States",
+     "lines": [
+      "20,5 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Hutchinson · 70'",
+     "sub": "Canada – Morocco",
+     "lines": [
+      "7,4 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Magallón · 72'",
+     "sub": "Saudi Arabia – Mexico",
+     "lines": [
+      "29,9 m · chân trái",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Kane · 92'",
+     "sub": "England – United States",
+     "lines": [
+      "8,1 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Gueye · 87'",
+     "sub": "Ecuador – Senegal",
+     "lines": [
+      "20,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Junior · 20'",
+     "sub": "Croatia – Brazil",
+     "lines": [
+      "18,1 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Adams · 91'",
+     "sub": "United States – Wales",
+     "lines": [
+      "25,2 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Bruyne · 50'",
+     "sub": "Croatia – Belgium",
+     "lines": [
+      "18,8 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "David · 76'",
+     "sub": "Belgium – Canada",
+     "lines": [
+      "15,6 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Skóraś · 52'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "23,2 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Aveiro · 9'",
+     "sub": "Portugal – Ghana",
+     "lines": [
+      "11,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mitrović · 52'",
+     "sub": "Cameroon – Serbia",
+     "lines": [
+      "5,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Sabiri · 32'",
+     "sub": "Canada – Morocco",
+     "lines": [
+      "12,3 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Janssen · 3'",
+     "sub": "Senegal – Netherlands",
+     "lines": [
+      "16,2 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Dipetta · 85'",
+     "sub": "Portugal – Uruguay",
+     "lines": [
+      "29,4 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Højbjerg · 32'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "29,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Eriksen · 68'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "19,2 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Martínez · 92'",
+     "sub": "Argentina – Australia",
+     "lines": [
+      "12,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Bellingham · 34'",
+     "sub": "England – Iran",
+     "lines": [
+      "7,5 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Rezaeian · 100'",
+     "sub": "Wales – Iran",
+     "lines": [
+      "14,7 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Sargent · 9'",
+     "sub": "United States – Wales",
+     "lines": [
+      "5,6 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Silva · 92'",
+     "sub": "Brazil – South Korea",
+     "lines": [
+      "29,4 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Carrasco · 10'",
+     "sub": "Croatia – Belgium",
+     "lines": [
+      "10,2 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Santos · 100'",
+     "sub": "Croatia – Brazil",
+     "lines": [
+      "11,8 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Slimane · 29'",
+     "sub": "Tunisia – France",
+     "lines": [
+      "8,4 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Colmán · 35'",
+     "sub": "Portugal – Uruguay",
+     "lines": [
+      "14,3 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Junior · 75'",
+     "sub": "Croatia – Brazil",
+     "lines": [
+      "12,1 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Hwang · 67'",
+     "sub": "Brazil – South Korea",
+     "lines": [
+      "16,1 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Meriah · 38'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "11,6 m · chân phải",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Di María · 32'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "35,8 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mouh · 64'",
+     "sub": "Morocco – Croatia",
+     "lines": [
+      "29,8 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Ferreira · 96'",
+     "sub": "Morocco – Portugal",
+     "lines": [
+      "6,8 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Asano · 82'",
+     "sub": "Germany – Japan",
+     "lines": [
+      "9,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Na · 90'",
+     "sub": "South Korea – Ghana",
+     "lines": [
+      "10,6 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Foden · 37'",
+     "sub": "Wales – England",
+     "lines": [
+      "14,9 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Son · 39'",
+     "sub": "South Korea – Portugal",
+     "lines": [
+      "23,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Fernandes · 97'",
+     "sub": "Portugal – Uruguay",
+     "lines": [
+      "9,4 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Al-Malki · 54'",
+     "sub": "Poland – Saudi Arabia",
+     "lines": [
+      "21,0 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Rabiot · 79'",
+     "sub": "France – Denmark",
+     "lines": [
+      "9,4 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Boufal · 56'",
+     "sub": "Belgium – Morocco",
+     "lines": [
+      "20,5 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Doan · 47'",
+     "sub": "Japan – Spain",
+     "lines": [
+      "22,9 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Rashford · 86'",
+     "sub": "England – United States",
+     "lines": [
+      "22,2 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Musiala · 60'",
+     "sub": "Costa Rica – Germany",
+     "lines": [
+      "8,2 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Blind · 17'",
+     "sub": "Netherlands – United States",
+     "lines": [
+      "17,3 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Dembélé · 1'",
+     "sub": "France – Australia",
+     "lines": [
+      "23,9 m · chân trái",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mouh · 34'",
+     "sub": "Belgium – Morocco",
+     "lines": [
+      "17,8 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Al-Malki · 77'",
+     "sub": "Poland – Saudi Arabia",
+     "lines": [
+      "16,1 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Manley · 57'",
+     "sub": "Costa Rica – Germany",
+     "lines": [
+      "11,3 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Gómez · 57'",
+     "sub": "Portugal – Uruguay",
+     "lines": [
+      "15,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lastra · 58'",
+     "sub": "Netherlands – Ecuador",
+     "lines": [
+      "16,6 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Hwang · 66'",
+     "sub": "South Korea – Portugal",
+     "lines": [
+      "20,3 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Magallón · 34'",
+     "sub": "Saudi Arabia – Mexico",
+     "lines": [
+      "29,6 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Varane · 12'",
+     "sub": "France – Denmark",
+     "lines": [
+      "9,4 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Saïss · 72'",
+     "sub": "Belgium – Morocco",
+     "lines": [
+      "3,8 m · bộ phận khác",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mazraoui · 32'",
+     "sub": "Morocco – Spain",
+     "lines": [
+      "28,1 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mooy · 73'",
+     "sub": "Tunisia – Australia",
+     "lines": [
+      "22,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Perišić · 76'",
+     "sub": "Japan – Croatia",
+     "lines": [
+      "21,9 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mitrović · 10'",
+     "sub": "Cameroon – Serbia",
+     "lines": [
+      "14,0 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Pulisic · 78'",
+     "sub": "Netherlands – United States",
+     "lines": [
+      "23,1 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mbappé · 36'",
+     "sub": "France – Australia",
+     "lines": [
+      "15,2 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Laïdouni · 51'",
+     "sub": "Tunisia – France",
+     "lines": [
+      "16,8 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Belloli · 45'",
+     "sub": "Brazil – Serbia",
+     "lines": [
+      "14,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Xhaka · 88'",
+     "sub": "Switzerland – Cameroon",
+     "lines": [
+      "21,9 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Kimmich · 55'",
+     "sub": "Spain – Germany",
+     "lines": [
+      "13,0 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Msakni · 71'",
+     "sub": "Tunisia – Australia",
+     "lines": [
+      "22,4 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Saka · 56'",
+     "sub": "England – Senegal",
+     "lines": [
+      "9,0 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Kamiński · 57'",
+     "sub": "Mexico – Poland",
+     "lines": [
+      "10,1 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Alvarado · 26'",
+     "sub": "Saudi Arabia – Mexico",
+     "lines": [
+      "6,3 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Jebali · 42'",
+     "sub": "Denmark – Tunisia",
+     "lines": [
+      "8,6 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Fernandes · 53'",
+     "sub": "Portugal – Uruguay",
+     "lines": [
+      "29,9 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Witsel · 24'",
+     "sub": "Croatia – Belgium",
+     "lines": [
+      "25,4 m · chân phải",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Ziyech · 49'",
+     "sub": "Belgium – Morocco",
+     "lines": [
+      "23,9 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Hrustic · 80'",
+     "sub": "Argentina – Australia",
+     "lines": [
+      "21,7 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Ziyech · 3'",
+     "sub": "Canada – Morocco",
+     "lines": [
+      "33,3 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lucero · 69'",
+     "sub": "Argentina – Mexico",
+     "lines": [
+      "18,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Neves · 5'",
+     "sub": "Portugal – Ghana",
+     "lines": [
+      "20,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Krychowiak · 95'",
+     "sub": "Mexico – Poland",
+     "lines": [
+      "27,8 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Mendy · 68'",
+     "sub": "Qatar – Senegal",
+     "lines": [
+      "16,9 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Embolo · 79'",
+     "sub": "Portugal – Switzerland",
+     "lines": [
+      "16,4 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Souttar · 28'",
+     "sub": "Argentina – Australia",
+     "lines": [
+      "8,3 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Dembélé · 81'",
+     "sub": "Tunisia – France",
+     "lines": [
+      "25,3 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Oršić · 46'",
+     "sub": "Croatia – Morocco",
+     "lines": [
+      "22,7 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Salisu · 23'",
+     "sub": "South Korea – Ghana",
+     "lines": [
+      "4,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Kamada · 71'",
+     "sub": "Japan – Costa Rica",
+     "lines": [
+      "17,4 m · chân phải",
+      "3 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Foden · 93'",
+     "sub": "Wales – England",
+     "lines": [
+      "11,3 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Perišić · 54'",
+     "sub": "Japan – Croatia",
+     "lines": [
+      "13,9 m · đánh đầu",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Menama · 59'",
+     "sub": "Croatia – Belgium",
+     "lines": [
+      "9,7 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Hwang · 38'",
+     "sub": "Uruguay – South Korea",
+     "lines": [
+      "32,0 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Gakpo · 60'",
+     "sub": "Netherlands – United States",
+     "lines": [
+      "20,7 m · chân trái",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Álvarez · 72'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "17,2 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Lima · 79'",
+     "sub": "Croatia – Brazil",
+     "lines": [
+      "15,5 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Belloli · 34'",
+     "sub": "Brazil – Serbia",
+     "lines": [
+      "15,9 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Giroud · 34'",
+     "sub": "France – Morocco",
+     "lines": [
+      "8,5 m · đánh đầu",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Goes · 86'",
+     "sub": "Brazil – Switzerland",
+     "lines": [
+      "16,3 m · chân phải",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Zimmerman · 85'",
+     "sub": "Netherlands – United States",
+     "lines": [
+      "12,0 m · chân phải",
+      "4 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Vlašić · 46'",
+     "sub": "Morocco – Croatia",
+     "lines": [
+      "14,6 m · chân phải",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Messi · 52'",
+     "sub": "Poland – Argentina",
+     "lines": [
+      "16,8 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Semenyo · 78'",
+     "sub": "Ghana – Uruguay",
+     "lines": [
+      "14,5 m · chân trái",
+      "0 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Johnston · 29'",
+     "sub": "Belgium – Canada",
+     "lines": [
+      "18,5 m · chân phải",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Stones · 47'",
+     "sub": "Wales – England",
+     "lines": [
+      "15,5 m · đánh đầu",
+      "1 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Magallón · 22'",
+     "sub": "Saudi Arabia – Mexico",
+     "lines": [
+      "25,0 m · chân trái",
+      "2 người chắn"
+     ]
+    },
+    {
+     "icon": "⚽",
+     "title": "Cheddira · 103'",
+     "sub": "Morocco – Spain",
+     "lines": [
+      "11,4 m · chân trái",
+      "0 người chắn"
+     ]
+    }
+   ],
+   "total": 1453,
+   "totalLabel": "đã đọc",
+   "unit": "cú sút",
+   "cols": 3,
+   "cardH": 200,
+   "credit": "Dữ liệu mở của StatsBomb: vị trí bóng, cầu thủ và thủ môn lúc sút, 64 trận"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · CHỈ ĐỌC TÌNH HUỐNG",
+   "title": "Jev không biết ai sút",
+   "cookbook": "Parallel questions",
+   "idea": "Tên cầu thủ, chỉ số xG và kết quả đều bị giấu. Jev chỉ thấy tình huống.",
+   "stateLines": [
+    "cách khung thành 23,4 m · góc nhìn 16°",
+    "1 hậu vệ chắn · chân trái · không bị áp sát",
+    "tình huống: tấn công thường · có đường chuyền"
+   ],
+   "questions": [
+    {
+     "name": "goal",
+     "kind": "Noul",
+     "text": "Cú này có thành bàn không?"
+    },
+    {
+     "name": "quality",
+     "kind": "Score",
+     "text": "Cơ hội ngon đến mức nào?"
+    },
+    {
+     "name": "kind",
+     "kind": "Choice",
+     "text": "Kiểu cơ hội gì?"
+    }
+   ],
+   "results": [
+    {
+     "name": "goal",
+     "value": "24%",
+     "tone": "warn"
+    },
+    {
+     "name": "quality",
+     "value": "1,98/4"
+    },
+    {
+     "name": "kind",
+     "value": "Sút xa",
+     "tone": "good"
+    }
+   ],
+   "footer": "Đó là cú sút của Messi phút 21 trận gặp Hà Lan. xG chuyên môn: 4%. Kết quả: ra ngoài."
+  },
+  {
+   "type": "pitch",
+   "key": "pitch",
+   "step": "BƯỚC 3 · CẢ GIẢI TRÊN MỘT SÂN",
+   "title": "Mỗi chấm là một cú sút",
+   "points": [
+    {
+     "x": 99.4,
+     "y": 37.0,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 101.3,
+     "y": 59.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 94.3,
+     "y": 40.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.66,
+     "g": true
+    },
+    {
+     "x": 108.0,
+     "y": 21.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 33.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.2,
+     "y": 40.0,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 117.3,
+     "y": 31.5,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 115.2,
+     "y": 50.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 54.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 110.2,
+     "y": 47.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 90.8,
+     "y": 34.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 107.7,
+     "y": 45.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 95.4,
+     "y": 52.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 48.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 109.3,
+     "y": 50.0,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 37.6,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 110.9,
+     "y": 29.2,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 113.0,
+     "y": 54.1,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 39.8,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 94.8,
+     "y": 26.6,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 12.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 104.8,
+     "y": 30.1,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 108.9,
+     "y": 25.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 23.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 95.7,
+     "y": 44.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 56.9,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 93.0,
+     "y": 36.3,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 53.9,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 89.9,
+     "y": 45.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 115.6,
+     "y": 43.8,
+     "p": 0.48,
+     "g": true
+    },
+    {
+     "x": 108.9,
+     "y": 45.4,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 95.4,
+     "y": 19.0,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 43.7,
+     "p": 0.36,
+     "g": true
+    },
+    {
+     "x": 107.7,
+     "y": 37.8,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 114.5,
+     "y": 38.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 103.2,
+     "y": 24.9,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 48.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 40.7,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 114.0,
+     "y": 53.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 29.6,
+     "p": 0.37,
+     "g": true
+    },
+    {
+     "x": 106.5,
+     "y": 47.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 97.2,
+     "y": 37.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 39.8,
+     "p": 0.3,
+     "g": true
+    },
+    {
+     "x": 109.5,
+     "y": 48.0,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 102.4,
+     "y": 25.3,
+     "p": 0.33,
+     "g": true
+    },
+    {
+     "x": 108.0,
+     "y": 37.6,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 51.6,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 110.4,
+     "y": 50.6,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 101.4,
+     "y": 26.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 91.6,
+     "y": 29.2,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.65,
+     "g": true
+    },
+    {
+     "x": 92.7,
+     "y": 40.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 98.8,
+     "y": 39.3,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 38.0,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.65,
+     "g": true
+    },
+    {
+     "x": 115.2,
+     "y": 28.6,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.6,
+     "y": 53.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 48.1,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 44.7,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.6,
+     "y": 49.3,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 52.9,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 94.9,
+     "y": 26.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 25.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 30.8,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 39.9,
+     "p": 0.5,
+     "g": true
+    },
+    {
+     "x": 100.0,
+     "y": 52.7,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 94.1,
+     "y": 47.0,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 85.8,
+     "y": 21.3,
+     "p": 0.15,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 41.0,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 115.0,
+     "y": 52.2,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 51.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 43.7,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 103.5,
+     "y": 43.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 116.8,
+     "y": 24.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 36.4,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 87.3,
+     "y": 40.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 107.7,
+     "y": 41.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 37.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 103.1,
+     "y": 49.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 37.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 100.5,
+     "y": 36.3,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 44.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 103.2,
+     "y": 47.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 100.8,
+     "y": 24.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 110.9,
+     "y": 36.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 114.3,
+     "y": 38.1,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 110.8,
+     "y": 35.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 41.8,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 101.1,
+     "y": 48.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 93.1,
+     "y": 33.0,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 97.7,
+     "y": 47.5,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 94.5,
+     "y": 54.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 94.6,
+     "y": 56.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 54.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 85.9,
+     "y": 24.5,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 43.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 94.4,
+     "y": 42.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 52.0,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 101.3,
+     "y": 45.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 102.5,
+     "y": 42.5,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 90.9,
+     "y": 48.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 84.6,
+     "y": 49.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 45.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 87.5,
+     "y": 42.4,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 52.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 25.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 83.9,
+     "y": 45.0,
+     "p": 0.21,
+     "g": true
+    },
+    {
+     "x": 104.5,
+     "y": 54.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 29.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 32.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 94.5,
+     "y": 37.4,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 95.7,
+     "y": 37.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 92.6,
+     "y": 52.0,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 28.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 101.8,
+     "y": 31.8,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 115.5,
+     "y": 43.8,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 38.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 97.0,
+     "y": 40.0,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 36.9,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 102.8,
+     "y": 54.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 29.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 103.6,
+     "y": 30.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 100.7,
+     "y": 26.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 87.2,
+     "y": 46.1,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 106.2,
+     "y": 35.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 98.3,
+     "y": 26.1,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 25.1,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 110.8,
+     "y": 31.2,
+     "p": 0.36,
+     "g": true
+    },
+    {
+     "x": 92.5,
+     "y": 43.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 100.2,
+     "y": 40.0,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 47.0,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 118.0,
+     "y": 42.7,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 95.0,
+     "y": 47.8,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 94.1,
+     "y": 55.0,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 86.8,
+     "y": 38.4,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 115.1,
+     "y": 36.0,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 13.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 98.3,
+     "y": 20.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 85.8,
+     "y": 42.8,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 39.9,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 99.6,
+     "y": 29.7,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 118.5,
+     "y": 43.2,
+     "p": 0.52,
+     "g": true
+    },
+    {
+     "x": 107.6,
+     "y": 26.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 40.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 95.2,
+     "y": 41.1,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.5,
+     "y": 23.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 96.7,
+     "y": 29.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 95.3,
+     "y": 53.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 95.3,
+     "y": 32.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 96.7,
+     "y": 52.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 110.9,
+     "y": 45.2,
+     "p": 0.51,
+     "g": true
+    },
+    {
+     "x": 83.0,
+     "y": 42.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 103.5,
+     "y": 53.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 113.4,
+     "y": 48.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 43.6,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 104.8,
+     "y": 45.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 106.8,
+     "y": 51.7,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 53.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 103.6,
+     "y": 50.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 56.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 20.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 51.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 95.9,
+     "y": 53.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 89.6,
+     "y": 28.9,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 97.9,
+     "y": 27.0,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 103.7,
+     "y": 46.4,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 85.8,
+     "y": 31.1,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 110.8,
+     "y": 47.7,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 45.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.3,
+     "y": 44.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 107.4,
+     "y": 55.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 85.5,
+     "y": 41.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 36.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 53.8,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 95.1,
+     "y": 37.5,
+     "p": 0.3,
+     "g": true
+    },
+    {
+     "x": 112.8,
+     "y": 28.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 32.9,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 36.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 86.7,
+     "y": 41.3,
+     "p": 0.23,
+     "g": true
+    },
+    {
+     "x": 100.5,
+     "y": 26.1,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 43.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 116.7,
+     "y": 40.2,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 110.1,
+     "y": 43.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 44.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 115.5,
+     "y": 43.7,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 107.2,
+     "y": 34.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 88.1,
+     "y": 28.2,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 34.8,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 102.2,
+     "y": 59.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 42.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 111.2,
+     "y": 28.5,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 106.7,
+     "y": 40.7,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 102.5,
+     "y": 36.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 91.0,
+     "y": 34.0,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 102.9,
+     "y": 22.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 109.3,
+     "y": 51.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 113.7,
+     "y": 60.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 45.9,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 99.1,
+     "y": 39.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 22.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 52.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 49.7,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 105.9,
+     "y": 47.3,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 34.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 53.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 115.5,
+     "y": 48.3,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 95.3,
+     "y": 32.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 100.5,
+     "y": 38.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 43.8,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 107.9,
+     "y": 29.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 52.4,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 101.6,
+     "y": 32.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 51.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 36.7,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 118.7,
+     "y": 35.4,
+     "p": 0.49,
+     "g": true
+    },
+    {
+     "x": 105.5,
+     "y": 54.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 101.3,
+     "y": 54.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 24.4,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 36.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 47.4,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 42.6,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 96.9,
+     "y": 22.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 35.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 89.6,
+     "y": 52.0,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 117.6,
+     "y": 40.3,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 94.2,
+     "y": 27.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 102.5,
+     "y": 24.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 106.2,
+     "y": 25.2,
+     "p": 0.33,
+     "g": true
+    },
+    {
+     "x": 102.2,
+     "y": 43.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 114.2,
+     "y": 56.9,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 120.0,
+     "y": 54.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 96.6,
+     "y": 41.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 101.5,
+     "y": 49.2,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 115.3,
+     "y": 29.2,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 32.1,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 59.0,
+     "y": 4.0,
+     "p": 0.14,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 36.4,
+     "p": 0.34,
+     "g": true
+    },
+    {
+     "x": 110.6,
+     "y": 33.2,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 25.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 26.9,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 45.1,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 98.5,
+     "y": 47.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 31.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 50.7,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 95.5,
+     "y": 48.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 46.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 94.6,
+     "y": 46.6,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 29.5,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.3,
+     "y": 40.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 52.2,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 93.0,
+     "y": 21.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.8,
+     "y": 56.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 33.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 100.0,
+     "y": 56.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 106.7,
+     "y": 35.1,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 93.2,
+     "y": 45.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 96.9,
+     "y": 57.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 47.1,
+     "p": 0.31,
+     "g": true
+    },
+    {
+     "x": 108.1,
+     "y": 33.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 27.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 43.3,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 91.5,
+     "y": 55.0,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 111.2,
+     "y": 41.5,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 106.7,
+     "y": 58.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 97.0,
+     "y": 42.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 43.0,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 28.3,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 38.8,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 24.4,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 102.9,
+     "y": 23.8,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.63,
+     "g": true
+    },
+    {
+     "x": 104.6,
+     "y": 52.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 37.2,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 44.1,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 115.8,
+     "y": 44.4,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 101.2,
+     "y": 50.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 92.4,
+     "y": 35.8,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 39.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 95.4,
+     "y": 52.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 33.2,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 110.8,
+     "y": 51.9,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.66,
+     "g": true
+    },
+    {
+     "x": 92.5,
+     "y": 43.5,
+     "p": 0.27,
+     "g": true
+    },
+    {
+     "x": 105.8,
+     "y": 40.6,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 36.1,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 87.2,
+     "y": 52.2,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 34.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 23.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 42.1,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 117.6,
+     "y": 33.5,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 39.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 107.7,
+     "y": 53.4,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 92.9,
+     "y": 46.3,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 98.6,
+     "y": 18.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 41.0,
+     "p": 0.49,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 33.4,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 93.4,
+     "y": 44.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 42.8,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 108.5,
+     "y": 28.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 20.1,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 117.8,
+     "y": 48.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 34.3,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 101.7,
+     "y": 45.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 93.0,
+     "y": 49.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 35.1,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 36.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 41.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 40.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 115.2,
+     "y": 33.5,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 89.3,
+     "y": 36.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 114.0,
+     "y": 31.0,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 88.2,
+     "y": 44.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 105.6,
+     "y": 32.3,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 111.0,
+     "y": 35.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 44.5,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 20.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 54.0,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 38.8,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 56.4,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 101.4,
+     "y": 36.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 38.3,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 94.8,
+     "y": 61.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 39.3,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 90.8,
+     "y": 21.8,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 25.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 44.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 47.5,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 79.9,
+     "y": 46.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 26.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 34.6,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 48.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 21.3,
+     "p": 0.32,
+     "g": true
+    },
+    {
+     "x": 114.4,
+     "y": 52.0,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 51.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 105.6,
+     "y": 52.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 56.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 49.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 35.1,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 94.8,
+     "y": 37.9,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 96.6,
+     "y": 23.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 36.4,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 96.7,
+     "y": 46.7,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 24.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 24.9,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 87.4,
+     "y": 35.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.9,
+     "y": 32.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 99.3,
+     "y": 59.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 102.8,
+     "y": 36.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 99.1,
+     "y": 56.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 95.9,
+     "y": 33.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 29.9,
+     "p": 0.22,
+     "g": true
+    },
+    {
+     "x": 110.8,
+     "y": 41.6,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 94.5,
+     "y": 37.8,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 96.3,
+     "y": 48.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 22.8,
+     "p": 0.37,
+     "g": true
+    },
+    {
+     "x": 111.3,
+     "y": 27.5,
+     "p": 0.34,
+     "g": true
+    },
+    {
+     "x": 113.0,
+     "y": 49.3,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 96.5,
+     "y": 40.7,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 104.4,
+     "y": 49.0,
+     "p": 0.37,
+     "g": true
+    },
+    {
+     "x": 100.1,
+     "y": 24.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.8,
+     "y": 27.3,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 42.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 94.7,
+     "y": 35.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 30.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 34.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.1,
+     "y": 38.0,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 48.6,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 86.9,
+     "y": 40.9,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 36.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 94.3,
+     "y": 53.4,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 100.3,
+     "y": 53.3,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 109.8,
+     "y": 47.4,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 38.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 95.7,
+     "y": 54.9,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 115.3,
+     "y": 32.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 35.8,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 40.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 97.2,
+     "y": 48.0,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 97.6,
+     "y": 38.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 108.5,
+     "y": 45.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 27.3,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 42.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 38.0,
+     "p": 0.31,
+     "g": true
+    },
+    {
+     "x": 104.6,
+     "y": 30.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 30.2,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 117.9,
+     "y": 32.7,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 44.3,
+     "p": 0.5,
+     "g": true
+    },
+    {
+     "x": 99.2,
+     "y": 47.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 44.6,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 105.8,
+     "y": 33.4,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 93.2,
+     "y": 29.5,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 39.2,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 109.1,
+     "y": 35.0,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 30.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 113.3,
+     "y": 41.7,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 115.0,
+     "y": 45.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 86.3,
+     "y": 46.3,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 50.0,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 35.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 86.4,
+     "y": 48.2,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 51.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 102.9,
+     "y": 39.7,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 40.0,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 36.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 50.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 105.1,
+     "y": 41.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 50.7,
+     "p": 0.3,
+     "g": true
+    },
+    {
+     "x": 115.3,
+     "y": 26.9,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 33.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.9,
+     "y": 44.0,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 105.8,
+     "y": 28.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 48.0,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 95.1,
+     "y": 46.7,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 99.7,
+     "y": 30.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 118.2,
+     "y": 23.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 49.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 110.9,
+     "y": 32.4,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 99.9,
+     "y": 32.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 115.4,
+     "y": 29.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 39.3,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 110.9,
+     "y": 28.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.1,
+     "y": 38.3,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 105.6,
+     "y": 52.3,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 117.4,
+     "y": 37.3,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 49.4,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 115.0,
+     "y": 27.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 48.5,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 114.6,
+     "y": 51.1,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 40.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 114.0,
+     "y": 32.0,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 37.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 46.8,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 101.6,
+     "y": 38.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 100.0,
+     "y": 50.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 93.6,
+     "y": 49.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 90.9,
+     "y": 36.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 35.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 54.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 53.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 48.5,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 90.5,
+     "y": 39.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 56.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 28.3,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 39.0,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 63.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 104.5,
+     "y": 44.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 99.6,
+     "y": 46.7,
+     "p": 0.27,
+     "g": true
+    },
+    {
+     "x": 96.6,
+     "y": 50.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 47.5,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 103.2,
+     "y": 38.6,
+     "p": 0.34,
+     "g": true
+    },
+    {
+     "x": 110.5,
+     "y": 39.7,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 119.6,
+     "y": 79.2,
+     "p": 0.14,
+     "g": false
+    },
+    {
+     "x": 112.4,
+     "y": 45.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 103.1,
+     "y": 38.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 96.5,
+     "y": 46.4,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 45.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 48.9,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 107.7,
+     "y": 39.2,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 35.9,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 100.5,
+     "y": 45.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 92.4,
+     "y": 30.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 50.6,
+     "p": 0.3,
+     "g": true
+    },
+    {
+     "x": 114.3,
+     "y": 29.9,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 116.6,
+     "y": 43.0,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 99.5,
+     "y": 27.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 54.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 36.8,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 38.5,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 112.8,
+     "y": 55.4,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 28.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 96.9,
+     "y": 39.6,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 39.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 92.1,
+     "y": 56.9,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 106.7,
+     "y": 38.8,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 89.7,
+     "y": 57.6,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 38.9,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 118.8,
+     "y": 50.9,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 96.9,
+     "y": 32.0,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 38.7,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 94.2,
+     "y": 57.0,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 95.2,
+     "y": 48.1,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 39.0,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 105.1,
+     "y": 23.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 103.5,
+     "y": 35.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 28.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 118.3,
+     "y": 36.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 94.0,
+     "y": 38.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 30.9,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 45.8,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 98.0,
+     "y": 55.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 54.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 115.5,
+     "y": 37.9,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 98.7,
+     "y": 33.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 51.3,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 54.0,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 35.7,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 105.7,
+     "y": 38.8,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 30.1,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 34.1,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 112.1,
+     "y": 25.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 106.1,
+     "y": 29.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 47.0,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 22.6,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 35.6,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.1,
+     "y": 33.5,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 40.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 54.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 95.9,
+     "y": 32.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 105.6,
+     "y": 48.7,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 114.3,
+     "y": 48.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 106.3,
+     "y": 39.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 23.1,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 105.4,
+     "y": 26.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 33.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 91.1,
+     "y": 46.9,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 29.8,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 115.6,
+     "y": 34.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.0,
+     "p": 0.65,
+     "g": false
+    },
+    {
+     "x": 95.4,
+     "y": 33.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 33.6,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 39.5,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 107.7,
+     "y": 23.5,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 115.9,
+     "y": 44.0,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 96.1,
+     "y": 29.3,
+     "p": 0.25,
+     "g": true
+    },
+    {
+     "x": 113.5,
+     "y": 52.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 45.1,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 102.0,
+     "y": 37.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 117.7,
+     "y": 49.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 90.5,
+     "y": 27.1,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 113.3,
+     "y": 45.4,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 103.1,
+     "y": 51.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.2,
+     "y": 35.4,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 44.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 99.2,
+     "y": 53.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 101.3,
+     "y": 48.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 51.5,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 43.9,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 89.6,
+     "y": 34.9,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 116.3,
+     "y": 43.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 51.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 118.7,
+     "y": 40.2,
+     "p": 0.63,
+     "g": true
+    },
+    {
+     "x": 97.5,
+     "y": 36.4,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 102.5,
+     "y": 40.7,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 87.6,
+     "y": 15.0,
+     "p": 0.15,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 29.6,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 106.6,
+     "y": 47.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 60.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 97.9,
+     "y": 19.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 96.7,
+     "y": 49.1,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 27.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 98.3,
+     "y": 50.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 117.4,
+     "y": 37.0,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 101.6,
+     "y": 53.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 87.8,
+     "y": 49.9,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 27.7,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 31.0,
+     "p": 0.24,
+     "g": true
+    },
+    {
+     "x": 108.2,
+     "y": 39.6,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.4,
+     "y": 37.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 49.3,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 47.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 110.2,
+     "y": 26.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 46.7,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 111.2,
+     "y": 40.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 116.5,
+     "y": 47.2,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 101.9,
+     "y": 28.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 89.5,
+     "y": 39.1,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 105.8,
+     "y": 42.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 113.0,
+     "y": 43.7,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 109.8,
+     "y": 35.9,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 108.5,
+     "y": 21.6,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 39.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 37.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 108.9,
+     "y": 54.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 103.1,
+     "y": 51.4,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 107.8,
+     "y": 50.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 115.4,
+     "y": 30.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 34.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 50.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 98.8,
+     "y": 37.4,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 107.9,
+     "y": 27.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 114.5,
+     "y": 41.8,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 99.4,
+     "y": 54.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 115.3,
+     "y": 51.1,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 41.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 50.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 87.8,
+     "y": 30.9,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 45.9,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 19.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 42.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 104.5,
+     "y": 57.3,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 34.1,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 34.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 107.4,
+     "y": 33.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.7,
+     "y": 31.5,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 90.9,
+     "y": 56.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 116.3,
+     "y": 46.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 109.0,
+     "y": 36.1,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 114.8,
+     "y": 42.5,
+     "p": 0.51,
+     "g": true
+    },
+    {
+     "x": 108.3,
+     "y": 30.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 115.7,
+     "y": 24.7,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 92.4,
+     "y": 52.5,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 93.8,
+     "y": 21.5,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 32.2,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 105.5,
+     "y": 47.4,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 44.5,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 106.6,
+     "y": 46.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 108.5,
+     "y": 38.0,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 88.8,
+     "y": 53.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 103.1,
+     "y": 34.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.66,
+     "g": true
+    },
+    {
+     "x": 89.6,
+     "y": 46.9,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 104.5,
+     "y": 38.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 23.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 29.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 53.6,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 33.4,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 31.7,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 47.1,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 101.2,
+     "y": 27.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 32.1,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 100.7,
+     "y": 51.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 110.7,
+     "y": 45.1,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 93.4,
+     "y": 44.5,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 110.4,
+     "y": 34.6,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 93.4,
+     "y": 42.0,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 94.9,
+     "y": 37.4,
+     "p": 0.25,
+     "g": true
+    },
+    {
+     "x": 103.9,
+     "y": 43.0,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 36.9,
+     "p": 0.49,
+     "g": true
+    },
+    {
+     "x": 109.2,
+     "y": 30.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 96.1,
+     "y": 40.1,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 94.1,
+     "y": 42.1,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 40.3,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 48.7,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 101.9,
+     "y": 32.3,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 33.3,
+     "p": 0.36,
+     "g": true
+    },
+    {
+     "x": 110.5,
+     "y": 39.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 37.0,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 113.2,
+     "y": 34.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 107.1,
+     "y": 34.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 25.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 105.8,
+     "y": 41.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 25.0,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 38.7,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 101.1,
+     "y": 55.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 28.2,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 31.3,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 96.3,
+     "y": 33.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 94.4,
+     "y": 52.9,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 115.0,
+     "y": 43.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 43.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 84.3,
+     "y": 34.2,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.67,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 46.4,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 115.8,
+     "y": 46.8,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 39.5,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 44.8,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 108.5,
+     "y": 47.3,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 100.2,
+     "y": 55.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 95.3,
+     "y": 49.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 115.4,
+     "y": 38.6,
+     "p": 0.55,
+     "g": false
+    },
+    {
+     "x": 117.3,
+     "y": 35.7,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 38.2,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 38.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 86.7,
+     "y": 57.3,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 101.2,
+     "y": 57.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 34.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 38.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 97.2,
+     "y": 31.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 42.8,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 107.1,
+     "y": 38.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 92.4,
+     "y": 50.0,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 107.7,
+     "y": 49.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 117.8,
+     "y": 48.1,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 37.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 40.3,
+     "p": 0.49,
+     "g": false
+    },
+    {
+     "x": 91.8,
+     "y": 17.8,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 58.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 46.7,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 109.8,
+     "y": 35.1,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 29.8,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 38.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 115.1,
+     "y": 38.7,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 115.2,
+     "y": 44.6,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 35.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 46.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 98.0,
+     "y": 53.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 91.4,
+     "y": 24.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 112.4,
+     "y": 46.9,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 91.4,
+     "y": 33.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 33.2,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 46.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 30.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 23.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 62.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 102.1,
+     "y": 35.0,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 28.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 116.0,
+     "y": 51.8,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 35.7,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 99.2,
+     "y": 36.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 26.5,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 103.2,
+     "y": 34.7,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 52.4,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 116.6,
+     "y": 28.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 28.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 93.0,
+     "y": 31.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 29.0,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 107.1,
+     "y": 46.7,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 113.8,
+     "y": 47.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 103.8,
+     "y": 41.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 114.8,
+     "y": 22.4,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 103.9,
+     "y": 29.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 114.3,
+     "y": 46.0,
+     "p": 0.48,
+     "g": true
+    },
+    {
+     "x": 82.7,
+     "y": 33.0,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 41.0,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 35.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 89.5,
+     "y": 44.7,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 40.0,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 92.4,
+     "y": 55.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 27.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 115.5,
+     "y": 39.4,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 90.9,
+     "y": 41.2,
+     "p": 0.13,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 23.0,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 100.2,
+     "y": 34.1,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 38.0,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 39.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 27.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 32.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 103.0,
+     "y": 45.8,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 97.0,
+     "y": 46.1,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 27.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 46.3,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 114.9,
+     "y": 52.7,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 113.4,
+     "y": 46.3,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 101.8,
+     "y": 45.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 27.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 36.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 89.5,
+     "y": 22.9,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 40.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 43.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 97.9,
+     "y": 50.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 95.7,
+     "y": 47.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 95.1,
+     "y": 52.3,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 40.2,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 19.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 37.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 96.2,
+     "y": 40.9,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 31.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 103.5,
+     "y": 26.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 114.5,
+     "y": 42.4,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 116.5,
+     "y": 31.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 44.1,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 31.8,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 24.7,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 96.9,
+     "y": 32.3,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 108.9,
+     "y": 38.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 118.2,
+     "y": 43.9,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 36.1,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 39.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 101.7,
+     "y": 54.6,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 58.7,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 102.7,
+     "y": 60.6,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 114.0,
+     "y": 54.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 94.7,
+     "y": 53.1,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 97.1,
+     "y": 41.8,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 17.2,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 105.7,
+     "y": 33.6,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 38.9,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 44.6,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 102.1,
+     "y": 39.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 39.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 112.8,
+     "y": 47.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.8,
+     "y": 31.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 117.7,
+     "y": 50.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 97.0,
+     "y": 43.3,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 94.0,
+     "y": 42.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 102.4,
+     "y": 27.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 103.6,
+     "y": 55.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 38.8,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 38.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 46.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 96.2,
+     "y": 39.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 104.0,
+     "y": 32.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.9,
+     "y": 44.3,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 108.9,
+     "y": 28.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 50.5,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 37.4,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 38.0,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 98.3,
+     "y": 52.1,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 94.0,
+     "y": 54.7,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 40.0,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 115.6,
+     "y": 39.0,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 99.4,
+     "y": 24.7,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 25.4,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 113.4,
+     "y": 49.1,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 99.9,
+     "y": 37.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 41.3,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 35.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 97.0,
+     "y": 27.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 60.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 106.3,
+     "y": 29.4,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 107.1,
+     "y": 29.4,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 48.0,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 114.9,
+     "y": 30.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 33.9,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 42.1,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 113.0,
+     "y": 44.5,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 22.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 83.8,
+     "y": 54.1,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 104.7,
+     "y": 51.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 98.8,
+     "y": 20.8,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 99.4,
+     "y": 59.1,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 99.1,
+     "y": 27.0,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.3,
+     "y": 38.6,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 93.7,
+     "y": 39.8,
+     "p": 0.21,
+     "g": true
+    },
+    {
+     "x": 114.3,
+     "y": 40.0,
+     "p": 0.32,
+     "g": true
+    },
+    {
+     "x": 90.8,
+     "y": 53.9,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 95.1,
+     "y": 31.3,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 55.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 91.6,
+     "y": 31.8,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 35.4,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 94.2,
+     "y": 43.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 101.4,
+     "y": 30.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 23.8,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 52.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 33.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 28.2,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 119.3,
+     "y": 30.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 88.0,
+     "y": 49.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 103.7,
+     "y": 45.1,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 32.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 39.3,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 101.7,
+     "y": 30.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 46.0,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 38.4,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 105.9,
+     "y": 34.3,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 28.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 114.8,
+     "y": 52.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 114.6,
+     "y": 38.6,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 31.3,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 53.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 56.4,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 91.6,
+     "y": 45.7,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 94.7,
+     "y": 38.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 102.7,
+     "y": 19.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 113.4,
+     "y": 48.9,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 111.5,
+     "y": 24.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 96.2,
+     "y": 37.3,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 46.0,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 34.8,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 91.1,
+     "y": 47.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 47.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 41.8,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 91.6,
+     "y": 39.7,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 25.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 46.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 49.4,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 36.2,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 103.9,
+     "y": 35.4,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 48.1,
+     "p": 0.31,
+     "g": true
+    },
+    {
+     "x": 110.1,
+     "y": 32.5,
+     "p": 0.32,
+     "g": true
+    },
+    {
+     "x": 110.4,
+     "y": 27.0,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 43.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 115.3,
+     "y": 38.3,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 109.4,
+     "y": 24.8,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 115.8,
+     "y": 46.7,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 117.8,
+     "y": 45.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 35.6,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 89.4,
+     "y": 37.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 99.7,
+     "y": 52.9,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 98.0,
+     "y": 38.5,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 48.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 101.7,
+     "y": 63.9,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 106.0,
+     "y": 33.5,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 88.0,
+     "y": 32.0,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 112.5,
+     "y": 43.5,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 45.4,
+     "p": 0.49,
+     "g": true
+    },
+    {
+     "x": 96.1,
+     "y": 60.9,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 114.6,
+     "y": 36.1,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 96.5,
+     "y": 40.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 32.5,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 50.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.64,
+     "g": true
+    },
+    {
+     "x": 90.5,
+     "y": 27.4,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 35.0,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 44.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 92.9,
+     "y": 41.7,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 35.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 110.0,
+     "y": 45.1,
+     "p": 0.46,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 52.6,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 106.7,
+     "y": 39.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 102.1,
+     "y": 56.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 108.3,
+     "y": 44.6,
+     "p": 0.53,
+     "g": true
+    },
+    {
+     "x": 107.1,
+     "y": 41.0,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 40.5,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 39.4,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 113.4,
+     "y": 34.6,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 95.9,
+     "y": 37.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 38.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 20.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 37.0,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 98.9,
+     "y": 25.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 104.7,
+     "y": 50.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 88.9,
+     "y": 44.9,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 110.9,
+     "y": 41.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 44.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.66,
+     "g": false
+    },
+    {
+     "x": 114.7,
+     "y": 35.7,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.65,
+     "g": true
+    },
+    {
+     "x": 94.6,
+     "y": 44.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 98.6,
+     "y": 47.0,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 47.5,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 96.3,
+     "y": 49.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 44.3,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 99.2,
+     "y": 43.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 90.4,
+     "y": 28.0,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 93.9,
+     "y": 39.3,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 35.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 109.8,
+     "y": 54.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 42.8,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 103.0,
+     "y": 48.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 94.7,
+     "y": 45.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 40.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 106.1,
+     "y": 62.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 100.8,
+     "y": 20.7,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 53.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 92.5,
+     "y": 41.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 51.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 20.0,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 40.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 29.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 90.1,
+     "y": 47.7,
+     "p": 0.15,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 30.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 30.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 29.4,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 101.9,
+     "y": 45.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 43.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 110.2,
+     "y": 12.6,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 26.3,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 105.5,
+     "y": 25.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 82.3,
+     "y": 43.9,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 92.2,
+     "y": 33.0,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 95.5,
+     "y": 29.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 116.4,
+     "y": 34.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 39.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 55.7,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 88.8,
+     "y": 44.2,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 92.1,
+     "y": 23.1,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 92.0,
+     "y": 42.5,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 35.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 104.8,
+     "y": 52.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 31.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 35.4,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 30.1,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 115.9,
+     "y": 37.4,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 110.4,
+     "y": 50.3,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 103.5,
+     "y": 16.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 101.5,
+     "y": 30.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 107.8,
+     "y": 45.3,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 88.4,
+     "y": 22.4,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 100.6,
+     "y": 27.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 52.7,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 41.5,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 112.3,
+     "y": 29.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 38.8,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 37.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 30.4,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 115.7,
+     "y": 40.5,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 86.2,
+     "y": 37.2,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 21.4,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 36.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 43.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 94.5,
+     "y": 56.1,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 41.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 54.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 48.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 100.8,
+     "y": 38.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 115.8,
+     "y": 34.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 37.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 84.9,
+     "y": 19.1,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 96.4,
+     "y": 39.9,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 34.4,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 119.4,
+     "y": 45.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 103.1,
+     "y": 34.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 113.3,
+     "y": 34.9,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 113.9,
+     "y": 52.3,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 88.5,
+     "y": 31.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 114.2,
+     "y": 56.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 36.6,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 105.6,
+     "y": 23.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 115.8,
+     "y": 29.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 89.0,
+     "y": 36.2,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 39.6,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 90.5,
+     "y": 45.6,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 25.0,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 46.4,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 38.0,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 92.9,
+     "y": 31.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 47.1,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 39.5,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 111.0,
+     "y": 34.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 92.2,
+     "y": 49.3,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 52.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 49.2,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 40.2,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 96.4,
+     "y": 37.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 57.0,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 95.9,
+     "y": 54.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 43.6,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 111.5,
+     "y": 46.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 45.2,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 42.7,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 56.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 102.2,
+     "y": 47.4,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 54.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 42.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 102.5,
+     "y": 27.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 97.6,
+     "y": 21.6,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 91.7,
+     "y": 61.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 88.9,
+     "y": 36.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 97.4,
+     "y": 54.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 44.4,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 115.2,
+     "y": 55.6,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 113.7,
+     "y": 37.7,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 95.7,
+     "y": 22.6,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 30.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 104.7,
+     "y": 46.8,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 21.7,
+     "p": 0.29,
+     "g": true
+    },
+    {
+     "x": 92.9,
+     "y": 31.0,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 95.5,
+     "y": 26.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 40.5,
+     "p": 0.51,
+     "g": false
+    },
+    {
+     "x": 106.1,
+     "y": 52.6,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 104.6,
+     "y": 32.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 39.7,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 100.3,
+     "y": 40.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 48.4,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 97.4,
+     "y": 42.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 25.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 29.0,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 94.3,
+     "y": 39.7,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 94.9,
+     "y": 25.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 118.0,
+     "y": 36.4,
+     "p": 0.5,
+     "g": true
+    },
+    {
+     "x": 90.6,
+     "y": 53.5,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 92.7,
+     "y": 34.0,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 44.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 37.4,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 104.6,
+     "y": 33.1,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 115.0,
+     "y": 25.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 49.4,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 108.3,
+     "y": 57.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 94.4,
+     "y": 41.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 23.0,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 93.4,
+     "y": 42.2,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 114.2,
+     "y": 31.3,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 107.9,
+     "y": 32.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 92.9,
+     "y": 30.0,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 42.4,
+     "p": 0.48,
+     "g": true
+    },
+    {
+     "x": 105.1,
+     "y": 54.6,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 33.8,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 102.0,
+     "y": 45.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.1,
+     "y": 34.6,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.65,
+     "g": true
+    },
+    {
+     "x": 103.3,
+     "y": 40.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 91.2,
+     "y": 52.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 101.7,
+     "y": 33.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 100.4,
+     "y": 43.7,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 42.0,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 113.0,
+     "y": 40.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.64,
+     "g": false
+    },
+    {
+     "x": 96.8,
+     "y": 50.1,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 94.7,
+     "y": 30.7,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 100.5,
+     "y": 55.8,
+     "p": 0.33,
+     "g": true
+    },
+    {
+     "x": 97.2,
+     "y": 49.3,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 99.4,
+     "y": 52.7,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 47.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 32.5,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 32.8,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 29.3,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 32.8,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 37.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 116.6,
+     "y": 51.6,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 95.3,
+     "y": 40.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 40.2,
+     "p": 0.52,
+     "g": true
+    },
+    {
+     "x": 103.3,
+     "y": 47.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 93.9,
+     "y": 27.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 35.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 82.9,
+     "y": 33.6,
+     "p": 0.13,
+     "g": false
+    },
+    {
+     "x": 101.4,
+     "y": 25.4,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 110.4,
+     "y": 33.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 116.5,
+     "y": 31.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 99.2,
+     "y": 46.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 98.9,
+     "y": 23.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 32.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 118.0,
+     "y": 48.2,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 39.5,
+     "p": 0.48,
+     "g": false
+    },
+    {
+     "x": 96.8,
+     "y": 52.1,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 38.6,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 28.9,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 98.6,
+     "y": 51.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 53.8,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 93.4,
+     "y": 27.5,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 110.4,
+     "y": 26.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 45.5,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 54.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.8,
+     "y": 23.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 93.3,
+     "y": 45.1,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 107.9,
+     "y": 34.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 56.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 103.0,
+     "y": 49.6,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 93.8,
+     "y": 36.6,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 94.0,
+     "y": 24.8,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 116.3,
+     "y": 43.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 25.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 38.0,
+     "p": 0.37,
+     "g": true
+    },
+    {
+     "x": 88.5,
+     "y": 52.0,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 34.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 42.5,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 44.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 99.9,
+     "y": 53.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 54.0,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 110.3,
+     "y": 29.2,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 41.4,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 84.7,
+     "y": 54.0,
+     "p": 0.17,
+     "g": false
+    },
+    {
+     "x": 94.4,
+     "y": 46.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 41.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 45.6,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 99.1,
+     "y": 53.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 39.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 99.4,
+     "y": 14.6,
+     "p": 0.16,
+     "g": true
+    },
+    {
+     "x": 108.8,
+     "y": 46.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.8,
+     "y": 28.6,
+     "p": 0.32,
+     "g": true
+    },
+    {
+     "x": 88.8,
+     "y": 40.2,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 99.0,
+     "y": 32.1,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 113.6,
+     "y": 52.2,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 34.4,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 92.7,
+     "y": 34.9,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 117.5,
+     "y": 20.6,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 95.2,
+     "y": 30.1,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 39.2,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 47.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 101.4,
+     "y": 53.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 118.8,
+     "y": 41.6,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 24.9,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 40.0,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 37.8,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 85.0,
+     "y": 44.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 38.5,
+     "p": 0.28,
+     "g": true
+    },
+    {
+     "x": 90.9,
+     "y": 45.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 42.6,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 106.8,
+     "y": 43.3,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 54.4,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 49.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 100.9,
+     "y": 57.3,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 40.1,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 115.1,
+     "y": 45.2,
+     "p": 0.49,
+     "g": true
+    },
+    {
+     "x": 103.9,
+     "y": 44.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 89.6,
+     "y": 25.9,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 111.1,
+     "y": 52.8,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 91.0,
+     "y": 26.8,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 44.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 92.5,
+     "y": 36.0,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 96.4,
+     "y": 49.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 100.7,
+     "y": 41.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 34.0,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 106.6,
+     "y": 41.6,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 93.0,
+     "y": 25.1,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 97.8,
+     "y": 36.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 112.0,
+     "y": 33.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 105.8,
+     "y": 28.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 42.2,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 110.4,
+     "y": 27.6,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 106.2,
+     "y": 25.8,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 87.2,
+     "y": 48.7,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 93.8,
+     "y": 39.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 86.3,
+     "y": 31.2,
+     "p": 0.15,
+     "g": false
+    },
+    {
+     "x": 91.0,
+     "y": 27.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 93.9,
+     "y": 25.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 101.9,
+     "y": 56.4,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 103.0,
+     "y": 34.8,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 38.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 109.3,
+     "y": 42.6,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 107.7,
+     "y": 38.8,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 108.7,
+     "y": 29.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 101.5,
+     "y": 35.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 41.5,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 110.9,
+     "y": 30.5,
+     "p": 0.5,
+     "g": false
+    },
+    {
+     "x": 115.6,
+     "y": 39.8,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 111.3,
+     "y": 44.4,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 93.6,
+     "y": 43.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 116.7,
+     "y": 29.0,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 103.0,
+     "y": 40.0,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 96.3,
+     "y": 40.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 91.6,
+     "y": 24.8,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 102.0,
+     "y": 57.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 107.4,
+     "y": 31.3,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 100.7,
+     "y": 32.2,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 35.2,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 38.8,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 108.8,
+     "y": 45.3,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 117.5,
+     "y": 34.2,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 99.1,
+     "y": 51.0,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 101.8,
+     "y": 53.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 102.8,
+     "y": 46.4,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 111.0,
+     "y": 42.8,
+     "p": 0.42,
+     "g": true
+    },
+    {
+     "x": 108.8,
+     "y": 34.9,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 26.5,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 98.1,
+     "y": 44.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 111.3,
+     "y": 40.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 99.4,
+     "y": 25.5,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 116.0,
+     "y": 38.1,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 98.8,
+     "y": 59.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 113.0,
+     "y": 40.0,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 96.6,
+     "y": 39.5,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 106.9,
+     "y": 45.7,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 105.0,
+     "y": 39.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 93.8,
+     "y": 56.8,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 107.9,
+     "y": 41.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 96.7,
+     "y": 37.2,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 117.7,
+     "y": 50.2,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 95.6,
+     "y": 42.2,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.9,
+     "y": 25.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 49.4,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 96.8,
+     "y": 42.8,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 44.5,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 113.7,
+     "y": 42.7,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 89.1,
+     "y": 28.8,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 98.2,
+     "y": 23.8,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 93.3,
+     "y": 39.0,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 98.4,
+     "y": 27.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.62,
+     "g": true
+    },
+    {
+     "x": 95.3,
+     "y": 57.9,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 94.0,
+     "y": 50.6,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 27.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 29.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 24.5,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 97.2,
+     "y": 48.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 110.1,
+     "y": 50.1,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 108.2,
+     "y": 42.4,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.66,
+     "g": false
+    },
+    {
+     "x": 89.8,
+     "y": 39.9,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 98.3,
+     "y": 34.5,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 36.8,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.2,
+     "y": 39.3,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 53.9,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 111.7,
+     "y": 30.9,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 89.2,
+     "y": 40.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 107.8,
+     "y": 35.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 101.9,
+     "y": 43.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 112.7,
+     "y": 37.4,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 103.2,
+     "y": 29.4,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 99.2,
+     "y": 46.5,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 103.2,
+     "y": 34.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 96.6,
+     "y": 34.3,
+     "p": 0.15,
+     "g": false
+    },
+    {
+     "x": 106.8,
+     "y": 44.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 97.3,
+     "y": 33.7,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 106.2,
+     "y": 31.8,
+     "p": 0.39,
+     "g": true
+    },
+    {
+     "x": 90.0,
+     "y": 41.9,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 6.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 108.9,
+     "y": 42.7,
+     "p": 0.5,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 44.7,
+     "p": 0.38,
+     "g": true
+    },
+    {
+     "x": 103.3,
+     "y": 57.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 90.1,
+     "y": 22.3,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.66,
+     "g": false
+    },
+    {
+     "x": 99.7,
+     "y": 29.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 103.6,
+     "y": 37.6,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 93.6,
+     "y": 20.3,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 33.1,
+     "p": 0.4,
+     "g": true
+    },
+    {
+     "x": 105.2,
+     "y": 33.9,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 91.0,
+     "y": 39.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 97.9,
+     "y": 37.7,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 93.1,
+     "y": 48.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 102.8,
+     "y": 35.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 105.2,
+     "y": 44.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 102.7,
+     "y": 25.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 32.8,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 102.5,
+     "y": 50.1,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 49.4,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 93.1,
+     "y": 36.9,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 34.6,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 114.5,
+     "y": 34.1,
+     "p": 0.48,
+     "g": true
+    },
+    {
+     "x": 105.7,
+     "y": 51.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 98.8,
+     "y": 24.7,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 116.9,
+     "y": 49.2,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 117.0,
+     "y": 29.2,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 114.3,
+     "y": 59.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 40.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 99.2,
+     "y": 40.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 43.5,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 102.0,
+     "y": 50.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 112.1,
+     "y": 47.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 99.9,
+     "y": 53.4,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 31.9,
+     "p": 0.49,
+     "g": false
+    },
+    {
+     "x": 100.1,
+     "y": 51.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 105.4,
+     "y": 22.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 119.2,
+     "y": 0.7,
+     "p": 0.12,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 25.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 99.5,
+     "y": 50.6,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 105.3,
+     "y": 27.8,
+     "p": 0.19,
+     "g": false
+    },
+    {
+     "x": 99.8,
+     "y": 52.9,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 109.8,
+     "y": 50.0,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 117.8,
+     "y": 36.5,
+     "p": 0.5,
+     "g": true
+    },
+    {
+     "x": 112.7,
+     "y": 47.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 97.6,
+     "y": 42.3,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 108.4,
+     "y": 21.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 92.6,
+     "y": 58.9,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 116.7,
+     "y": 38.0,
+     "p": 0.47,
+     "g": true
+    },
+    {
+     "x": 101.0,
+     "y": 47.3,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 117.0,
+     "y": 35.0,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 83.8,
+     "y": 35.5,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 109.4,
+     "y": 35.9,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 103.5,
+     "y": 32.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 59.6,
+     "y": 39.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 108.0,
+     "y": 40.0,
+     "p": 0.67,
+     "g": true
+    },
+    {
+     "x": 109.5,
+     "y": 36.8,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 99.0,
+     "y": 37.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 100.1,
+     "y": 32.9,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 115.1,
+     "y": 46.8,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 39.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 109.2,
+     "y": 36.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 87.6,
+     "y": 38.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 103.9,
+     "y": 36.4,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 111.9,
+     "y": 60.4,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 34.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 106.7,
+     "y": 39.0,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 106.3,
+     "y": 47.2,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 41.1,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 113.3,
+     "y": 38.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 115.1,
+     "y": 44.4,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 94.8,
+     "y": 41.9,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 111.2,
+     "y": 26.7,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 103.6,
+     "y": 52.3,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 95.0,
+     "y": 30.2,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.7,
+     "y": 47.7,
+     "p": 0.46,
+     "g": true
+    },
+    {
+     "x": 107.5,
+     "y": 41.8,
+     "p": 0.47,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 37.2,
+     "p": 0.57,
+     "g": false
+    },
+    {
+     "x": 106.4,
+     "y": 48.8,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 50.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 106.6,
+     "y": 22.0,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 109.1,
+     "y": 36.5,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 93.5,
+     "y": 36.8,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 95.6,
+     "y": 43.2,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 113.0,
+     "y": 37.6,
+     "p": 0.43,
+     "g": true
+    },
+    {
+     "x": 117.8,
+     "y": 31.5,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 112.6,
+     "y": 45.8,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 93.0,
+     "y": 24.5,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 45.4,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 107.4,
+     "y": 31.7,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.5,
+     "y": 54.0,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 110.6,
+     "y": 40.8,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 43.2,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 114.4,
+     "y": 43.9,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 101.0,
+     "y": 39.1,
+     "p": 0.33,
+     "g": true
+    },
+    {
+     "x": 114.1,
+     "y": 28.8,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 101.1,
+     "y": 59.8,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 101.2,
+     "y": 43.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 93.1,
+     "y": 38.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 103.3,
+     "y": 37.8,
+     "p": 0.32,
+     "g": true
+    },
+    {
+     "x": 107.4,
+     "y": 41.4,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 41.3,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 114.5,
+     "y": 47.9,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 32.1,
+     "p": 0.44,
+     "g": true
+    },
+    {
+     "x": 116.0,
+     "y": 35.3,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 113.1,
+     "y": 34.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 111.6,
+     "y": 39.3,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 95.5,
+     "y": 34.0,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 119.2,
+     "y": 47.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 51.2,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 109.0,
+     "y": 56.2,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 23.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 50.3,
+     "p": 0.35,
+     "g": true
+    },
+    {
+     "x": 100.5,
+     "y": 32.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 107.2,
+     "y": 41.2,
+     "p": 0.41,
+     "g": true
+    },
+    {
+     "x": 108.7,
+     "y": 38.6,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 108.6,
+     "y": 50.7,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 94.3,
+     "y": 23.5,
+     "p": 0.23,
+     "g": false
+    },
+    {
+     "x": 90.1,
+     "y": 46.2,
+     "p": 0.22,
+     "g": false
+    },
+    {
+     "x": 97.5,
+     "y": 53.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 85.8,
+     "y": 53.5,
+     "p": 0.16,
+     "g": false
+    },
+    {
+     "x": 97.2,
+     "y": 47.3,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 113.7,
+     "y": 47.9,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 107.1,
+     "y": 39.6,
+     "p": 0.37,
+     "g": true
+    },
+    {
+     "x": 97.2,
+     "y": 31.3,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 43.1,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 93.8,
+     "y": 51.3,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 104.3,
+     "y": 26.2,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 113.2,
+     "y": 27.0,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 100.1,
+     "y": 47.1,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 112.9,
+     "y": 27.5,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 92.6,
+     "y": 52.6,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 98.9,
+     "y": 38.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 115.7,
+     "y": 31.5,
+     "p": 0.27,
+     "g": true
+    },
+    {
+     "x": 108.1,
+     "y": 40.1,
+     "p": 0.66,
+     "g": true
+    },
+    {
+     "x": 87.5,
+     "y": 26.6,
+     "p": 0.2,
+     "g": false
+    },
+    {
+     "x": 88.4,
+     "y": 46.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 110.5,
+     "y": 39.5,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 104.1,
+     "y": 30.1,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 116.5,
+     "y": 37.1,
+     "p": 0.36,
+     "g": false
+    },
+    {
+     "x": 111.8,
+     "y": 38.5,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 102.6,
+     "y": 40.3,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 49.0,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 111.4,
+     "y": 49.3,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 42.5,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 97.9,
+     "y": 25.1,
+     "p": 0.24,
+     "g": false
+    },
+    {
+     "x": 106.5,
+     "y": 35.1,
+     "p": 0.39,
+     "g": false
+    },
+    {
+     "x": 96.4,
+     "y": 47.8,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 116.1,
+     "y": 35.1,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 99.7,
+     "y": 39.1,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 95.2,
+     "y": 48.2,
+     "p": 0.29,
+     "g": false
+    },
+    {
+     "x": 96.7,
+     "y": 57.1,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 102.0,
+     "y": 26.7,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 87.6,
+     "y": 43.1,
+     "p": 0.18,
+     "g": false
+    },
+    {
+     "x": 108.9,
+     "y": 42.6,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 98.9,
+     "y": 49.9,
+     "p": 0.27,
+     "g": false
+    },
+    {
+     "x": 109.6,
+     "y": 28.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 107.5,
+     "y": 31.1,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 105.9,
+     "y": 43.5,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 43.5,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 101.3,
+     "y": 38.3,
+     "p": 0.28,
+     "g": false
+    },
+    {
+     "x": 100.5,
+     "y": 38.5,
+     "p": 0.31,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 53.4,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 100.3,
+     "y": 40.9,
+     "p": 0.4,
+     "g": false
+    },
+    {
+     "x": 107.6,
+     "y": 53.2,
+     "p": 0.36,
+     "g": true
+    },
+    {
+     "x": 114.5,
+     "y": 45.5,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 116.2,
+     "y": 30.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.7,
+     "y": 50.7,
+     "p": 0.34,
+     "g": false
+    },
+    {
+     "x": 108.3,
+     "y": 52.3,
+     "p": 0.43,
+     "g": false
+    },
+    {
+     "x": 92.5,
+     "y": 22.5,
+     "p": 0.21,
+     "g": false
+    },
+    {
+     "x": 92.8,
+     "y": 43.6,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 113.5,
+     "y": 40.2,
+     "p": 0.45,
+     "g": true
+    },
+    {
+     "x": 109.6,
+     "y": 28.0,
+     "p": 0.42,
+     "g": false
+    },
+    {
+     "x": 109.9,
+     "y": 56.2,
+     "p": 0.38,
+     "g": false
+    },
+    {
+     "x": 101.2,
+     "y": 49.5,
+     "p": 0.32,
+     "g": false
+    },
+    {
+     "x": 107.3,
+     "y": 51.1,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 38.8,
+     "p": 0.41,
+     "g": false
+    },
+    {
+     "x": 114.5,
+     "y": 44.2,
+     "p": 0.45,
+     "g": false
+    },
+    {
+     "x": 101.8,
+     "y": 36.6,
+     "p": 0.33,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 43.9,
+     "p": 0.35,
+     "g": false
+    },
+    {
+     "x": 117.2,
+     "y": 35.6,
+     "p": 0.53,
+     "g": true
+    },
+    {
+     "x": 92.0,
+     "y": 25.7,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 92.2,
+     "y": 35.9,
+     "p": 0.3,
+     "g": false
+    },
+    {
+     "x": 104.9,
+     "y": 30.5,
+     "p": 0.25,
+     "g": false
+    },
+    {
+     "x": 98.5,
+     "y": 56.8,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 112.4,
+     "y": 29.5,
+     "p": 0.37,
+     "g": false
+    },
+    {
+     "x": 96.0,
+     "y": 32.9,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 107.0,
+     "y": 30.0,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 114.1,
+     "y": 35.3,
+     "p": 0.44,
+     "g": false
+    },
+    {
+     "x": 92.3,
+     "y": 33.6,
+     "p": 0.26,
+     "g": false
+    },
+    {
+     "x": 112.2,
+     "y": 37.7,
+     "p": 0.36,
+     "g": false
+    }
+   ],
+   "legend": "Chấm càng to, Jev càng tin sẽ thành bàn. Viền trắng: bàn thắng thật."
+  },
+  {
+   "type": "label",
+   "key": "label",
+   "step": "BƯỚC 4 · ĐỐI CHIẾU",
+   "title": "Jev, xG và kết quả thật",
+   "examples": [
+    {
+     "card": {
+      "icon": null,
+      "title": "Messi · 21'",
+      "sub": "Netherlands – Argentina",
+      "lines": null,
+      "img": "bong-da/messi.jpg",
+      "credit": "Ảnh: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+     },
+     "answers": [
+      {
+       "q": "Jev",
+       "text": "24%",
+       "tone": "jev"
+      },
+      {
+       "q": "xG chuyên môn",
+       "text": "4%",
+       "tone": "muted"
+      },
+      {
+       "q": "Kết quả",
+       "text": "trượt",
+       "tone": "bad"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": null,
+      "title": "Di María · 35'",
+      "sub": "Argentina – France",
+      "lines": null,
+      "img": "bong-da/dimaria.jpg",
+      "credit": "Ảnh: Кирилл Венедиктов · CC BY-SA 3.0 · Wikimedia Commons"
+     },
+     "answers": [
+      {
+       "q": "Jev",
+       "text": "44%",
+       "tone": "jev"
+      },
+      {
+       "q": "xG chuyên môn",
+       "text": "30%",
+       "tone": "muted"
+      },
+      {
+       "q": "Kết quả",
+       "text": "VÀO",
+       "tone": "good"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": null,
+      "title": "Mbappé · 80'",
+      "sub": "Argentina – France",
+      "lines": null,
+      "img": "bong-da/mbappe.jpg",
+      "credit": "Ảnh: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+     },
+     "answers": [
+      {
+       "q": "Jev",
+       "text": "38%",
+       "tone": "jev"
+      },
+      {
+       "q": "xG chuyên môn",
+       "text": "10%",
+       "tone": "muted"
+      },
+      {
+       "q": "Kết quả",
+       "text": "VÀO",
+       "tone": "good"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": null,
+      "title": "Messi · 107'",
+      "sub": "Argentina – France",
+      "lines": null,
+      "img": "bong-da/messi.jpg",
+      "credit": "Ảnh: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+     },
+     "answers": [
+      {
+       "q": "Jev",
+       "text": "43%",
+       "tone": "jev"
+      },
+      {
+       "q": "xG chuyên môn",
+       "text": "49%",
+       "tone": "muted"
+      },
+      {
+       "q": "Kết quả",
+       "text": "VÀO",
+       "tone": "good"
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Kiểu cơ hội Jev nhận ra",
+    "bars": [
+     {
+      "label": "Sút trong vòng cấm",
+      "value": 538
+     },
+     {
+      "label": "Sút xa",
+      "value": 537
+     },
+     {
+      "label": "Đánh đầu",
+      "value": 227
+     },
+     {
+      "label": "Đối mặt thủ môn",
+      "value": 68
+     },
+     {
+      "label": "Đá phạt trực tiếp",
+      "value": 46
+     }
+    ]
+   }
+  },
+  {
+   "type": "bars",
+   "key": "rank",
+   "step": "BƯỚC 5 · JEV XẾP HẠNG ĐÚNG KHÔNG?",
+   "title": "Jev càng tin, càng hay vào",
+   "bars": [
+    {
+     "label": "Jev nói dưới 20%",
+     "value": 0.01818181818181818,
+     "text": "2% vào",
+     "sub": "55 cú · Jev đoán TB 17%",
+     "tone": "jev"
+    },
+    {
+     "label": "Jev nói 20–40%",
+     "value": 0.06170598911070781,
+     "text": "6% vào",
+     "sub": "1.102 cú · Jev đoán TB 30%",
+     "tone": "jev"
+    },
+    {
+     "label": "Jev nói từ 40%",
+     "value": 0.304029304029304,
+     "text": "30% vào",
+     "sub": "273 cú · Jev đoán TB 44%",
+     "tone": "good"
+    }
+   ],
+   "note": "Xếp đúng cú nào nguy hiểm hơn: Jev 79%, mô hình xG chuyên dụng 81%. Nhưng con số của Jev quá lạc quan: đoán 460 bàn, thật chỉ 152."
+  },
+  {
+   "type": "repeat",
+   "key": "repeat",
+   "step": "BƯỚC 6 · HỎI LẠI 15 LẦN",
+   "title": "Jev có đổi ý không?",
+   "cookbook": "Self-consistency",
+   "rows": [
+    {
+     "label": "Kaye · xG 4%",
+     "values": [
+      0.18,
+      0.18,
+      0.19,
+      0.2,
+      0.19,
+      0.18,
+      0.19,
+      0.19,
+      0.19,
+      0.18,
+      0.2,
+      0.18,
+      0.17,
+      0.17,
+      0.18
+     ],
+     "min": 0,
+     "max": 1,
+     "text": "lệch 0,009",
+     "zoom": [
+      0.12,
+      0.25
+     ]
+    },
+    {
+     "label": "Skhiri · xG 4%",
+     "values": [
+      0.29,
+      0.27,
+      0.29,
+      0.28,
+      0.28,
+      0.28,
+      0.3,
+      0.28,
+      0.29,
+      0.3,
+      0.28,
+      0.29,
+      0.29,
+      0.29,
+      0.29
+     ],
+     "min": 0,
+     "max": 1,
+     "text": "lệch 0,008",
+     "zoom": [
+      0.22,
+      0.35
+     ]
+    },
+    {
+     "label": "Rojas · xG 5%",
+     "values": [
+      0.29,
+      0.3,
+      0.3,
+      0.29,
+      0.3,
+      0.29,
+      0.31,
+      0.31,
+      0.3,
+      0.3,
+      0.3,
+      0.29,
+      0.29,
+      0.3,
+      0.3
+     ],
+     "min": 0,
+     "max": 1,
+     "text": "lệch 0,006",
+     "zoom": [
+      0.24,
+      0.36
+     ]
+    }
+   ],
+   "verdict": "Đổi ý rất ít: lạc quan thì lạc quan một cách nhất quán, nên sửa được bằng hiệu chỉnh."
+  },
+  {
+   "type": "bars",
+   "key": "calib",
+   "step": "BƯỚC 7 · HIỆU CHỈNH BẰNG DỮ LIỆU",
+   "title": "Sai số dự đoán",
+   "cookbook": "Đặt ngưỡng từ dữ liệu có nhãn",
+   "bars": [
+    {
+     "label": "Jev thô",
+     "value": 0.13024385714285713,
+     "text": "0,130",
+     "tone": "bad"
+    },
+    {
+     "label": "Đoán bừa",
+     "value": 0.09015199849878026,
+     "text": "0,090",
+     "tone": "muted",
+     "sub": "tỷ lệ chung cho mọi cú"
+    },
+    {
+     "label": "Jev hiệu chỉnh",
+     "value": 0.07983854617073005,
+     "text": "0,080",
+     "tone": "good",
+     "sub": "học trên nửa số trận"
+    },
+    {
+     "label": "xG chuyên dụng",
+     "value": 0.07662246176638474,
+     "text": "0,077",
+     "tone": "jev"
+    }
+   ],
+   "note": "Thử trên 32 trận chưa dùng để hiệu chỉnh. Càng ngắn càng tốt. Sau hiệu chỉnh, Jev đoán 74 bàn, thật 70."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Biết cú nào nguy hiểm, nhưng quá lạc quan",
+   "tagline": "Chỉ đọc mô tả, Jev xếp hạng cơ hội gần bằng mô hình chuyên dụng. Hiệu chỉnh một lần bằng dữ liệu thật là dùng được con số.",
+   "stats": [
+    {
+     "value": "1.453",
+     "label": "cú sút đã chấm"
+    },
+    {
+     "value": "79% / 81%",
+     "label": "xếp hạng đúng: Jev / xG"
+    },
+    {
+     "value": "4,5 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [],
+   "gridTitle": "Bàn thắng trong trận chung kết",
+   "gridCols": 1,
+   "grid": [
+    {
+     "label": "Di María 35'",
+     "value": "Jev 44% · xG 30%"
+    },
+    {
+     "label": "Mbappé 80'",
+     "value": "Jev 38% · xG 10%"
+    },
+    {
+     "label": "Messi 107'",
+     "value": "Jev 43% · xG 49%"
+    }
+   ],
+   "footnote": "Dữ liệu StatsBomb, không tính penalty và loạt luân lưu khi so sánh. xG của StatsBomb được huấn luyện trên hàng trăm nghìn cú sút; Jev không được huấn luyện cho việc này."
+  }
+ ]
+}

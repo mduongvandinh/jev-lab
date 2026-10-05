@@ -1,0 +1,133 @@
+{
+ "good": {
+  "Hà Nội": 75,
+  "Hải Phòng": 86,
+  "Sa Pa": 78,
+  "Huế": 33,
+  "Đà Nẵng": 32,
+  "Nha Trang": 64,
+  "Đà Lạt": 94,
+  "TP.HCM": 5,
+  "Cần Thơ": 22,
+  "Phú Quốc": 57
+ },
+ "rank": [
+  "Đà Lạt",
+  "Hải Phòng",
+  "Sa Pa",
+  "Hà Nội",
+  "Nha Trang",
+  "Phú Quốc",
+  "Huế",
+  "Đà Nẵng",
+  "Cần Thơ",
+  "TP.HCM"
+ ],
+ "best_month": {
+  "Hà Nội": 1,
+  "Hải Phòng": 1,
+  "Sa Pa": 3,
+  "Huế": 1,
+  "Đà Nẵng": 1,
+  "Nha Trang": 1,
+  "Đà Lạt": 1,
+  "TP.HCM": 1,
+  "Cần Thơ": 1,
+  "Phú Quốc": 1
+ },
+ "unsure": 1151,
+ "rows": 3650,
+ "kinds": {
+  "warm_pleasant": 363,
+  "cool_pleasant": 89,
+  "cold": 16,
+  "drizzle_gray": 496,
+  "rainy": 1776,
+  "muggy": 410,
+  "hot_sunny": 465,
+  "heavy_rain_storm": 35
+ },
+ "cost": {
+  "calls": 3650,
+  "input_tokens": 2937214,
+  "usd": 0.1234
+ },
+ "laundry": {
+  "Hà Nội": 103,
+  "Hải Phòng": 100,
+  "Sa Pa": 46,
+  "Huế": 58,
+  "Đà Nẵng": 63,
+  "Nha Trang": 126,
+  "Đà Lạt": 76,
+  "TP.HCM": 101,
+  "Cần Thơ": 93,
+  "Phú Quốc": 86
+ },
+ "umbrella": {
+  "Hà Nội": 253,
+  "Hải Phòng": 244,
+  "Sa Pa": 311,
+  "Huế": 295,
+  "Đà Nẵng": 297,
+  "Nha Trang": 258,
+  "Đà Lạt": 283,
+  "TP.HCM": 278,
+  "Cần Thơ": 287,
+  "Phú Quốc": 294
+ },
+ "consistency": [
+  {
+   "id": "Hà Nội|2025-03-12",
+   "comfort_mean": 1.027,
+   "comfort_sd": 0.0196,
+   "umbrella_mean": 0.902,
+   "umbrella_sd": 0.0065,
+   "kind_same": 15,
+   "runs": 15
+  },
+  {
+   "id": "Đà Lạt|2025-07-20",
+   "comfort_mean": 0.999,
+   "comfort_sd": 0.0245,
+   "umbrella_mean": 0.962,
+   "umbrella_sd": 0.004,
+   "kind_same": 15,
+   "runs": 15
+  },
+  {
+   "id": "TP.HCM|2025-04-15",
+   "comfort_mean": 1.119,
+   "comfort_sd": 0.0193,
+   "umbrella_mean": 0.786,
+   "umbrella_sd": 0.0071,
+   "kind_same": 15,
+   "runs": 15
+  }
+ ],
+ "demo": {
+  "comfort": 1.06,
+  "kind": "drizzle_gray",
+  "laundry": 0.09,
+  "umbrella": 0.9
+ },
+ "judge": [
+  "CHẮC: OI ẨM, NỒM",
+  "CHƯA CHẮC → CÓ MƯA",
+  "CHẮC: ẤM, DỄ CHỊU",
+  "CHƯA CHẮC → KHÔNG MƯA",
+  "CHƯA CHẮC → CÓ MƯA"
+ ],
+ "hot": {
+  "Hà Nội": 34,
+  "Hải Phòng": 40,
+  "Sa Pa": 0,
+  "Huế": 39,
+  "Đà Nẵng": 52,
+  "Nha Trang": 71,
+  "Đà Lạt": 0,
+  "TP.HCM": 103,
+  "Cần Thơ": 74,
+  "Phú Quốc": 52
+ }
+}

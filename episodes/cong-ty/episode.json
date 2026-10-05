@@ -1,0 +1,1028 @@
+{
+ "slug": "cong-ty",
+ "title": "Công ty mới và công ty đóng cửa 2026",
+ "accent": "#f59e0b",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · CÔNG TY 2026",
+   "headline": "Startup mới đang thay việc của ai?",
+   "sub": "678 startup Y Combinator 2026 và 2.326 tin công ty đóng cửa. AI đọc từng cái"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · CÔNG TY MỚI",
+   "title": "678 startup Y Combinator 2026",
+   "cards": [
+    {
+     "img": "cong-ty/logos/testerarmy.png",
+     "fit": "contain",
+     "title": "TesterArmy",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/wondering.png",
+     "fit": "contain",
+     "title": "Wondering",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/spaceflow-technologies-inc.png",
+     "fit": "contain",
+     "title": "SpaceFlow Technologies, Inc.",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/21st.png",
+     "fit": "contain",
+     "title": "21st",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/kugelaudio.png",
+     "fit": "contain",
+     "title": "KugelAudio",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/remy-ai.png",
+     "fit": "contain",
+     "title": "Remy AI",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/parameter.png",
+     "fit": "contain",
+     "title": "Parameter",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/baseframe.png",
+     "fit": "contain",
+     "title": "BaseFrame",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/plan0-ai.png",
+     "fit": "contain",
+     "title": "PLAN0 AI",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/prized.png",
+     "fit": "contain",
+     "title": "Prized",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/runtime.png",
+     "fit": "contain",
+     "title": "Runtime",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/carsignal.png",
+     "fit": "contain",
+     "title": "CarSignal",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/inflection-space-systems.png",
+     "fit": "contain",
+     "title": "Inflection Space Systems",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/moda.png",
+     "fit": "contain",
+     "title": "Moda",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/elite.png",
+     "fit": "contain",
+     "title": "Elite",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/alloovium.png",
+     "fit": "contain",
+     "title": "Alloovium",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/noril1.png",
+     "fit": "contain",
+     "title": "Nori",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/hubble-ai.png",
+     "fit": "contain",
+     "title": "Hubble",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/floracene.png",
+     "fit": "contain",
+     "title": "Floracene",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/hundred.png",
+     "fit": "contain",
+     "title": "Hundred",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/centralcoms.png",
+     "fit": "contain",
+     "title": "CentralComs",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/levocred-ai.png",
+     "fit": "contain",
+     "title": "Levocred AI",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/cajal-technologies.png",
+     "fit": "contain",
+     "title": "Cajal",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/ai-coach.png",
+     "fit": "contain",
+     "title": "COACH",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/memory-store.png",
+     "fit": "contain",
+     "title": "Memory Store",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/spotpay.png",
+     "fit": "contain",
+     "title": "SpotPay",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/lumius.png",
+     "fit": "contain",
+     "title": "Lumius",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/shielded.png",
+     "fit": "contain",
+     "title": "Shielded",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/agentcard.png",
+     "fit": "contain",
+     "title": "Agentcard",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/zaplar.png",
+     "fit": "contain",
+     "title": "Zaplar",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/earendil-robotics.png",
+     "fit": "contain",
+     "title": "Earendil Robotics",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/ashr.png",
+     "fit": "contain",
+     "title": "Ashr",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/allowance.png",
+     "fit": "contain",
+     "title": "Allowance",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/confluence-labs.png",
+     "fit": "contain",
+     "title": "Confluence Labs",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/robby.png",
+     "fit": "contain",
+     "title": "Robby",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/tovenai.png",
+     "fit": "contain",
+     "title": "TovenAI",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/dydema.png",
+     "fit": "contain",
+     "title": "Dydema",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/locke.png",
+     "fit": "contain",
+     "title": "Locke",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/moritz.png",
+     "fit": "contain",
+     "title": "Moritz",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/caretta.png",
+     "fit": "contain",
+     "title": "Caretta",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/trybloom.png",
+     "fit": "contain",
+     "title": "Bloom",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/saudara-ai.png",
+     "fit": "contain",
+     "title": "Saudara AI",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/laurence.png",
+     "fit": "contain",
+     "title": "Laurence",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/verdant.png",
+     "fit": "contain",
+     "title": "Verdant",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/trope.png",
+     "fit": "contain",
+     "title": "Trope",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/gravy.png",
+     "fit": "contain",
+     "title": "Gravy",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/decent-com.png",
+     "fit": "contain",
+     "title": "Decent",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/10x-science.png",
+     "fit": "contain",
+     "title": "10x Science",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/dreamscale-labs.png",
+     "fit": "contain",
+     "title": "Dreamscale Labs",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/ressl-ai.png",
+     "fit": "contain",
+     "title": "Ressl AI",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/trident.png",
+     "fit": "contain",
+     "title": "Trident",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/booko.png",
+     "fit": "contain",
+     "title": "Booko",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/dialogus.png",
+     "fit": "contain",
+     "title": "Dialogus",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/klaimee.png",
+     "fit": "contain",
+     "title": "Klaimee",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/mirabelle.png",
+     "fit": "contain",
+     "title": "Mirabelle",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/cyclon.png",
+     "fit": "contain",
+     "title": "Cyclon",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/machine0.png",
+     "fit": "contain",
+     "title": "machine0",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/useterse.png",
+     "fit": "contain",
+     "title": "Terse",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/click.png",
+     "fit": "contain",
+     "title": "Click",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/andco.png",
+     "fit": "contain",
+     "title": "Andco",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/atlia.png",
+     "fit": "contain",
+     "title": "Atlia",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/magma.png",
+     "fit": "contain",
+     "title": "Magma",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/isengard-industries-inc.png",
+     "fit": "contain",
+     "title": "Isengard Industries Inc",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/beacon-health.png",
+     "fit": "contain",
+     "title": "Beacon Health",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/panta.png",
+     "fit": "contain",
+     "title": "Panta",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/rivereditor.png",
+     "fit": "contain",
+     "title": "River",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/torus.png",
+     "fit": "contain",
+     "title": "Torus",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/inloop-robotics.png",
+     "fit": "contain",
+     "title": "InLoop Robotics",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/openseo.png",
+     "fit": "contain",
+     "title": "OpenSEO",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/boat.png",
+     "fit": "contain",
+     "title": "Boat",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/speko.png",
+     "fit": "contain",
+     "title": "Speko",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/astraea.png",
+     "fit": "contain",
+     "title": "Astraea",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/hub.png",
+     "fit": "contain",
+     "title": "Hub",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/lance.png",
+     "fit": "contain",
+     "title": "Lance",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/caution.png",
+     "fit": "contain",
+     "title": "Caution",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/hoplite.png",
+     "fit": "contain",
+     "title": "Hoplite",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/arga-labs.png",
+     "fit": "contain",
+     "title": "Arga Labs",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/maingen.png",
+     "fit": "contain",
+     "title": "Maingen",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/revion.png",
+     "fit": "contain",
+     "title": "Revion",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/studio.png",
+     "fit": "contain",
+     "title": "Studio",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/palette-2.png",
+     "fit": "contain",
+     "title": "Palette",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/general-aviation.png",
+     "fit": "contain",
+     "title": "General Aviation",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/9-mothers-corporation.png",
+     "fit": "contain",
+     "title": "9 Mothers",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/walter.png",
+     "fit": "contain",
+     "title": "Walter",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/brumby.png",
+     "fit": "contain",
+     "title": "Brumby (Formerly GrazeMate)",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/pavoot.png",
+     "fit": "contain",
+     "title": "Pavoot",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/sazabi.png",
+     "fit": "contain",
+     "title": "Sazabi",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/frontrunner.png",
+     "fit": "contain",
+     "title": "Frontrunner",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/lantern-ai.png",
+     "fit": "contain",
+     "title": "Lantern AI",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/fed10.png",
+     "fit": "contain",
+     "title": "Fed10",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/trynearby.png",
+     "fit": "contain",
+     "title": "TryNearby",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/minicor.png",
+     "fit": "contain",
+     "title": "Minicor",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/petrarch.png",
+     "fit": "contain",
+     "title": "Petrarch",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/hevn-inc.png",
+     "fit": "contain",
+     "title": "HEVN, inc",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/ronanrx-inc.png",
+     "fit": "contain",
+     "title": "RonanRx Inc.",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/vector-legal.png",
+     "fit": "contain",
+     "title": "Vector Legal",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/mireye.png",
+     "fit": "contain",
+     "title": "Mireye",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/scheduling-wizard.png",
+     "fit": "contain",
+     "title": "Scheduling Wizard",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/fullseam.png",
+     "fit": "contain",
+     "title": "FullSeam",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/copperlane.png",
+     "fit": "contain",
+     "title": "Copperlane",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/mochatrade.png",
+     "fit": "contain",
+     "title": "Mochatrade",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/origin-bio.png",
+     "fit": "contain",
+     "title": "Origin",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/elyra.png",
+     "fit": "contain",
+     "title": "Elyra",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/mantle-2.png",
+     "fit": "contain",
+     "title": "Mantle",
+     "credit": "YC F26"
+    },
+    {
+     "img": "cong-ty/logos/origami-robotics.png",
+     "fit": "contain",
+     "title": "Origami Robotics",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/hebbian-robotics.png",
+     "fit": "contain",
+     "title": "Hebbian Robotics",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/netter.png",
+     "fit": "contain",
+     "title": "Netter",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/claimglide.png",
+     "fit": "contain",
+     "title": "ClaimGlide",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/risklytics.png",
+     "fit": "contain",
+     "title": "Risklytics",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/anoria.png",
+     "fit": "contain",
+     "title": "ANORIA",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/cofia.png",
+     "fit": "contain",
+     "title": "Cofia",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/gamgee.png",
+     "fit": "contain",
+     "title": "Gamgee",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/whitespace.png",
+     "fit": "contain",
+     "title": "Whitespace",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/agnost-ai.png",
+     "fit": "contain",
+     "title": "Agnost AI",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/waybill.png",
+     "fit": "contain",
+     "title": "Waybill",
+     "credit": "YC S26"
+    },
+    {
+     "img": "cong-ty/logos/jinba.png",
+     "fit": "contain",
+     "title": "Jinba",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/approxima.png",
+     "fit": "contain",
+     "title": "Approxima",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/antinuous.png",
+     "fit": "contain",
+     "title": "Antinuous",
+     "credit": "YC P26"
+    },
+    {
+     "img": "cong-ty/logos/compresr.png",
+     "fit": "contain",
+     "title": "Compresr",
+     "credit": "YC W26"
+    },
+    {
+     "img": "cong-ty/logos/redoubt-insurance.png",
+     "fit": "contain",
+     "title": "Redoubt Insurance",
+     "credit": "YC F26"
+    }
+   ],
+   "total": 678,
+   "totalLabel": "đã đọc",
+   "unit": "công ty",
+   "cols": 4,
+   "cardH": 210,
+   "credit": "Danh bạ công khai của Y Combinator, 4 đợt W26, P26, S26, F26. Logo thuộc các công ty."
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · ĐỌC MỘT STARTUP",
+   "title": "Có thay việc của người không?",
+   "cookbook": "Parallel questions",
+   "idea": "Bốn câu trong một lần gọi, từ mô tả công khai của startup.",
+   "stateLines": [
+    "Andco (P26)",
+    "\"Agents that build personal injury cases\""
+   ],
+   "questions": [
+    {
+     "name": "ai_core",
+     "kind": "Noul",
+     "text": "Lõi sản phẩm là AI?"
+    },
+    {
+     "name": "area",
+     "kind": "Choice",
+     "text": "Mảng nào?"
+    },
+    {
+     "name": "automates",
+     "kind": "Noul",
+     "text": "Tự động hóa việc người đang làm?"
+    },
+    {
+     "name": "job",
+     "kind": "Choice",
+     "text": "Thay nghề nào?"
+    }
+   ],
+   "results": [
+    {
+     "name": "ai_core",
+     "value": "có: 95%",
+     "tone": "good"
+    },
+    {
+     "name": "area",
+     "value": "Phần mềm ngành"
+    },
+    {
+     "name": "automates",
+     "value": "có: 92%",
+     "tone": "warn"
+    },
+    {
+     "name": "job",
+     "value": "Pháp lý",
+     "tone": "bad"
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "areas",
+   "step": "BƯỚC 3 · MẢNG",
+   "title": "Startup 2026 làm gì?",
+   "bars": [
+    {
+     "label": "AI agent, tự động hóa",
+     "value": 144,
+     "text": "144",
+     "tone": "good"
+    },
+    {
+     "label": "Công cụ lập trình",
+     "value": 97,
+     "text": "97",
+     "tone": "jev"
+    },
+    {
+     "label": "Tài chính",
+     "value": 77,
+     "text": "77",
+     "tone": "jev"
+    },
+    {
+     "label": "Phần mềm ngành",
+     "value": 71,
+     "text": "71",
+     "tone": "jev"
+    },
+    {
+     "label": "Robot",
+     "value": 62,
+     "text": "62",
+     "tone": "jev"
+    },
+    {
+     "label": "Y tế",
+     "value": 46,
+     "text": "46",
+     "tone": "jev"
+    },
+    {
+     "label": "Quốc phòng, phần cứng",
+     "value": 37,
+     "text": "37",
+     "tone": "jev"
+    }
+   ],
+   "note": "83% lấy AI làm lõi sản phẩm. 72% đặt ở San Francisco; đội trung vị 2 người."
+  },
+  {
+   "type": "bars",
+   "key": "jobs",
+   "step": "BƯỚC 4 · NGHỀ BỊ NHẮM TỚI",
+   "title": "Startup đang tự động hóa việc gì?",
+   "bars": [
+    {
+     "label": "Phân tích dữ liệu",
+     "value": 60,
+     "text": "60 công ty",
+     "tone": "warn"
+    },
+    {
+     "label": "Lập trình, kiểm thử",
+     "value": 56,
+     "text": "56 công ty",
+     "tone": "warn"
+    },
+    {
+     "label": "Lao động chân tay",
+     "value": 39,
+     "text": "39 công ty",
+     "tone": "warn"
+    },
+    {
+     "label": "Hành chính y tế",
+     "value": 23,
+     "text": "23 công ty",
+     "tone": "jev"
+    },
+    {
+     "label": "Bán hàng",
+     "value": 22,
+     "text": "22 công ty",
+     "tone": "jev"
+    },
+    {
+     "label": "Kế toán",
+     "value": 21,
+     "text": "21 công ty",
+     "tone": "jev"
+    },
+    {
+     "label": "Pháp lý",
+     "value": 17,
+     "text": "17 công ty",
+     "tone": "jev"
+    },
+    {
+     "label": "Chăm sóc khách hàng",
+     "value": 12,
+     "text": "12 công ty",
+     "tone": "jev"
+    }
+   ],
+   "note": "458 trên 678 startup (68%) nhắm tới việc con người đang được trả lương để làm."
+  },
+  {
+   "type": "bars",
+   "key": "closed",
+   "step": "BƯỚC 5 · CÔNG TY ĐÓNG CỬA",
+   "title": "Ngành nào đóng cửa nhiều nhất",
+   "bars": [
+    {
+     "label": "Bán lẻ, TMĐT",
+     "value": 313,
+     "text": "313 tin",
+     "tone": "bad"
+    },
+    {
+     "label": "Vận tải, du lịch",
+     "value": 194,
+     "text": "194 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Truyền thông, giải trí",
+     "value": 81,
+     "text": "81 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Tài chính",
+     "value": 67,
+     "text": "67 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Phần mềm, Internet",
+     "value": 64,
+     "text": "64 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Y tế, dược",
+     "value": 52,
+     "text": "52 tin",
+     "tone": "jev"
+    }
+   ],
+   "note": "1.269 tiêu đề về một công ty cụ thể phá sản hoặc đóng cửa. Bị nhắc nhiều: Spirit Airlines, Saks Global, Eddie Bauer, West Marine."
+  },
+  {
+   "type": "bars",
+   "key": "why",
+   "step": "BƯỚC 6 · VÌ SAO ĐÓNG CỬA",
+   "title": "Lý do được nêu",
+   "bars": [
+    {
+     "label": "Nợ, cạn tiền",
+     "value": 105,
+     "text": "40%",
+     "tone": "bad"
+    },
+    {
+     "label": "Gian lận, kiện tụng",
+     "value": 58,
+     "text": "22%",
+     "tone": "jev"
+    },
+    {
+     "label": "Không gọi được vốn",
+     "value": 24,
+     "text": "9%",
+     "tone": "jev"
+    },
+    {
+     "label": "Bán chậm",
+     "value": 20,
+     "text": "8%",
+     "tone": "jev"
+    },
+    {
+     "label": "Quy định",
+     "value": 19,
+     "text": "7%",
+     "tone": "jev"
+    },
+    {
+     "label": "Bị mua lại",
+     "value": 14,
+     "text": "5%",
+     "tone": "jev"
+    }
+   ],
+   "note": "Trên 265 tin có nêu lý do; 920 tin không nêu."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Đóng: bán lẻ, hàng không. Mở: AI agent",
+   "tagline": "68% startup mới nhắm tự động hóa việc con người đang làm, nhiều nhất là phân tích dữ liệu và lập trình.",
+   "stats": [
+    {
+     "value": "678",
+     "label": "startup YC 2026"
+    },
+    {
+     "value": "1.269",
+     "label": "tin đóng cửa"
+    },
+    {
+     "value": "14 cent",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "83% startup YC 2026 lấy AI làm lõi",
+    "Đóng cửa nhiều nhất: bán lẻ, tmđt",
+    "Lý do hay gặp nhất: nợ, cạn tiền"
+   ],
+   "footnote": "Startup YC là một vườn ươm, không đại diện mọi công ty mới. Tin đóng cửa là tiêu đề báo tiếng Anh, chủ yếu ở Mỹ; một công ty có thể có nhiều tin."
+  }
+ ]
+}

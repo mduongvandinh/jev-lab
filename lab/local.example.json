@@ -1,0 +1,5 @@
+{
+ "JEV_CLI": "~/path/to/jev-skill/skills/jev/scripts/jev.py",
+ "JEV_ENV_FILE": "~/path/to/.env",
+ "TTS_SCRIPTS": "~/path/to/folder/with/tts.py"
+}

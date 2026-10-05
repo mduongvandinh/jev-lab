@@ -1,0 +1,1579 @@
+{
+ "slug": "xe-co",
+ "title": "Chủ xe phàn nàn gì nhiều nhất?",
+ "accent": "#f97316",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · XE CỘ",
+   "headline": "Chủ xe phàn nàn gì nhiều nhất?",
+   "sub": "1.200 khiếu nại thật về 10 dòng xe quen thuộc ở Việt Nam. AI đọc từng cái"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Mỗi thẻ là một lời phàn nàn",
+   "cards": [
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2023",
+     "sub": "“Brakes are very poor, car lurches forward at stop lights and you have to stomp the brake…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2022",
+     "sub": "“The car’s transmissions seems to give out intermittently while driving, where when you…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“This car is a lemon. First the hood. Finally got that fixed. Then seat belts & fuel…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2022",
+     "sub": "“Vehicle has been rear ended 04/14/2023. Describes no one was at fault on the police report”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“When driving long distance, (over 5 hours) all of the emergency lights and collision…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2024",
+     "sub": "“My car caught on fire on [CCC] and it's completely burned down, a total loss. Following…”",
+     "lines": [
+      "cháy"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2022",
+     "sub": "“Uncontrollable Sudden Acceleration 3 times while I drove the car, it suddenly and rapidly…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2021",
+     "sub": "“Rear tires are at 1/32nd of depth after 12,100 miles. Fronts are still at 5/32nds. Tires…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2024",
+     "sub": "“The contact owns a 2024 Toyota Corolla Cross. The contact stated that twice while driving…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2021",
+     "sub": "“When I press the pedal to acelérate it has no power to move on drive or reverse and other…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2023",
+     "sub": "“The contact owns a 2023 Kia Sportage. The contact received notification of NHTSA Campaign…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2021",
+     "sub": "“Excessive oil leak after 11,000 miles/car purchased new from dealer. There is currently a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2021",
+     "sub": "“The contact owns a 2021 Hyundai Santa Fe. The contact stated that the vehicle was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2023",
+     "sub": "“Hey I run over a pothole and. My tire went flat and then the air bag just came out that’s…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“I bought my car yesterday. Was driving tonight when it was raining with my wipers on. I…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2024",
+     "sub": "“Front driver seat belt does not retract and has caused damage to door. Vehicle is…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2024",
+     "sub": "“The contact owns a 2024 Toyota Camry. The contact stated while driving 65 MPH with the…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“Steering is very notchy when turning from neutral position. When driving at highway…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2022",
+     "sub": "“On 10/31 I loss power while on the freeway for the 2nd time since August. The car was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2023",
+     "sub": "“Engine light came on. Immediately brought to dealer. Always serviced at dealership. One…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2021",
+     "sub": "“The 2021 Honda Civic experienced an emission system failure at 70,000 MPH and detected…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2022",
+     "sub": "“The back doors should unlock when the SUV is put in park or the motor is turned off.…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“The contact owns a 2023 Honda CR-V. The contact stated that while operating the vehicle,…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2022",
+     "sub": "“While driving the 2022 Toyota Corolla Cross on the highway, my car’s dashboard indicated…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2021",
+     "sub": "“I was driving on a straight street doing about 35 MPH and my car all of the sudden…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“The contact owns a 2021 Kia Seltos. The contact stated while driving at an undisclosed…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2024",
+     "sub": "“Horn is not adequate as a warning mechanism for safety. A large number of owners are…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2022",
+     "sub": "“2 issues: 1. Automatic Emergency Braking started braking randomly when there was no…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2024",
+     "sub": "“The contact owns 2024 Toyota Camry equipped with Bridgestone Tires, Lire Line: Turanza…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“For three consecutive days, while driving on the highway (speed between 50-60 miles per…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“I have 2 recalls due to the steering of the car. Ive called honda corporate and local…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“My son had a problem with the steering wheel steak during he was starting a trip, this…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2021",
+     "sub": "“The steering sticks really bad when going around a curve or turning. It has been doing it…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2021",
+     "sub": "“UNKNOWN, Steering stick when drivining down the road. You turn the steering wheel and…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2022",
+     "sub": "“Transmission failure, currently reproducible but car is at dealer to be…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“I have had 3 fuel injectors go out on my 2022 Hyundai Tucson. When this happened it was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“I recently heard about the NHTSA investigating the Honda Civic 2022's for steering wheel…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“The warning light starts flashing to alert me it is not active, this happened…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“While driving close to or at highway speeds of about 50 mph or higher, the steering wheel…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“The contact owns a 2022 Honda Civic. The contact stated while driving at an undisclosed…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“On Saturday Morning (August 9th), I was driving this car with my family on I-495 heading…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2023",
+     "sub": "“Car is 7 months old. We had it less than 2 weeks and a rock hit the windshield and caused…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2022",
+     "sub": "“My wife was on the interstate and was caught in a storm. She turned on the wipers and…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2024",
+     "sub": "“Our vehicle does this all the time and has done so for almost two years. After starting…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“Was driving and power steering became difficult to steer and a red steering wheel icon…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2024",
+     "sub": "“The contact owns a 2024 Honda CR-V. The contact received notification of NHTSA Campaign…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2023",
+     "sub": "“Headlight of the motor keeps rumbling in about 25000 miles of usage. Expense of fixing…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“Toyota is aware of the situation. Dark shadows and cloud markings appearing only on left…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“Fuel injectors. It is available for inspection. (Please!)This is the second failing of an…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“Fuel door actuator failed to unlock had to take the car into the dealership to replace a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“The contact owns a 2021 Toyota Camry. The contact received notification of NHTSA Campaign…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“I am submitting a vehicle safety complaint regarding my 2024 Hyundai Tucson Hybrid. The…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2022",
+     "sub": "“Hello. The moonroof appears to malfunction as it doesnt improperly close and doesnt know…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2023",
+     "sub": "“While driving 35mph on a 3-lane street in the far left lane, a driver of a Ford F-150 was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“The contact owns a 2023 Hyundai Santa Fe. The contact stated that on two separate…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“My high pressure fuel injectors and spark plug had to be replaced at 72,000 miles. My…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2021",
+     "sub": "“The contact's wife owns a 2021 Kia Sportage. The contact stated that while he was driving…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“Hyundai Recall 290 was performed on my vehicle by an authorized dealer. Because Hyundai…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“At highway speeds (about 50-75+ mph), the car's steering becomes sticky and requires a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2023",
+     "sub": "“The parts to repair the brake recall are not available. No date can be given for…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2023",
+     "sub": "“Excessive body roll causes instability and loss of control. While driving on the…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“Particularly when traveling at highway speeds, steering wheel feels sticky or stiff. This…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“2021 Camry with 29,000 miles panoramic roof is stuck in the vent position. Took it to two…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2021",
+     "sub": "“..... ON AT LEAST 5 SEPERATE OCCASIONS OUR 2021 MAZDA CX5 SUV ACCELERATED TO A HIGH RATE…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2024",
+     "sub": "“Front passenger seat back appears to be loose and squeaks if anyone occupies the seat.”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2021",
+     "sub": "“My 2021 Hyundai Santa Fe (VIN starting with 5NM) began experiencing a significant failure…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2022",
+     "sub": "“When reaching between the seats to get a dropped item hand gets stuck on a sharp edge and…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“The contact owns a 2021 Toyota Camry. The contact stated that while driving approximately…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“Unexpected Collision Warning and Emergency Braking Application On May 8, 2023 at…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2022",
+     "sub": "“My car was part of the piston ring recall. It burns over half a quart of oil per 1,000…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2024",
+     "sub": "“With my 2024 Hyundai Santa Fe SEL, at Cold start the coolant gage on the digital cluster…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“The front rotors need machining every 10,000 to 15,000 miles. The rotors experience…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“This letter is about a recent use car purchase, the car is a 2022 Mitsubishi Outlander. I…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2023",
+     "sub": "“I woke up to my car on fire and Toyota is saying they don’t know what happened but…”",
+     "lines": [
+      "cháy"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“My check engine light went on and the vehicle was driving sluggish, was louder at higher…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“My airbags didn’t deploy when chevy Silverado truck and collided into front end drivers…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“steering wheel feels jerky, it has a mind of its own. even if driving straight it will…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“Steering is sticking when driving for long distances or on highway. Trying to make small…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2024",
+     "sub": "“The shutter grille and shutter grill harness was faulty and had a short in it. It needed…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2023",
+     "sub": "“Airbags failed to deploy in a collision where the front end of the vehicle was crushed,…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2024",
+     "sub": "“Exhaust starting putting out white smoke and loss of power on accelerator while speeding…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“I had 2 fuel injectors fail on my car within a 3 week period. The car is only 2.5 yrs old…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2022",
+     "sub": "“The contact owns a 2022 Kia Sportage. The contact stated that while the vehicle was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“I have had 6 car appointments and on my 3rd horn replacement in this car. It goes…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2022",
+     "sub": "“The car turns off while driving. This is happened four times the first time. Kia told me…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2023",
+     "sub": "“Brand new 2023 Mazda CX-5 with 150 miles on it experienced unintended acceleration while…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2023",
+     "sub": "“Driving 65mph on [XXX] and all the lights came on flashing and alerting me causing the…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2022",
+     "sub": "“Got into a collision and the air bags did not deploy when they should have. There was a…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“Horn completely out, yes available. I was unable to warn another driver from entering my…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“The contact owns a 2022 Hyundai Tucson. The contact stated that while his wife was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2022",
+     "sub": "“I was driving on i-65 northbound in Alabama, 20 miles south of Birmingham, when my car…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2023",
+     "sub": "“Areas of the console, mainly the frame around the gps/media display, as well as the…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“https://www.reddit.com/r/CorollaCross/comments/t7rv4b/corolla_cross_2022_le_awd_problem_wi…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“When driving above 50mph, the steering wheel becomes sticky. It is difficult to drive the…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“This has happened twice now. When going at a low speed, once in traffic, once while…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2024",
+     "sub": "“The contact owns a 2024 Kia Sportage. The contact stated while driving 25 MPH, the check…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“Hello, I would like to point out a safety issue many new car manufacturers have actually…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“On December 10th 2023 I was involved in an accident that I believe was caused by a defect…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“Both horns failed in less than 15k miles. Any time spent on the internet shows this is a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2021",
+     "sub": "“The contact owns a 2021 Mazda CX5. The contact stated that after the vehicle was serviced…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“Mechanics said when they replaced the engine coolant an air bubble entered the line and…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“It was raining and wipers were on. I was at a red light, and all of a sudden the engine…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“The vehicle's brake system intermittently fails after driving over bumps or uneven roads.…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“A service bulletin for windshields leaking into 2024 Santa Cruz and Tucson vehicles was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2021",
+     "sub": "“SEVERE HESITATION WHEN ATTEMPTING TO ACCELERATE FROM A STOP. CAR DOES NOT MOVE, REQUIRES…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2021",
+     "sub": "“Automatic Emergency braking has gone off twice in 1 month on it's own. No car in front of…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“I have been experiencing an issue with the auto stop/start function that kicks in when…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“Check engine warnings 2 times with less than 4300 miles on the car. First one, called a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2024",
+     "sub": "“The contact owns a 2024 Hyundai Tucson. The contact stated while driving approximately 60…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2021",
+     "sub": "“The infotainment system has bubbles, and it interferes with touch screen process. I have…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“My crv is roasting a problem related to the steering (guide/steering wheel) to what many…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“My 2021 Camry XLE Hybrid spontaneously developed a crack in the windshield. It reaches…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2022",
+     "sub": "“I was stopped at a red light in a very light rain with intermittent wipers going. Engine…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2024",
+     "sub": "“I own a 2024 Mitsubishi Outlander that I purchased new on December 21, 2024. Since…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2022",
+     "sub": "“2021 HYUNDAI SANTA FE. CONSUMER WRITES IN REGARD TO NHTSA SAFETY RECALL INVOLVING THE 8…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“I bought this car a couple of years ago. I didnt think much of it because I never owned a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2024",
+     "sub": "“While driving on the road at the posted speed limit (55 mph), I heard a gunshot-like…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“Fuel injectors failed while driving on parkway. Car lost power(would not go over 25mph)…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mazda CX-5 2021",
+     "sub": "“I have an oil consumption on my cx-5 turbo. Have to add 1/2-3/4 quart 4k after service…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“To Whom It May Concern, I am filing a formal safety complaint regarding my 2021 Kia…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“We bought a 2021 Kia Seltos new from Spitzer Kia Cleveland (June 2020) and kept up with…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2022",
+     "sub": "“My Toyota vehicle has a recurring HVAC/air conditioning odor problem that produces a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Camry 2021",
+     "sub": "“The contact owns a 2021 Toyota Camry. The contact stated while the vehicle was being…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Sportage 2022",
+     "sub": "“I purchased my 2022 Kia Sportage on September 15, 2021. In February 2022, there was a…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“Brand/Model: Bridgestone Alenza AS Ultra Size: 235/60R17 DOT Code: 1W281AAU11925,…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda Civic 2022",
+     "sub": "“Sticky steering wheel. At first it wasnt happening alot but but its getting very…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2021",
+     "sub": "“I have a 2021 Honda Cr-v with 24,203 miles on my vehicle as of today oct.21 2024. I i…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Mitsubishi Outlander 2022",
+     "sub": "“Cameras fail to work with the camera button or when vehicle is in reverse which causes…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“Sticky steering at normal driving speed going straight. Slight resistance to make…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“On June 5, 2025, Kia replaced a recalled part on my vehicle related to the engine —…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2022",
+     "sub": "“The engine stopped working. Happened already 4th time and on the fourth time I was…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“I was driving in Houston and I tried to turn left to avoid someone hitting me from the…”",
+     "lines": [
+      "va chạm"
+     ]
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2024",
+     "sub": "“Junction box malfunction. This part is available for inspection upon request. My safety…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Santa Fe 2023",
+     "sub": "“This same scenario has happened 3 times since I purchased this vehicle - first event at…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2022",
+     "sub": "“When driving 25-45 mph on winding roads, the front right tire feels like it's grabbing…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Toyota Corolla Cross 2023",
+     "sub": "“Vehicle displayed a “power brake loss” on the 2023 Corolla Cross Hybrid instrument…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2021",
+     "sub": "“On 01/04/26, my vehicle’s Check Engine light came on and the engine was shaking. The next…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Hyundai Tucson 2022",
+     "sub": "“This is the 3rd time that my 2yr old Tuscon failed and had to be towed in a 4 month…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Honda CR-V 2023",
+     "sub": "“I was driving on a rainy day about 10 am. I was driving about 35 mph when the car…”",
+     "lines": null
+    },
+    {
+     "icon": "🚗",
+     "title": "Kia Seltos 2024",
+     "sub": "“Since November 2025, this vehicle has experienced repeated loss of power, severe shaking…”",
+     "lines": null
+    }
+   ],
+   "total": 1200,
+   "totalLabel": "đã đọc",
+   "unit": "khiếu nại",
+   "cols": 3,
+   "cardH": 230,
+   "credit": "Dữ liệu công khai của NHTSA (Mỹ), xe đời 2021–2024; khiếu nại do chủ xe tự gửi, chưa kiểm chứng"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · MỘT LẦN GỌI, NĂM CÂU",
+   "title": "Đọc một lời phàn nàn",
+   "cookbook": "Parallel questions · Pre-parsed value extraction",
+   "idea": "Năm câu gộp một request. Số dặm thì Jev chỉ được chọn trong các số có sẵn trong bài, không tự gõ.",
+   "stateLines": [
+    "2022 Hyundai Tucson",
+    "“Car intermittently will loose power (shortly after commencement of driving). This will remedy itself by…”",
+    "Ứng viên số dặm: 3,000 miles"
+   ],
+   "questions": [
+    {
+     "name": "system",
+     "kind": "Choice",
+     "text": "Hệ thống nào bị lỗi?"
+    },
+    {
+     "name": "severity",
+     "kind": "Score",
+     "text": "Nguy hiểm đến mức nào?"
+    },
+    {
+     "name": "moving",
+     "kind": "Noul",
+     "text": "Xảy ra khi đang chạy?"
+    },
+    {
+     "name": "unfixed",
+     "kind": "Noul",
+     "text": "Sửa rồi vẫn bị?"
+    },
+    {
+     "name": "mileage",
+     "kind": "Choice",
+     "text": "Số dặm lúc gặp lỗi?"
+    }
+   ],
+   "results": [
+    {
+     "name": "system",
+     "value": "Động cơ, hộp số"
+    },
+    {
+     "name": "severity",
+     "value": "2,99/4",
+     "tone": "bad"
+    },
+    {
+     "name": "moving",
+     "value": "có: 86%",
+     "tone": "warn"
+    },
+    {
+     "name": "unfixed",
+     "value": "có: 7%",
+     "tone": "muted"
+    },
+    {
+     "name": "mileage",
+     "value": "3.000 miles ≈ 4.827 km",
+     "tone": "good"
+    }
+   ]
+  },
+  {
+   "type": "label",
+   "key": "label",
+   "step": "BƯỚC 3 · XẾP VÀO CÂY LỖI",
+   "title": "Hệ thống trước, lỗi cụ thể sau",
+   "cookbook": "Hierarchical classification",
+   "examples": [
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Hyundai Santa Fe 2021",
+      "sub": "“It's only been less than a month, since I bought this car and I've driven ~500 miles. Now…”",
+      "lines": null
+     },
+     "answers": [
+      {
+       "q": "Phân loại",
+       "text": "Động cơ, hộp số › Chết máy",
+       "prob": 0.82
+      },
+      {
+       "q": "Nguy hiểm",
+       "text": "3,0/4",
+       "tone": "warn"
+      },
+      {
+       "q": "Đang chạy",
+       "text": "có",
+       "prob": 0.97
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Honda Civic 2021",
+      "sub": "“While accelerating on a multi-lane freeway, the dashboard speed suddenly indicated 0 MPH…”",
+      "lines": null
+     },
+     "answers": [
+      {
+       "q": "Phân loại",
+       "text": "Tay lái › Mất trợ lực lái",
+       "prob": 0.85
+      },
+      {
+       "q": "Nguy hiểm",
+       "text": "3,8/4",
+       "tone": "bad"
+      },
+      {
+       "q": "Đang chạy",
+       "text": "có",
+       "prob": 0.99
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Honda CR-V 2021",
+      "sub": "“The contact owns a 2021 Honda CR-V. The contact stated that while driving at an…”",
+      "lines": null
+     },
+     "answers": [
+      {
+       "q": "Phân loại",
+       "text": "Hỗ trợ lái › Tự phanh vô cớ",
+       "prob": 1.0
+      },
+      {
+       "q": "Nguy hiểm",
+       "text": "3,0/4",
+       "tone": "warn"
+      },
+      {
+       "q": "Đang chạy",
+       "text": "có",
+       "prob": 0.97
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Mazda CX-5 2021",
+      "sub": "“WE BOUGHT THE CAR NEW OFF THE MAZDA DEALERSHIP LOT YESTERDAY WITH 5 MILES ON THE ODO. AS…”",
+      "lines": null
+     },
+     "answers": [
+      {
+       "q": "Phân loại",
+       "text": "Phanh › (chưa chắc)",
+       "prob": 0.42
+      },
+      {
+       "q": "Nguy hiểm",
+       "text": "3,0/4",
+       "tone": "bad"
+      },
+      {
+       "q": "Đang chạy",
+       "text": "có",
+       "prob": 0.88
+      }
+     ]
+    }
+   ],
+   "tally": {
+    "title": "Hệ thống bị phàn nàn nhiều nhất",
+    "bars": [
+     {
+      "label": "Động cơ, hộp số",
+      "value": 380
+     },
+     {
+      "label": "Tay lái",
+      "value": 175
+     },
+     {
+      "label": "Thân, cửa, kính",
+      "value": 147
+     },
+     {
+      "label": "Điện",
+      "value": 116
+     },
+     {
+      "label": "Hỗ trợ lái",
+      "value": 93
+     }
+    ]
+   }
+  },
+  {
+   "type": "heat",
+   "key": "heat",
+   "step": "BƯỚC 4 · TỪNG DÒNG XE",
+   "title": "Mỗi dòng xe hay bị gì?",
+   "rows": [
+    "Toyota Camry",
+    "Toyota Corolla Cross",
+    "Honda CR-V",
+    "Honda Civic",
+    "Mazda CX-5",
+    "Hyundai Tucson",
+    "Hyundai Santa Fe",
+    "Kia Seltos",
+    "Kia Sportage",
+    "Mitsu. Outlander"
+   ],
+   "cols": [
+    "Máy",
+    "Lái",
+    "Thân",
+    "Điện",
+    "HTL",
+    "Túi khí",
+    "Phanh"
+   ],
+   "values": [
+    [
+     18,
+     0,
+     20,
+     7,
+     5,
+     28,
+     5
+    ],
+    [
+     46,
+     7,
+     9,
+     16,
+     5,
+     8,
+     5
+    ],
+    [
+     9,
+     51,
+     11,
+     2,
+     12,
+     1,
+     4
+    ],
+    [
+     1,
+     81,
+     2,
+     2,
+     8,
+     2,
+     2
+    ],
+    [
+     38,
+     2,
+     12,
+     17,
+     5,
+     2,
+     10
+    ],
+    [
+     39,
+     1,
+     8,
+     16,
+     11,
+     3,
+     4
+    ],
+    [
+     46,
+     0,
+     15,
+     10,
+     8,
+     1,
+     10
+    ],
+    [
+     77,
+     1,
+     5,
+     6,
+     4,
+     2,
+     0
+    ],
+    [
+     32,
+     1,
+     16,
+     14,
+     8,
+     4,
+     9
+    ],
+    [
+     11,
+     3,
+     25,
+     8,
+     12,
+     6,
+     5
+    ]
+   ],
+   "highlight": [
+    [
+     0,
+     5
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     1
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     7,
+     0
+    ],
+    [
+     8,
+     0
+    ],
+    [
+     9,
+     2
+    ]
+   ],
+   "legend": "% khiếu nại của mỗi dòng xe rơi vào từng hệ thống (HTL: hỗ trợ lái). Ô viền vàng: nhiều nhất"
+  },
+  {
+   "type": "bars",
+   "key": "bars",
+   "step": "BƯỚC 5 · LỖI CỤ THỂ",
+   "title": "Top lỗi bị kể nhiều nhất",
+   "bars": [
+    {
+     "label": "Chết máy",
+     "value": 111,
+     "text": "111 lần",
+     "tone": "bad"
+    },
+    {
+     "label": "Hụt ga, ì máy",
+     "value": 96,
+     "text": "96 lần",
+     "tone": "bad"
+    },
+    {
+     "label": "Mất trợ lực lái",
+     "value": 86,
+     "text": "86 lần",
+     "tone": "bad"
+    },
+    {
+     "label": "Cửa, kính, cửa sổ trời",
+     "value": 51,
+     "text": "51 lần",
+     "tone": "jev"
+    },
+    {
+     "label": "Dầu máy lẫn xăng",
+     "value": 42,
+     "text": "42 lần",
+     "tone": "jev"
+    },
+    {
+     "label": "Tự phanh vô cớ",
+     "value": 39,
+     "text": "39 lần",
+     "tone": "jev"
+    },
+    {
+     "label": "Đèn hỏng",
+     "value": 38,
+     "text": "38 lần",
+     "tone": "jev"
+    },
+    {
+     "label": "Túi khí không bung",
+     "value": 31,
+     "text": "31 lần",
+     "tone": "jev"
+    }
+   ],
+   "note": "Chỉ tính 804 khiếu nại Jev chắc chắn về lỗi cụ thể (confidence từ 0,6)"
+  },
+  {
+   "type": "judge",
+   "key": "judge",
+   "step": "BƯỚC 6 · PHÂN LOẠI MỨC ĐỘ",
+   "title": "Cái nào cần xử lý trước?",
+   "cookbook": "Ngưỡng hành động kiểu Guardrails",
+   "items": [
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Kia Seltos 2021",
+      "sub": "“CAR HAS 3000 MILES,CAR HAD BEEN SURGING WHEN ACCELERATING, IT REVVED UP WHEN IN DRIVE,…”",
+      "lines": null
+     },
+     "pass": false,
+     "stamp": "ƯU TIÊN",
+     "metrics": [
+      {
+       "label": "Nguy hiểm",
+       "value": 0.825,
+       "text": "3,3/4",
+       "tone": "bad"
+      },
+      {
+       "label": "Đang chạy",
+       "value": 0.97,
+       "text": "97%",
+       "tone": "warn"
+      },
+      {
+       "label": "Sửa vẫn bị",
+       "value": 0.9,
+       "text": "90%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Mazda CX-5 2021",
+      "sub": "“My check oil light has come on 3 times in between my first and 2nd oil changes. Added a…”",
+      "lines": null
+     },
+     "pass": true,
+     "stamp": "THEO DÕI",
+     "metrics": [
+      {
+       "label": "Nguy hiểm",
+       "value": 0.47,
+       "text": "1,9/4",
+       "tone": "bad"
+      },
+      {
+       "label": "Đang chạy",
+       "value": 0.33,
+       "text": "33%",
+       "tone": "warn"
+      },
+      {
+       "label": "Sửa vẫn bị",
+       "value": 0.15,
+       "text": "15%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Mitsubishi Outlander 2022",
+      "sub": "“My problem is the flapping of the hood of my vehicle, this happens on the highway and in…”",
+      "lines": null
+     },
+     "pass": true,
+     "stamp": "XEM XÉT",
+     "metrics": [
+      {
+       "label": "Nguy hiểm",
+       "value": 0.7475,
+       "text": "3,0/4",
+       "tone": "bad"
+      },
+      {
+       "label": "Đang chạy",
+       "value": 0.98,
+       "text": "98%",
+       "tone": "warn"
+      },
+      {
+       "label": "Sửa vẫn bị",
+       "value": 0.97,
+       "text": "97%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Mitsubishi Outlander 2022",
+      "sub": "“Following a car they stopped all of a sudden collision warning did not activate and did…”",
+      "lines": null
+     },
+     "pass": false,
+     "stamp": "ƯU TIÊN",
+     "metrics": [
+      {
+       "label": "Nguy hiểm",
+       "value": 0.96,
+       "text": "3,8/4",
+       "tone": "bad"
+      },
+      {
+       "label": "Đang chạy",
+       "value": 0.89,
+       "text": "89%",
+       "tone": "warn"
+      },
+      {
+       "label": "Sửa vẫn bị",
+       "value": 0.05,
+       "text": "5%",
+       "tone": "muted"
+      }
+     ]
+    },
+    {
+     "card": {
+      "icon": "🚗",
+      "title": "Honda Civic 2022",
+      "sub": "“notchy or sticking of steering wheel when driving and low or highway speeds. Less than…”",
+      "lines": null
+     },
+     "pass": true,
+     "stamp": "XEM XÉT",
+     "metrics": [
+      {
+       "label": "Nguy hiểm",
+       "value": 0.685,
+       "text": "2,7/4",
+       "tone": "bad"
+      },
+      {
+       "label": "Đang chạy",
+       "value": 0.96,
+       "text": "96%",
+       "tone": "warn"
+      },
+      {
+       "label": "Sửa vẫn bị",
+       "value": 0.04,
+       "text": "4%",
+       "tone": "muted"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "key": "km",
+   "step": "BƯỚC 7 · LỖI XUẤT HIỆN KHI NÀO?",
+   "title": "Đi bao nhiêu km thì gặp lỗi?",
+   "cookbook": "Pre-parsed value extraction",
+   "bars": [
+    {
+     "label": "Thân, cửa, kính",
+     "value": 10458.5,
+     "text": "10k km",
+     "tone": "jev"
+    },
+    {
+     "label": "Tay lái",
+     "value": 15008.752,
+     "text": "15k km",
+     "tone": "jev"
+    },
+    {
+     "label": "Phanh",
+     "value": 15285.5,
+     "text": "15k km",
+     "tone": "jev"
+    },
+    {
+     "label": "Động cơ, hộp số",
+     "value": 39137.316,
+     "text": "39k km",
+     "tone": "jev"
+    },
+    {
+     "label": "Điện",
+     "value": 49879.0,
+     "text": "50k km",
+     "tone": "jev"
+    }
+   ],
+   "note": "Trung vị, từ 162 khiếu nại có ghi số dặm; Jev chọn đúng con số trong bài, không tự gõ"
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "Nhiều nhất: Chết máy",
+   "tagline": "Tiếp theo là hụt ga, ì máy và mất trợ lực lái. 65% sự cố xảy ra khi xe đang chạy.",
+   "stats": [
+    {
+     "value": "1.200",
+     "label": "khiếu nại đã đọc"
+    },
+    {
+     "value": "87%",
+     "label": "khớp nhãn bộ phận của NHTSA"
+    },
+    {
+     "value": "0,08 USD",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [],
+   "gridTitle": "Lỗi hay gặp nhất của từng dòng",
+   "gridCols": 1,
+   "grid": [
+    {
+     "label": "Toyota Camry",
+     "value": "Túi khí không bung"
+    },
+    {
+     "label": "Corolla Cross",
+     "value": "Chết máy"
+    },
+    {
+     "label": "Honda CR-V",
+     "value": "Mất trợ lực lái"
+    },
+    {
+     "label": "Honda Civic",
+     "value": "Mất trợ lực lái"
+    },
+    {
+     "label": "Mazda CX-5",
+     "value": "Dầu máy lẫn xăng"
+    },
+    {
+     "label": "Hyundai Tucson",
+     "value": "Hụt ga, ì máy"
+    },
+    {
+     "label": "Hyundai Santa Fe",
+     "value": "Hụt ga, ì máy"
+    },
+    {
+     "label": "Kia Seltos",
+     "value": "Chết máy"
+    },
+    {
+     "label": "Kia Sportage",
+     "value": "Chết máy"
+    },
+    {
+     "label": "Mitsu. Outlander",
+     "value": "Camera lùi hỏng"
+    }
+   ],
+   "footnote": "Khiếu nại ở Mỹ, do chủ xe tự gửi, chưa kiểm chứng; dòng bán chạy thì nhiều khiếu nại hơn. Đây không phải bảng xếp hạng độ bền."
+  }
+ ]
+}

@@ -1,0 +1,1116 @@
+{
+ "slug": "tuyen-dung",
+ "title": "Năm 2026, công ty tuyển dev đòi gì?",
+ "accent": "#0ea5e9",
+ "scenes": [
+  {
+   "type": "intro",
+   "key": "intro",
+   "kicker": "THÍ NGHIỆM VỚI JEV · VIỆC LÀM 2026",
+   "headline": "Cứ 1 tin tuyển dev, có 2 người tìm việc",
+   "sub": "10.035 tin tuyển dụng và hồ sơ tìm việc trên Hacker News trong 13 tháng. AI đọc từng cái"
+  },
+  {
+   "type": "scan",
+   "key": "scan",
+   "step": "BƯỚC 1 · DỮ LIỆU THẬT",
+   "title": "Tin tuyển và hồ sơ tìm việc",
+   "cards": [
+    {
+     "icon": "💼",
+     "title": "Matterhaul | Founding Applied AI + Founding Infrastructure Engineer | …",
+     "sub": "Tuyển dụng · 07/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Oscilar.com | Sr/Staff Software Engineers, PM, Data Analyst | REMOTE (…",
+     "sub": "Tuyển dụng · 05/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "AxisCare | Senior + Mid-Level Software Engineers | Remote (US/Canada, …",
+     "sub": "Tuyển dụng · 05/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Bengaluru, India",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Office Hours | Software Engineer, Senior/Staff Software Engineer | SF,…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Silicon Valley / San Francisco Bay Area (CA) USA, NYC (PST, …",
+     "sub": "Tìm việc · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Berlin, Germany",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Jakarta, Indonesia",
+     "sub": "Tìm việc · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Digital Health Strategies | Full Stack Product Engineer (Ruby, JavaScr…",
+     "sub": "Tuyển dụng · 11/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "I've been working on production-grade AWS deployments for over 10 year…",
+     "sub": "Tìm việc · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Tuza | Product Engineer & AI Engineer | Shoreditch, London | Onsite 3 …",
+     "sub": "Tuyển dụng · 08/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Porto, Portugal",
+     "sub": "Tìm việc · 11/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "On Time Bride | Remote, Toronto Area | Founding Engineer | NodeJS",
+     "sub": "Tuyển dụng · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Los Angeles, California",
+     "sub": "Tìm việc · 05/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Netherlands",
+     "sub": "Tìm việc · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: India",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Melbourne, Australia Remote: Yes. Willing to relocate: Maybe…",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Canada",
+     "sub": "Tìm việc · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Bangladesh",
+     "sub": "Tìm việc · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Orlando, FL Remote: Yes, or in-office",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Poland, Europe",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Portless | AI Engineer | REMOTE (North America only) | Full-time | $18…",
+     "sub": "Tuyển dụng · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "ALBERT | REMOTE ALMOST ANYWHERE IN THE WORLD| Hiring principal and dis…",
+     "sub": "Tuyển dụng · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Hyderabad, India",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: France",
+     "sub": "Tìm việc · 03/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Innsbruck, Austria",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Bali, Indonesia (GMT+8)",
+     "sub": "Tìm việc · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: SF Bay Area",
+     "sub": "Tìm việc · 05/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: DFW Texas, US",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Quantum Rise | Chicago or NYC (preferred), Remote for the right candid…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "SEEKING WORK",
+     "sub": "Tìm việc · 12/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "YCharts | Software Engineer - Applied AI | Full-Time | REMOTE (US) | 1…",
+     "sub": "Tuyển dụng · 12/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "PostHog | Full-Time | Product engineers, backend engineers, Technical …",
+     "sub": "Tuyển dụng · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Uncountable | NY, SF, London & Munich (In-Person) | Full-Stack Enginee…",
+     "sub": "Tuyển dụng · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Prior Labs | Berlin, Freiburg, NYC | ONSITE | Full-time | ML Infra, Re…",
+     "sub": "Tuyển dụng · 09/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Beautiful.ai | Full-Time | Remote in US & CAN | SaaS B2B Presentation …",
+     "sub": "Tuyển dụng · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Karachi, Pakistan",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Root Sustainability | AI / ML Engineer, Senior UX/UI Designer | REMOTE…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Focused.io is hiring Agent Engineers & OTel / o11y experts in Denver, …",
+     "sub": "Tuyển dụng · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: San Francisco, CA",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: United States",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Maracaibo, Venezuela",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: New Brunswick, Canada",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "I have 13 years of experience, most of it on Corporate sized companies…",
+     "sub": "Tìm việc · 12/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "E2B |  Engineers (Distributed Systems, AI, Product, Security, DevRel),…",
+     "sub": "Tuyển dụng · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Georgia",
+     "sub": "Tìm việc · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Türkiye (GMT+3)",
+     "sub": "Tìm việc · 05/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Mexico",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Stockholm, Sweden",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Chicago, IL (CST)",
+     "sub": "Tìm việc · 10/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Senior Backend/Full Stack Engineer | Team Lead",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Rio de Janeiro, Brazil",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Orlando, FL",
+     "sub": "Tìm việc · 04/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "KoBold Metals | Remote (USA) | Full-time | Senior Infrastructure Engin…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Denver, Colorado (CO)",
+     "sub": "Tìm việc · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Baltimore, MD",
+     "sub": "Tìm việc · 03/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Abu Dhabi, UAE (UTC+4) - Significant US Morning Overlap",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Menlo Park, CA",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Edinburgh, UK",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Bay Area, CA, USA",
+     "sub": "Tìm việc · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Seattle, WA",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Portugal (GMT-0)",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Remote (IST timezone, flexible hours for US/EU overlap)",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Currently in Corvallis, OR. JUST GRADUATED, LETS GOOOOOOOOO",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Kenya",
+     "sub": "Tìm việc · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: US, New York City area",
+     "sub": "Tìm việc · 03/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Fort Collins, CO, USA",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Jakarta, Indonesia",
+     "sub": "Tìm việc · 11/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "SEEKING WORK | San Francisco, CA | REMOTE Location: San Francisco, CA …",
+     "sub": "Tìm việc · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Portland, OR, USA ",
+     "sub": "Tìm việc · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Kuala Lumpur, Malaysia",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "# Memorang (Vercel + Shopify for EdTech) | Full-Time | Remote",
+     "sub": "Tuyển dụng · 11/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Taipei, Taiwan",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Pelairo Inc. | Senior Full Stack Developer | REMOTE (US Only) | Full-t…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Berlin, Germany",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Austin, Texas",
+     "sub": "Tìm việc · 03/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location : New Jersey, USA",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Chicago, IL (also Denver)",
+     "sub": "Tìm việc · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: California, USA",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: 15444 Admiralty Cir, Apt 6 North Fort Myers, FL 33917",
+     "sub": "Tìm việc · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Lyon, France",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: United States",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Philadelphia, PA",
+     "sub": "Tìm việc · 11/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "SEEKING WORK: EU, Remote Worldwide",
+     "sub": "Tìm việc · 05/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: London, UK",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "SpruceID (YC W21) | REMOTE (US-Based Preferred) | Full-Time | spruceid…",
+     "sub": "Tuyển dụng · 11/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: North NJ/NYC Metro area",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Aracaju, Brazil",
+     "sub": "Tìm việc · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Jakarta, Indonesia",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "LabAMI | Full-Stack Engineer | Remote (US) | Equity Only | https://lab…",
+     "sub": "Tuyển dụng · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Porto, Portugal",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "JUPUS | Engineering Manager, Applied AI | REMOTE (CET ±2) | Full-time …",
+     "sub": "Tuyển dụng · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Zeven | Senior Backend Developer | ONSITE in Zurich (Switzerland) | Fu…",
+     "sub": "Tuyển dụng · 12/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "CivAI | Onsite (Berkeley) | Full Time | https://civai.org/",
+     "sub": "Tuyển dụng · 04/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Pango | Founding Full-stack Software Engineer | On-site (hybrid) in St…",
+     "sub": "Tuyển dụng · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Poznań, Poland",
+     "sub": "Tìm việc · 11/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "CivTiq | Lead SWE | ON SITE TORONTO | $130,000 – $210,000 CAD | FOUNDE…",
+     "sub": "Tuyển dụng · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Blacksburg, VA, USA",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Germany, Rhine-Main Metropolitan Region",
+     "sub": "Tìm việc · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "CredCore | Engineering | Full-time | Remote/Onsite | www.credcore.com",
+     "sub": "Tuyển dụng · 10/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Honey Homes | Early Engineer (Full-Stack / AI) | REMOTE (US) | Full-ti…",
+     "sub": "Tuyển dụng · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Rochester, NY",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "VIVA Finance | Atlanta, GA (In Person)| Back-end Software Engineer",
+     "sub": "Tuyển dụng · 02/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Senior engineer with experience at a trading firm and at a FAANG.",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Zurich / Switzerland",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Black Hills Information Security | Senior DevOps Engineer | REMOTE",
+     "sub": "Tuyển dụng · 11/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Authorium | Full-Stack Engineer (Mid & Senior) | San Francisco, CA | O…",
+     "sub": "Tuyển dụng · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "SEEKING WORK | Remote | Serving AU, NZ, APAC & US West Coast. Synchron…",
+     "sub": "Tìm việc · 05/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Featurebase | Full-stack Product Engineer + Product Support Lead | REM…",
+     "sub": "Tuyển dụng · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "ResortPass | Senior Software Engineer, Frontend | New York, NY | Onsit…",
+     "sub": "Tuyển dụng · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: UK",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Reykjavik area, Iceland",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Squint | Onsite, San Francisco | Squint is the leading manufacturing i…",
+     "sub": "Tuyển dụng · 01/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Paris, France / US",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Reframe Systems | Boston, MA | ONSITE or HYBRID | Full-time",
+     "sub": "Tuyển dụng · 09/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Addepar is hiring a Software Engineering Manager for our New Workflow …",
+     "sub": "Tuyển dụng · 05/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Rainbow Insurance (https://www.userainbow.com) | Backend Software Engi…",
+     "sub": "Tuyển dụng · 04/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Modal | Software Engineers (Product, System, SDK) | SF, NYC (ONSITE) |…",
+     "sub": "Tuyển dụng · 06/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Cologne, Germany | UMH | Product Engineer | Full-time | 55 - 85k EUR |…",
+     "sub": "Tuyển dụng · 09/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "SpendAi | Seattle, WA | ONSITE | Senior Software Engineer | Engineer #…",
+     "sub": "Tuyển dụng · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "DeepL | Software Engineer / Senior Software Engineer / Sr. Staff Softw…",
+     "sub": "Tuyển dụng · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: California, USA | Remote: Yes | Willing to relocate: maybe",
+     "sub": "Tìm việc · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Lecco, Italy (CEST/CET)",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Jahia | Full-Time | Remote France | SaaS B2B CMS Software Editor |",
+     "sub": "Tuyển dụng · 03/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Pepr AI | pepr.ai | Onsite in San Francisco | Full-time | Multiple rol…",
+     "sub": "Tuyển dụng · 02/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "HomeVision | Multiple Roles - Eng, SRE, Analytics | Hybrid SF & Remote…",
+     "sub": "Tuyển dụng · 12/2025"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Hungary",
+     "sub": "Tìm việc · 01/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Relevant Healthcare | Lead Engineer | Remote (US/Canada only) | Full-t…",
+     "sub": "Tuyển dụng · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: San Francisco, CA",
+     "sub": "Tìm việc · 06/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: San Francisco, CA",
+     "sub": "Tìm việc · 11/2025"
+    },
+    {
+     "icon": "💼",
+     "title": "Friendly Captcha | Developer Relations | PART-TIME or FULL-TIME | Muni…",
+     "sub": "Tuyển dụng · 07/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Tennessee, US",
+     "sub": "Tìm việc · 10/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Stream | Multiple Positions | Amsterdam (NL), Skopje (North Macedonia)…",
+     "sub": "Tuyển dụng · 02/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "JotPsych (behavioral-health AI software) | Chief of Staff | New York, …",
+     "sub": "Tuyển dụng · 08/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Rootly | https://rootly.com/ | design, engineering, GTM, sales | SF Ba…",
+     "sub": "Tuyển dụng · 10/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Chicago, IL / San Francisco, CA",
+     "sub": "Tìm việc · 07/2026"
+    },
+    {
+     "icon": "💼",
+     "title": "Deya | Software Engineer (AI x Healthcare) | NYC (Hybrid) | Full-Time",
+     "sub": "Tuyển dụng · 04/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Location: Gulfport, MS",
+     "sub": "Tìm việc · 09/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "For folks still mid-search: I shipped a tiny tool that rewrites your r…",
+     "sub": "Tìm việc · 08/2026"
+    },
+    {
+     "icon": "🙋",
+     "title": "Seeking work | Data Analyst / Product Data Analyst / Energy Data Analy…",
+     "sub": "Tìm việc · 02/2026"
+    }
+   ],
+   "total": 10035,
+   "totalLabel": "đã đọc",
+   "unit": "bài",
+   "cols": 3,
+   "cardH": 170,
+   "credit": "Chuỗi bài hằng tháng \"Who is hiring\" và \"Who wants to be hired\" trên Hacker News, 10/2025–10/2026"
+  },
+  {
+   "type": "technique",
+   "key": "technique",
+   "step": "BƯỚC 2 · MỘT LẦN GỌI, TÁM CÂU",
+   "title": "Đọc một tin tuyển dụng",
+   "cookbook": "Parallel questions · Pre-parsed value extraction",
+   "idea": "Lương thì Jev chỉ được chọn trong các con số có sẵn trong tin, không tự gõ.",
+   "stateLines": [
+    "Hestus | Machine Learning Engineer (Python, ML) | Peninsula (Onsite) | Full-time | $130k–$",
+    "Ứng viên lương: $130k–$170k"
+   ],
+   "questions": [
+    {
+     "name": "role",
+     "kind": "Choice",
+     "text": "Tuyển vị trí gì?"
+    },
+    {
+     "name": "remote",
+     "kind": "Choice",
+     "text": "Từ xa, hybrid hay tại chỗ?"
+    },
+    {
+     "name": "ai_skill",
+     "kind": "Noul",
+     "text": "Có đòi kinh nghiệm AI?"
+    },
+    {
+     "name": "visa",
+     "kind": "Noul",
+     "text": "Có bảo lãnh visa?"
+    },
+    {
+     "name": "salary_low",
+     "kind": "Choice",
+     "text": "Lương thấp nhất?"
+    },
+    {
+     "name": "salary_high",
+     "kind": "Choice",
+     "text": "Lương cao nhất?"
+    }
+   ],
+   "results": [
+    {
+     "name": "role",
+     "value": "ML / AI"
+    },
+    {
+     "name": "remote",
+     "value": "onsite"
+    },
+    {
+     "name": "ai_skill",
+     "value": "có: 97%",
+     "tone": "warn"
+    },
+    {
+     "name": "visa",
+     "value": "có: 4%",
+     "tone": "muted"
+    },
+    {
+     "name": "salary",
+     "value": "130k $ – 170k $",
+     "tone": "good"
+    }
+   ],
+   "footer": "+ 2 câu nữa: khu vực và cấp bậc"
+  },
+  {
+   "type": "columns",
+   "key": "ratio",
+   "step": "BƯỚC 3 · CUNG VÀ CẦU",
+   "title": "Người tìm việc trên 100 tin tuyển",
+   "cols": [
+    {
+     "label": "10",
+     "value": 104,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "11",
+     "value": 106,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "12",
+     "value": 107,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "01",
+     "value": 154,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "02",
+     "value": 130,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "03",
+     "value": 129,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "04",
+     "value": 117,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "05",
+     "value": 162,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "06",
+     "value": 176,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "07",
+     "value": 190,
+     "color": "#0ea5e9",
+     "highlight": false
+    },
+    {
+     "label": "08",
+     "value": 242,
+     "color": "#0ea5e9",
+     "highlight": true
+    },
+    {
+     "label": "09",
+     "value": 218,
+     "color": "#0ea5e9",
+     "highlight": false
+    }
+   ],
+   "note": "Tháng 10/2025: 104 người / 100 tin. Tháng 09/2026: 218. Nhãn là tháng (10 = 10/2025 … 09 = 9/2026)."
+  },
+  {
+   "type": "bars",
+   "key": "remote",
+   "step": "BƯỚC 4 · LÀM TỪ XA",
+   "title": "Ai cũng muốn từ xa, tin thì không",
+   "bars": [
+    {
+     "label": "Người tìm việc muốn từ xa",
+     "value": 0.9457309528018384,
+     "text": "95%",
+     "tone": "warn"
+    },
+    {
+     "label": "Tin cho làm từ xa hẳn",
+     "value": 0.46205597416576966,
+     "text": "46%",
+     "tone": "good"
+    },
+    {
+     "label": "Tin hybrid",
+     "value": 0.2395048439181916,
+     "text": "24%",
+     "tone": "jev"
+    },
+    {
+     "label": "Tin chỉ tại chỗ",
+     "value": 0.2271259418729817,
+     "text": "23%",
+     "tone": "bad"
+    }
+   ],
+   "note": "Chỉ tính bài có nhãn chắc chắn từ 0,6."
+  },
+  {
+   "type": "heat",
+   "key": "roles",
+   "step": "BƯỚC 5 · VỊ TRÍ",
+   "title": "Tuyển gì và ai đang tìm",
+   "rows": [
+    "Full-stack",
+    "Backend",
+    "ML / AI",
+    "DevOps, hạ tầng",
+    "Frontend",
+    "Data",
+    "Quản lý kỹ thuật",
+    "Sản phẩm, thiết kế"
+   ],
+   "cols": [
+    "Tin tuyển",
+    "Tìm việc"
+   ],
+   "values": [
+    [
+     25,
+     34
+    ],
+    [
+     13,
+     18
+    ],
+    [
+     11,
+     11
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "highlight": [
+    [
+     2,
+     0
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "legend": "% số bài thuộc từng vị trí. Cột trái: tin tuyển, cột phải: hồ sơ tìm việc."
+  },
+  {
+   "type": "bars",
+   "key": "pay",
+   "step": "BƯỚC 6 · LƯƠNG",
+   "title": "Lương trung vị theo vị trí",
+   "bars": [
+    {
+     "label": "Quản lý kỹ thuật",
+     "value": 195000.0,
+     "text": "195k $",
+     "sub": "27 tin",
+     "tone": "good"
+    },
+    {
+     "label": "DevOps, hạ tầng",
+     "value": 192000.0,
+     "text": "192k $",
+     "sub": "51 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "ML / AI",
+     "value": 190000.0,
+     "text": "190k $",
+     "sub": "91 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Backend",
+     "value": 175000.0,
+     "text": "175k $",
+     "sub": "129 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Full-stack",
+     "value": 175000.0,
+     "text": "175k $",
+     "sub": "276 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Nhúng, phần cứng",
+     "value": 172500.0,
+     "text": "172k $",
+     "sub": "12 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Frontend",
+     "value": 170000.0,
+     "text": "170k $",
+     "sub": "13 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Data",
+     "value": 168750.0,
+     "text": "169k $",
+     "sub": "22 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Sản phẩm, thiết kế",
+     "value": 165000.0,
+     "text": "165k $",
+     "sub": "10 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Mobile",
+     "value": 163750.0,
+     "text": "164k $",
+     "sub": "10 tin",
+     "tone": "jev"
+    },
+    {
+     "label": "Bảo mật",
+     "value": 160000.0,
+     "text": "160k $",
+     "sub": "14 tin",
+     "tone": "jev"
+    }
+   ],
+   "note": "864 tin có lương bằng $, lấy điểm giữa khoảng lương. Trung vị chung 150k $ – 210k $."
+  },
+  {
+   "type": "bars",
+   "key": "ai",
+   "step": "BƯỚC 7 · AI",
+   "title": "AI có làm lương cao hơn?",
+   "bars": [
+    {
+     "label": "Hồ sơ tìm việc có AI",
+     "value": 0.47820343461030385,
+     "text": "48%",
+     "tone": "warn"
+    },
+    {
+     "label": "Công ty làm sản phẩm AI",
+     "value": 0.43830108067353607,
+     "text": "44%"
+    },
+    {
+     "label": "Tin đòi kinh nghiệm AI",
+     "value": 0.3103794923347575,
+     "text": "31%",
+     "tone": "good"
+    }
+   ],
+   "note": "Lương trung vị: tin đòi AI 185k $, tin không đòi 182k $. Gần như không chênh."
+  },
+  {
+   "type": "reveal",
+   "key": "reveal",
+   "kicker": "KẾT QUẢ",
+   "headline": "218 người cho 100 tin",
+   "tagline": "Từ 104 lên 218 trong một năm. Người tìm việc muốn làm từ xa, còn chưa tới một nửa số tin cho phép.",
+   "stats": [
+    {
+     "value": "3.979",
+     "label": "tin tuyển dụng"
+    },
+    {
+     "value": "6.056",
+     "label": "hồ sơ tìm việc"
+    },
+    {
+     "value": "0,53 USD",
+     "label": "tiền gọi Jev"
+    }
+   ],
+   "bullets": [
+    "Tin cho người mới: 2%, người mới đi tìm: 8%",
+    "Chỉ 3% tin bảo lãnh visa; 60% tin ở Mỹ",
+    "Trả cao nhất: Quản lý kỹ thuật 195k $"
+   ],
+   "footnote": "Hacker News nghiêng về startup công nghệ Mỹ; một người có thể đăng nhiều tháng. Không tính tháng 10/2026 khi so theo tháng."
+  }
+ ]
+}

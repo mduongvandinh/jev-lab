@@ -1,0 +1,233 @@
+{
+ "yc": 678,
+ "ai_core": 0.827,
+ "automates": 458,
+ "area": [
+  [
+   "ai_agents_automation",
+   144
+  ],
+  [
+   "devtools",
+   97
+  ],
+  [
+   "fintech",
+   77
+  ],
+  [
+   "vertical_saas",
+   71
+  ],
+  [
+   "robotics",
+   62
+  ],
+  [
+   "health",
+   46
+  ],
+  [
+   "defense_hardware",
+   37
+  ],
+  [
+   "security",
+   19
+  ],
+  [
+   "climate_energy",
+   14
+  ],
+  [
+   "consumer",
+   14
+  ],
+  [
+   "education",
+   3
+  ]
+ ],
+ "jobs": [
+  [
+   "data_analysis",
+   60
+  ],
+  [
+   "software_engineering",
+   56
+  ],
+  [
+   "manual_labor",
+   39
+  ],
+  [
+   "healthcare_admin",
+   23
+  ],
+  [
+   "sales",
+   22
+  ],
+  [
+   "accounting_finance",
+   21
+  ],
+  [
+   "legal",
+   17
+  ],
+  [
+   "customer_support",
+   12
+  ],
+  [
+   "recruiting_hr",
+   7
+  ]
+ ],
+ "sf": 0.721,
+ "team": 2.0,
+ "closures": 1269,
+ "companies": [
+  [
+   "Spirit Airlines",
+   45
+  ],
+  [
+   "Saks Global",
+   22
+  ],
+  [
+   "Eddie Bauer",
+   16
+  ],
+  [
+   "West Marine",
+   16
+  ],
+  [
+   "QVC",
+   13
+  ],
+  [
+   "LIV Golf",
+   13
+  ],
+  [
+   "Sleep Number",
+   12
+  ],
+  [
+   "Wren Kitchens",
+   11
+  ],
+  [
+   "Bitcoin Depot",
+   11
+  ],
+  [
+   "Wendy's",
+   11
+  ]
+ ],
+ "sector": [
+  [
+   "retail_ecommerce",
+   313
+  ],
+  [
+   "logistics_travel",
+   194
+  ],
+  [
+   "media_entertainment",
+   81
+  ],
+  [
+   "finance",
+   67
+  ],
+  [
+   "software_internet",
+   64
+  ],
+  [
+   "healthcare_pharma",
+   52
+  ],
+  [
+   "energy",
+   35
+  ],
+  [
+   "government_public",
+   22
+  ],
+  [
+   "telecom",
+   21
+  ],
+  [
+   "auto_manufacturing",
+   20
+  ],
+  [
+   "hardware_semis",
+   5
+  ],
+  [
+   "consulting_services",
+   2
+  ]
+ ],
+ "reason": [
+  [
+   "not_stated",
+   920
+  ],
+  [
+   "debt_cash",
+   105
+  ],
+  [
+   "fraud_legal",
+   58
+  ],
+  [
+   "funding",
+   24
+  ],
+  [
+   "weak_demand",
+   20
+  ],
+  [
+   "regulation",
+   19
+  ],
+  [
+   "acquired",
+   14
+  ],
+  [
+   "tariffs_costs",
+   14
+  ],
+  [
+   "competition",
+   11
+  ]
+ ],
+ "cost": {
+  "calls": 3004,
+  "input_tokens": 3323617,
+  "usd": 0.1396
+ },
+ "demo": {
+  "name": "Andco",
+  "oneLiner": "Agents that build personal injury cases",
+  "job": "legal",
+  "area": "vertical_saas"
+ }
+}

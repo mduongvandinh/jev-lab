@@ -1,0 +1,249 @@
+{
+ "rows": 273,
+ "channels_used": 35,
+ "all": 332,
+ "nchan": 37,
+ "base": 0.231,
+ "stats": [
+  {
+   "k": "product",
+   "n": 83,
+   "hit_on": 0.301,
+   "hit_off": 0.2,
+   "p": 0.0852
+  },
+  {
+   "k": "emotion",
+   "n": 67,
+   "hit_on": 0.299,
+   "hit_off": 0.209,
+   "p": 0.13
+  },
+  {
+   "k": "stakes",
+   "n": 58,
+   "hit_on": 0.293,
+   "hit_off": 0.214,
+   "p": 0.2152
+  },
+  {
+   "k": "number",
+   "n": 76,
+   "hit_on": 0.289,
+   "hit_off": 0.208,
+   "p": 0.1888
+  },
+  {
+   "k": "curiosity",
+   "n": 195,
+   "hit_on": 0.246,
+   "hit_off": 0.192,
+   "p": 0.4238
+  },
+  {
+   "k": "concrete",
+   "n": 111,
+   "hit_on": 0.243,
+   "hit_off": 0.222,
+   "p": 0.7824
+  },
+  {
+   "k": "negative",
+   "n": 119,
+   "hit_on": 0.218,
+   "hit_off": 0.24,
+   "p": 0.7716
+  },
+  {
+   "k": "personal",
+   "n": 48,
+   "hit_on": 0.208,
+   "hit_off": 0.236,
+   "p": 0.7176
+  },
+  {
+   "k": "explain",
+   "n": 140,
+   "hit_on": 0.207,
+   "hit_off": 0.256,
+   "p": 0.3908
+  },
+  {
+   "k": "question",
+   "n": 29,
+   "hit_on": 0.172,
+   "hit_off": 0.238,
+   "p": 0.4826
+  },
+  {
+   "k": "short",
+   "n": 96,
+   "hit_on": 0.167,
+   "hit_off": 0.266,
+   "p": 0.0606
+  }
+ ],
+ "chans": {
+  "Practical Engineering": [
+   60,
+   27,
+   27,
+   0,
+   40,
+   80,
+   0,
+   0
+  ],
+  "Wendover Productions": [
+   50,
+   21,
+   7,
+   0,
+   71,
+   93,
+   21,
+   0
+  ],
+  "Half as Interesting": [
+   100,
+   0,
+   21,
+   0,
+   57,
+   64,
+   36,
+   21
+  ],
+  "Two Minute Papers": [
+   93,
+   50,
+   29,
+   7,
+   50,
+   50,
+   71,
+   29
+  ],
+  "Yes Theory": [
+   100,
+   36,
+   29,
+   29,
+   57,
+   29,
+   0,
+   50
+  ],
+  "Computerphile": [
+   43,
+   0,
+   0,
+   0,
+   14,
+   79,
+   29,
+   14
+  ],
+  "Tom Scott": [
+   77,
+   15,
+   15,
+   62,
+   54,
+   23,
+   15,
+   31
+  ],
+  "MrBeast Gaming": [
+   85,
+   23,
+   31,
+   38,
+   31,
+   8,
+   23,
+   69
+  ],
+  "TED-Ed": [
+   31,
+   0,
+   8,
+   0,
+   38,
+   85,
+   0,
+   15
+  ]
+ },
+ "cost": {
+  "calls": 332,
+  "input_tokens": 296542,
+  "usd": 0.0125
+ },
+ "demo": {
+  "title": "I Built A City To Save Kids From Illegal Labor",
+  "curiosity": 3.47,
+  "emotion": 2.98,
+  "concrete": 3.39,
+  "stakes": 0.82,
+  "personal": 0.99,
+  "negative": 0.81,
+  "explain": 0.62,
+  "product": 0.04,
+  "format": "engineering_build"
+ },
+ "picks": {
+  "hi_hit": [
+   "SmarterEveryDay",
+   "Refueling a NUCLEAR REACTOR - Smarter Every Day 311",
+   5.55,
+   3.27
+  ],
+  "hi_flop": [
+   "ColdFusion",
+   "The Nuke That Almost Erased the US East Coast",
+   0.2,
+   3.67
+  ],
+  "lo_hit": [
+   "Wendover Productions",
+   "How the Channel Tunnel Works",
+   2.26,
+   1.51
+  ],
+  "lo_flop": [
+   "Computerphile",
+   "ITS, Eliza & MiT's AI Lab - Computerphile",
+   0.11,
+   1.58
+  ],
+  "mid": [
+   "Tom Scott",
+   "Can I get into the Top 100 of tiddlywinks in one day?",
+   1.0,
+   2.75
+  ]
+ },
+ "examples": [
+  [
+   "Computerphile",
+   "Why AI Tokens are so Expensive - Computerphile",
+   6.01
+  ],
+  [
+   "Yes Theory",
+   "Inside Pakistan’s Most Dangerous City (surreal)",
+   1.18
+  ],
+  [
+   "ThioJoe",
+   "They Lied About DLSS 5",
+   0.63
+  ],
+  [
+   "Computerphile",
+   "Recreating ITS - Computerphile",
+   0.11
+  ]
+ ]
+}
